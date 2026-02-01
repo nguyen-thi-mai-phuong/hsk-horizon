@@ -1,0 +1,3598 @@
+[
+  {
+    "hsk_level": 4,
+    "lesson_id": "L1",
+    "theme": {
+      "en": "Work Pressure",
+      "vi": "Áp lực công việc"
+    },
+    "characters": ["林芳 (Lín Fāng)"],
+    "story": [
+      {
+        "zh": "林芳最近的工作压力非常大，每天都要加班到深夜。",
+        "pinyin": "Lín Fāng zuìjìn de gōngzuò yālì fēicháng dà, měitiān dōu yào jiābān dào shēnyè.",
+        "en": "Lin Fang's work pressure has been very high lately; she has to work overtime until late every night.",
+        "vi": "Áp lực công việc của Lâm Phương dạo gần đây rất lớn, mỗi ngày đều phải tăng ca đến đêm muộn.",
+        "segments": [
+          {"id": "w1", "zh": "压力", "pinyin": "yālì"},
+          {"id": "w2", "zh": "加班", "pinyin": "jiābān"},
+          {"id": "w3", "zh": "深夜", "pinyin": "shēnyè"}
+        ]
+      },
+      {
+        "zh": "她觉得与其这样辛苦地坚持，不如换一个轻松点儿的环境。",
+        "pinyin": "Tā juéde yǔqí zhèyàng xīnkǔ de jiānchí, bùrú huàn yí gè qīngsōng diǎnr de huánjìng.",
+        "en": "She feels that rather than persisting so painfully like this, it would be better to change to a more relaxed environment.",
+        "vi": "Cô ấy cảm thấy thà rằng cứ kiên trì vất vả như thế này, chi bằng đổi sang một môi trường thoải mái hơn một chút.",
+        "segments": [
+          {"id": "w4", "zh": "与其", "pinyin": "yǔqí"},
+          {"id": "w5", "zh": "不如", "pinyin": "bùrú"},
+          {"id": "w6", "zh": "辛苦", "pinyin": "xīnkǔ"},
+          {"id": "w7", "zh": "坚持", "pinyin": "jiānchí"},
+          {"id": "w8", "zh": "轻松", "pinyin": "qīngsōng"}
+        ]
+      },
+      {
+        "zh": "但是，由于目前的竞争非常激烈，她还没做出最后的决定。",
+        "pinyin": "Dànshì, yóuyú mùqián de jìngzhēng fēicháng jīliè, tā hái méi zuò chū zuìhòu de juédìng.",
+        "en": "However, due to the current competition being very fierce, she hasn't made a final decision yet.",
+        "vi": "Nhưng mà, do sự cạnh tranh hiện tại rất khốc liệt, cô ấy vẫn chưa đưa ra quyết định cuối cùng.",
+        "segments": [
+          {"id": "w9", "zh": "由于", "pinyin": "yóuyú"},
+          {"id": "w10", "zh": "目前", "pinyin": "mùqián"},
+          {"id": "w11", "zh": "竞争", "pinyin": "jìngzhēng"},
+          {"id": "w12", "zh": "激烈", "pinyin": "jīliè"}
+        ]
+      }
+    ],
+    "grammar": [
+      {
+        "title": { "en": "Preference: yǔqí... bùrú...", "vi": "Thà... chi bằng / Thay vì... không bằng" },
+        "point": "This structure compares two choices, rejecting the first in favor of the second. Structure: 与其 [Option A], 不如 [Option B]. Option B is the preferred action.",
+        "hsk_ref": "中-高-与其(yǔqí) …… 不如(bùrú) ……"
+      }
+    ],
+    "vocabulary_inventory": [
+      {
+        "id": 1,
+        "zh": "压力",
+        "pinyin": "yālì",
+        "en": "pressure / stress",
+        "vi": "áp lực",
+        "hsk": 4,
+        "examples": [
+          { "zh": "工作压力让我受不了。", "en": "Work pressure is unbearable for me.", "vi": "Áp lực công việc khiến tôi không chịu nổi." }
+        ]
+      },
+      {
+        "id": 2,
+        "zh": "与其...不如...",
+        "pinyin": "yǔqí...bùrú...",
+        "en": "rather than... it's better to...",
+        "vi": "thà... chi bằng",
+        "hsk": 4,
+        "examples": [
+          { "zh": "与其坐车，不如走路去。", "en": "Rather than taking the bus, it's better to walk.", "vi": "Thà đi bộ còn hơn là ngồi xe." }
+        ]
+      },
+      {
+        "id": 3,
+        "zh": "激烈",
+        "pinyin": "jīliè",
+        "en": "intense / fierce",
+        "vi": "khốc liệt / quyết liệt",
+        "hsk": 4,
+        "examples": [
+          { "zh": "比赛非常激烈。", "en": "The competition is very fierce.", "vi": "Cuộc thi rất khốc liệt." }
+        ]
+      },
+      {
+        "id": 4,
+        "zh": "目前",
+        "pinyin": "mùqián",
+        "en": "at present / currently",
+        "vi": "hiện tại",
+        "hsk": 4,
+        "examples": [
+          { "zh": "目前情况很好。", "en": "At present, the situation is good.", "vi": "Hiện tại tình hình rất tốt." }
+        ]
+      }
+    ],
+    "practice": [
+      {
+        "question": { "en": "In '与其...不如...', which option is the one the speaker wants to do?", "vi": "Trong cấu trúc '与其...不如...', lựa chọn nào là điều người nói muốn làm?" },
+        "options": ["A. The first one (与其)", "B. The second one (不如)", "C. Both options", "D. Neither option"],
+        "answer": "B"
+      },
+      {
+        "question": { "en": "Translate 'fierce competition':", "vi": "Dịch cụm từ 'cạnh tranh khốc liệt':" },
+        "options": ["A. 辛苦竞争", "B. 深夜竞争", "C. 激烈竞争", "D. 简单竞争"],
+        "answer": "C"
+      },
+      {
+        "question": { "en": "What does '由于' mean?", "vi": "'由于' nghĩa là gì?" },
+        "options": ["A. But", "B. Due to / Because of", "C. Although", "D. Instead"],
+        "answer": "B"
+      }
+    ]
+  },
+  {
+    "hsk_level": 4,
+    "lesson_id": "L2",
+    "theme": {
+      "en": "Unexpected Surprises",
+      "vi": "Sự ngạc nhiên"
+    },
+    "characters": ["张伟 (Zhāng Wěi)", "林芳 (Lín Fāng)"],
+    "story": [
+      {
+        "zh": "张伟旅行回来，居然直接去公司找林芳。",
+        "pinyin": "Zhāng Wěi lǚxíng huílái, jūrán zhíjiē qù gōngsī zhǎo Lín Fāng.",
+        "en": "Zhang Wei came back from his trip and unexpectedly went straight to the company to find Lin Fang.",
+        "vi": "Trương Vĩ đi du lịch về, không ngờ lại đi thẳng đến công ty tìm Lâm Phương.",
+        "segments": [
+          {"id": "w1", "zh": "居然", "pinyin": "jūrán"},
+          {"id": "w2", "zh": "直接", "pinyin": "zhíjiē"}
+        ]
+      },
+      {
+        "zh": "他发现林芳竟然还在忙着写报告，甚至没发现他进来。",
+        "pinyin": "Tā fāxiàn Lín Fāng jìngrán hái mángzhe xiě bàogào, shènzhì méi fāxiàn tā jìnlái.",
+        "en": "He discovered that Lin Fang was surprisingly still busy writing a report, and even didn't notice him come in.",
+        "vi": "Anh ấy phát hiện ra Lâm Phương vậy mà vẫn đang bận viết báo cáo, thậm chí không nhận ra anh ấy đi vào.",
+        "segments": [
+          {"id": "w3", "zh": "竟然", "pinyin": "jìngrán"},
+          {"id": "w4", "zh": "甚至", "pinyin": "shènzhì"}
+        ]
+      },
+      {
+        "zh": "张伟开玩笑说：“你这么努力，难道想当公司的老板吗？”",
+        "pinyin": "Zhāng Wěi kāiwánxiào shuō: 'Nǐ zhème nǔlì, nándào xiǎng dāng gōngsī de lǎobǎn ma?'",
+        "en": "Zhang Wei joked: 'You are so hardworking, is it possible you want to be the boss of the company?'",
+        "vi": "Trương Vĩ nói đùa: 'Bạn nỗ lực như vậy, lẽ nào muốn làm ông chủ của công ty sao?'",
+        "segments": [
+          {"id": "w5", "zh": "难道", "pinyin": "nándào"},
+          {"id": "w6", "zh": "老板", "pinyin": "lǎobǎn"}
+        ]
+      }
+    ],
+    "grammar": [
+      {
+        "title": { "en": "Unexpectedness: jìngrán / jūrán", "vi": "Sự bất ngờ: jìngrán / jūrán" },
+        "point": "Both mean 'unexpectedly' or 'to one's surprise'. They are used to emphasize that something happened contrary to expectations. '居然' is often considered slightly more informal than '竟然'.",
+        "hsk_ref": "中-高-竟然(jìngrán) / 居然(jūrán)"
+      }
+    ],
+    "vocabulary_inventory": [
+      {
+        "id": 5,
+        "zh": "竟然",
+        "pinyin": "jìngrán",
+        "en": "unexpectedly / to one's surprise",
+        "vi": "vậy mà / không ngờ",
+        "hsk": 4,
+        "examples": [
+          { "zh": "这么简单的问题，他竟然不会。", "en": "Surprisingly, he doesn't know such a simple question.", "vi": "Câu hỏi đơn giản như vậy mà anh ấy lại không biết." }
+        ]
+      },
+      {
+        "id": 6,
+        "zh": "甚至",
+        "pinyin": "shènzhì",
+        "en": "even / so much so that",
+        "vi": "thậm chí",
+        "hsk": 4,
+        "examples": [
+          { "zh": "他忙得甚至忘了吃饭。", "en": "He was so busy that he even forgot to eat.", "vi": "Anh ấy bận đến mức thậm chí quên cả ăn cơm." }
+        ]
+      },
+      {
+        "id": 7,
+        "zh": "难道",
+        "pinyin": "nándào",
+        "en": "rhetorical marker (Could it be that...?)",
+        "vi": "lẽ nào / chẳng lẽ",
+        "hsk": 4,
+        "examples": [
+          { "zh": "难道你没听见我说的话吗？", "en": "Could it be that you didn't hear what I said?", "vi": "Chẳng lẽ bạn không nghe thấy lời tôi nói sao?" }
+        ]
+      }
+    ],
+    "practice": [
+      {
+        "question": { "en": "Which word is used for a rhetorical question?", "vi": "Từ nào được dùng cho câu hỏi tu từ?" },
+        "options": ["A. 竟然", "B. 难道", "C. 甚至", "D. 直接"],
+        "answer": "B"
+      },
+      {
+        "question": { "en": "Translate 'to one's surprise':", "vi": "Dịch từ 'không ngờ/vậy mà':" },
+        "options": ["A. 虽然", "B. 居然", "C. 压力", "D. 决定"],
+        "answer": "B"
+      }
+    ]
+  },
+  {
+    "hsk_level": 4,
+    "lesson_id": "L3",
+    "theme": {
+      "en": "Social Manners",
+      "vi": "Phép lịch sự"
+    },
+    "characters": ["林芳 (Lín Fāng)", "陈美 (Chén Měi)"],
+    "story": [
+      {
+        "zh": "林芳告诉陈美，在办公室一定要注意礼貌。",
+        "pinyin": "Lín Fāng gàosu Chén Měi, zài bàngōngshì yídìng yào zhùyì lǐmào.",
+        "en": "Lin Fang told Chen Mei that one must pay attention to politeness in the office.",
+        "vi": "Lâm Phương bảo Trần Mỹ rằng ở văn phòng nhất định phải chú ý lễ phép.",
+        "segments": [
+          {"id": "w1", "zh": "礼貌", "pinyin": "lǐmào"}
+        ]
+      },
+      {
+        "zh": "陈美点点头，由于她是新来的，所以表现得非常客气。",
+        "pinyin": "Chén Měi diǎn diǎn tóu, yóuyú tā shì xīn lái de, suǒyǐ biǎoxiàn de fēicháng kèqi.",
+        "en": "Chen Mei nodded; because she is a newcomer, she behaves very courteously.",
+        "vi": "Trần Mỹ gật đầu, vì cô ấy là người mới đến nên biểu hiện rất khách sáo.",
+        "segments": [
+          {"id": "w2", "zh": "客气", "pinyin": "kèqi"}
+        ]
+      },
+      {
+        "zh": "林芳说：“对普通同事都要尊重，何况是面对客户呢？”",
+        "pinyin": "Lín Fāng shuō: 'Duì pǔtōng tóngshì dōu yào zūnzhòng, hékuàng shì miànduì kèhù ne?'",
+        "en": "Lin Fang said: 'One should respect ordinary colleagues, let alone when facing clients.'",
+        "vi": "Lâm Phương nói: 'Đối với đồng nghiệp bình thường đều phải tôn trọng, huống hồ là đối diện với khách hàng?'",
+        "segments": [
+          {"id": "w3", "zh": "普通", "pinyin": "pǔtōng"},
+          {"id": "w4", "zh": "尊重", "pinyin": "zūnzhòng"},
+          {"id": "w5", "zh": "何况", "pinyin": "hékuàng"},
+          {"id": "w6", "zh": "客户", "pinyin": "kèhù"}
+        ]
+      }
+    ],
+    "grammar": [
+      {
+        "title": { "en": "Let alone: hékuàng", "vi": "Huống hồ / Huống chi" },
+        "point": "Used to emphasize a point by comparing it to something simpler. If A is true, then B (which is more significant) is even more true. Structure: ...，何况是...呢？",
+        "hsk_ref": "中-高-何况(hékuàng)"
+      }
+    ],
+    "vocabulary_inventory": [
+      {
+        "id": 8,
+        "zh": "礼貌",
+        "pinyin": "lǐmào",
+        "en": "polite / manners",
+        "vi": "lễ phép / lịch sự",
+        "hsk": 4,
+        "examples": [
+          { "zh": "他是一个很有礼貌的孩子。", "en": "He is a very polite child.", "vi": "Cậu ấy là một đứa trẻ rất lễ phép." }
+        ]
+      },
+      {
+        "id": 9,
+        "zh": "尊重",
+        "pinyin": "zūnzhòng",
+        "en": "to respect",
+        "vi": "tôn trọng",
+        "hsk": 4,
+        "examples": [
+          { "zh": "我们要尊重别人的意见。", "en": "We should respect other people's opinions.", "vi": "Chúng ta nên tôn trọng ý kiến của người khác." }
+        ]
+      },
+      {
+        "id": 10,
+        "zh": "何况",
+        "pinyin": "hékuàng",
+        "en": "much less / let alone",
+        "vi": "huống hồ",
+        "hsk": 4,
+        "examples": [
+          { "zh": "大人都拿不动，何况是孩子？", "en": "Even adults can't carry it, let alone a child?", "vi": "Người lớn còn không bê nổi, huống hồ là trẻ con?" }
+        ]
+      }
+    ],
+    "practice": [
+      {
+        "question": { "en": "What is the meaning of '尊重'?", "vi": "'尊重' nghĩa là gì?" },
+        "options": ["A. To ignore", "B. To respect", "C. To invite", "D. To worry"],
+        "answer": "B"
+      },
+      {
+        "question": { "en": "Complete the logic: 他连中文都会，____英文呢？", "vi": "Hoàn thành logic: 他连中文都会，____英文呢？" },
+        "options": ["A. 竟然", "B. 居然", "C. 何况", "D. 难道"],
+        "answer": "C"
+      }
+    ]
+  },
+  {
+    "hsk_level": 4,
+    "lesson_id": "L4",
+    "theme": {
+      "en": "Standard of Living",
+      "vi": "Mức sống"
+    },
+    "characters": ["李明 (Lǐ Míng)"],
+    "story": [
+      {
+        "zh": "李明认为，随着教育的普及，人们的生活水平得到了提高。",
+        "pinyin": "Lǐ Míng rènwéi, suízhe jiàoyù de pǔjí, rénmen de shēnghuó shuǐpíng dédàole tígāo.",
+        "en": "Li Ming believes that with the popularization of education, people's standard of living has improved.",
+        "vi": "Lý Minh cho rằng, cùng với sự phổ cập giáo dục, mức sống của người dân đã được nâng cao.",
+        "segments": [
+          {"id": "w1", "zh": "普及", "pinyin": "pǔjí"},
+          {"id": "w2", "zh": "水平", "pinyin": "shuǐpíng"}
+        ]
+      },
+      {
+        "zh": "在社会上，有知识的人往往更受人尊重。",
+        "pinyin": "Zài shèhuì shàng, yǒu zhīshí de rén wǎngwǎng gèng shòu rén zūnzhòng.",
+        "en": "In society, knowledgeable people are often more respected by others.",
+        "vi": "Trong xã hội, những người có kiến thức thường được mọi người tôn trọng hơn.",
+        "segments": [
+          {"id": "w3", "zh": "社会", "pinyin": "shèhuì"},
+          {"id": "w4", "zh": "受", "pinyin": "shòu"}
+        ]
+      },
+      {
+        "zh": "他的教学方式受到了学生们的欢迎，因为他总是很有耐心。",
+        "pinyin": "Tā de jiàoxué fāngshì shòudàole xuéshengmen de huānyíng, yīnwèi tā zǒng shì hěn yǒu nàixīn.",
+        "en": "His teaching method is welcomed by the students because he is always very patient.",
+        "vi": "Phương pháp giảng dạy của anh ấy nhận được sự hoan nghênh từ học sinh, bởi vì anh ấy luôn rất kiên nhẫn.",
+        "segments": [
+          {"id": "w5", "zh": "受到", "pinyin": "shòudào"},
+          {"id": "w6", "zh": "欢迎", "pinyin": "huānyíng"}
+        ]
+      }
+    ],
+    "grammar": [
+      {
+        "title": { "en": "Passive reception: shòu", "vi": "Bị / Được / Nhận (shòu)" },
+        "point": "'受' (shòu) or '受到' (shòudào) is used with abstract nouns (like respect, welcome, influence) to indicate receiving a certain treatment or feeling. It functions like a passive voice for positive or neutral experiences.",
+        "hsk_ref": "中-高-受(shòu) / 受到(shòudào)"
+      }
+    ],
+    "vocabulary_inventory": [
+      {
+        "id": 11,
+        "zh": "受",
+        "pinyin": "shòu",
+        "en": "to receive / to endure / (passive marker)",
+        "vi": "nhận / bị / được",
+        "hsk": 4,
+        "examples": [
+          { "zh": "他很受老师的表扬。", "en": "He is highly praised by the teacher.", "vi": "Anh ấy rất được thầy giáo khen ngợi." }
+        ]
+      },
+      {
+        "id": 12,
+        "zh": "普及",
+        "pinyin": "pǔjí",
+        "en": "to popularize / widespread",
+        "vi": "phổ cập",
+        "hsk": 4,
+        "examples": [
+          { "zh": "电脑现在已经很普及了。", "en": "Computers are very common now.", "vi": "Máy tính hiện nay đã rất phổ biến rồi." }
+        ]
+      }
+    ],
+    "practice": [
+      {
+        "question": { "en": "Which word is often paired with '欢迎' (huānyíng)?", "vi": "Từ nào thường được đi kèm với '欢迎' (huānyíng)?" },
+        "options": ["A. 受到", "B. 竟然", "C. 甚至", "D. 压力"],
+        "answer": "A"
+      },
+      {
+        "question": { "en": "Translate 'popularization/widespread':", "vi": "Dịch từ 'phổ cập/phổ biến':" },
+        "options": ["A. 普通", "B. 普及", "C. 极其", "D. 激烈"],
+        "answer": "B"
+      }
+    ]
+  },
+  {
+    "hsk_level": 4,
+    "lesson_id": "L5",
+    "theme": {
+      "en": "Life Decisions",
+      "vi": "Quyết định cuộc đời"
+    },
+    "characters": ["林芳 (Lín Fāng)", "李明 (Lǐ Míng)", "张伟 (Zhāng Wěi)"],
+    "story": [
+      {
+        "zh": "林芳说：“哪怕放弃现在的薪水，我也想去尝试新的生活。”",
+        "pinyin": "Lín Fāng shuō: 'Nǎpà fàngqì xiànzài de xīnshuǐ, wǒ yě xiǎng qù chángshì xīn de shēnghuó.'",
+        "en": "Lin Fang said: 'Even if I have to give up my current salary, I want to try a new life.'",
+        "vi": "Lâm Phương nói: 'Cho dù phải từ bỏ mức lương hiện tại, tôi cũng muốn thử một cuộc sống mới.'",
+        "segments": [
+          {"id": "w1", "zh": "哪怕", "pinyin": "nǎpà"},
+          {"id": "w2", "zh": "放弃", "pinyin": "fàngqì"},
+          {"id": "w3", "zh": "薪水", "pinyin": "xīnshuǐ"}
+        ]
+      },
+      {
+        "zh": "李明回答：“既然你已经决定了，我们就支持你。”",
+        "pinyin": "Lǐ Míng huídá: 'Jìrán nǐ yǐjīng juédìngle, wǒmen jiù zhīchí nǐ.'",
+        "en": "Li Ming replied: 'Since you have already decided, we will support you.'",
+        "vi": "Lý Minh trả lời: 'Nếu bạn đã quyết định rồi, thì chúng tôi sẽ ủng hộ bạn.'",
+        "segments": [
+          {"id": "w4", "zh": "既然", "pinyin": "jìrán"},
+          {"id": "w5", "zh": "就", "pinyin": "jiù"},
+          {"id": "w6", "zh": "支持", "pinyin": "zhīchí"}
+        ]
+      },
+      {
+        "zh": "张伟笑着说：“这对你来说是个巨大的挑战，加油！”",
+        "pinyin": "Zhāng Wěi xiàozhe shuō: 'Zhè duì nǐ lái shuō shì gè jùdà de tiǎozhàn, jiāyóu!'",
+        "en": "Zhang Wei said with a smile: 'This is a huge challenge for you, go for it!'",
+        "vi": "Trương Vĩ cười nói: 'Đây là một thử thách to lớn đối với bạn, cố lên!'",
+        "segments": [
+          {"id": "w7", "zh": "巨大", "pinyin": "jùdà"},
+          {"id": "w8", "zh": "挑战", "pinyin": "tiǎozhàn"}
+        ]
+      }
+    ],
+    "grammar": [
+      {
+        "title": { "en": "Even if: nǎpà", "vi": "Cho dù / Ngay cả khi (nǎpà)" },
+        "point": "'哪怕' (nǎpà) introduces a hypothetical extreme condition. It is usually paired with '也' (yě). It emphasizes determination despite obstacles.",
+        "hsk_ref": "中-高-哪怕(nǎpà) …… 也(yě) ……"
+      },
+      {
+        "title": { "en": "Since: jìrán... jiù...", "vi": "Đã... thì (jìrán... jiù...)" },
+        "point": "'既然' (jìrán) is used to state a fact or a premise that is already known, and '就' (jiù) introduces the natural conclusion or suggestion based on that fact.",
+        "hsk_ref": "中-高-既然(jìrán) …… 就(jiù) ……"
+      }
+    ],
+    "vocabulary_inventory": [
+      {
+        "id": 13,
+        "zh": "哪怕",
+        "pinyin": "nǎpà",
+        "en": "even if / even though",
+        "vi": "cho dù",
+        "hsk": 4,
+        "examples": [
+          { "zh": "哪怕雨再大，我也要去。", "en": "Even if it rains hard, I will go.", "vi": "Cho dù mưa to thế nào tôi cũng sẽ đi." }
+        ]
+      },
+      {
+        "id": 14,
+        "zh": "既然",
+        "pinyin": "jìrán",
+        "en": "since / as / now that",
+        "vi": "nếu đã / vì đã",
+        "hsk": 4,
+        "examples": [
+          { "zh": "既然你不舒服，就回家休息吧。", "en": "Since you aren't feeling well, go home and rest.", "vi": "Nếu bạn đã không khỏe thì về nhà nghỉ ngơi đi." }
+        ]
+      }
+    ],
+    "practice": [
+      {
+        "question": { "en": "Complete the pair: 既然你来了，____多住几天吧。", "vi": "Hoàn thành cặp từ: 既然你来了，____多住几天吧。" },
+        "options": ["A. 也", "B. 就", "C. 还", "D. 却"],
+        "answer": "B"
+      },
+      {
+        "question": { "en": "Which word expresses 'even if' for a difficult situation?", "vi": "Từ nào diễn đạt ý 'cho dù' trong một tình huống khó khăn?" },
+        "options": ["A. 哪怕", "B. 竟然", "C. 虽然", "D. 由于"],
+        "answer": "A"
+      }
+    ]
+  },
+  {
+    "hsk_level": 4,
+    "lesson_id": "L6",
+    "theme": {
+      "en": "Nature & Experience",
+      "vi": "Trải nghiệm thiên nhiên"
+    },
+    "characters": ["张伟 (Zhāng Wěi)"],
+    "story": [
+      {
+        "zh": "张伟为了拍到最美的风景，爬到了极其高的山顶。",
+        "pinyin": "Zhāng Wěi wèile pāi dào zuì měi de fēngjǐng, pá dào le jíqí gāo de shāndǐng.",
+        "en": "In order to capture the most beautiful scenery, Zhang Wei climbed to an extremely high mountain peak.",
+        "vi": "Để chụp được phong cảnh đẹp nhất, Trương Vĩ đã leo lên một đỉnh núi cực kỳ cao.",
+        "segments": [
+          {"id": "w1", "zh": "为了", "pinyin": "wèile"},
+          {"id": "w2", "zh": "拍", "pinyin": "pāi"},
+          {"id": "w3", "zh": "极其", "pinyin": "jíqí"},
+          {"id": "w4", "zh": "山顶", "pinyin": "shāndǐng"}
+        ]
+      },
+      {
+        "zh": "虽然过程很辛苦，但他觉得这里的空气和景色都值得一看。",
+        "pinyin": "Suīrán guòchéng hěn xīnkǔ, dàn tā juéde zhèlǐ de kōngqì hé jǐngsè dōu zhídé yí kàn.",
+        "en": "Although the process was very hard, he felt that the air and scenery here were both worth seeing.",
+        "vi": "Tuy rằng quá trình rất vất vả, nhưng anh ấy cảm thấy không khí và cảnh sắc ở đây đều đáng để xem.",
+        "segments": [
+          {"id": "w5", "zh": "过程", "pinyin": "guòchéng"},
+          {"id": "w6", "zh": "景色", "pinyin": "jǐngsè"},
+          {"id": "w7", "zh": "值得", "pinyin": "zhídé"}
+        ]
+      },
+      {
+        "zh": "这对他来说是一次难忘的经历，他的精神得到了放松。",
+        "pinyin": "Zhè duì tā lái shuō shì yí cì nánwàng de jīnglì, tā de jīngshén dédào le fàngsōng.",
+        "en": "For him, this was an unforgettable experience, and his spirit felt relaxed.",
+        "vi": "Đối với anh ấy đây là một trải nghiệm khó quên, tinh thần của anh ấy đã được thư giãn.",
+        "segments": [
+          {"id": "w8", "zh": "难忘", "pinyin": "nánwàng"},
+          {"id": "w9", "zh": "经历", "pinyin": "jīnglì"},
+          {"id": "w10", "zh": "精神", "pinyin": "jīngshén"}
+        ]
+      }
+    ],
+    "grammar": [
+      {
+        "title": { "en": "Extremely: jíqí", "vi": "Cực kỳ (jíqí)" },
+        "point": "'极其' (jíqí) is an adverb used before adjectives or verbs denoting psychological states to express a very high degree. It is more formal than '非常'.",
+        "hsk_ref": "中-高-极其(jíqí)"
+      },
+      {
+        "title": { "en": "Worthwhile: zhídé", "vi": "Xứng đáng / Đáng (zhídé)" },
+        "point": "'值得' (zhídé) can be used as a verb meaning 'to be worth'. It is often followed by a verb or a short clause. Example: 值得学习 (Worth learning).",
+        "hsk_ref": "中-高-值得(zhídé)"
+      }
+    ],
+    "vocabulary_inventory": [
+      {
+        "id": 15,
+        "zh": "极其",
+        "pinyin": "jíqí",
+        "en": "extremely / exceedingly",
+        "vi": "cực kỳ",
+        "hsk": 4,
+        "examples": [
+          { "zh": "这个任务极其重要。", "en": "This task is extremely important.", "vi": "Nhiệm vụ này cực kỳ quan trọng." }
+        ]
+      },
+      {
+        "id": 16,
+        "zh": "值得",
+        "pinyin": "zhídé",
+        "en": "to be worth / to deserve",
+        "vi": "đáng / xứng đáng",
+        "hsk": 4,
+        "examples": [
+          { "zh": "这本书值得读三次。", "en": "This book is worth reading three times.", "vi": "Cuốn sách này đáng để đọc ba lần." }
+        ]
+      }
+    ],
+    "practice": [
+      {
+        "question": { "en": "Translate 'extremely':", "vi": "Dịch từ 'cực kỳ':" },
+        "options": ["A. 特别", "B. 极其", "C. 受到", "D. 尽量"],
+        "answer": "B"
+      },
+      {
+        "question": { "en": "Which phrase is correct for 'worth seeing'?", "vi": "Cụm từ nào đúng cho 'đáng để xem'?" },
+        "options": ["A. 极其看", "B. 值得看", "C. 受看", "D. 甚至看"],
+        "answer": "B"
+      }
+    ]
+  },
+  {
+    "hsk_level": 4,
+    "lesson_id": "L7",
+    "theme": {
+      "en": "Work Ethic",
+      "vi": "Đạo đức nghề nghiệp"
+    },
+    "characters": ["林芳 (Lín Fāng)", "陈美 (Chén Měi)"],
+    "story": [
+      {
+        "zh": "尽管这个项目非常复杂，林芳还是坚持仔细检查每一个细节。",
+        "pinyin": "Jǐnguǎn zhège xiàngmù fēicháng fùzá, Lín Fāng háishì jiānchí zǐxì jiǎnchá měi yí gè xìjié.",
+        "en": "Even though this project is very complex, Lin Fang still insists on carefully checking every detail.",
+        "vi": "Mặc dù dự án này rất phức tạp, Lâm Phương vẫn kiên trì kiểm tra kỹ lưỡng từng chi tiết một.",
+        "segments": [
+          {"id": "w1", "zh": "尽管", "pinyin": "jǐnguǎn"},
+          {"id": "w2", "zh": "复杂", "pinyin": "fùzá"},
+          {"id": "w3", "zh": "仔细", "pinyin": "zǐxì"},
+          {"id": "w4", "zh": "细节", "pinyin": "xìjié"}
+        ]
+      },
+      {
+        "zh": "陈美被林芳的工作态度感动了，她决定要向林芳学习。",
+        "pinyin": "Chén Měi bèi Lín Fāng de gōngzuò tàidù gǎndòng le, tā juédìng yào xiàng Lín Fāng xuéxí.",
+        "en": "Chen Mei was moved by Lin Fang's work attitude, and she decided to learn from Lin Fang.",
+        "vi": "Trần Mỹ bị thái độ làm việc của Lâm Phương làm cho cảm động, cô ấy quyết định phải học tập Lâm Phương.",
+        "segments": [
+          {"id": "w5", "zh": "态度", "pinyin": "tàidù"},
+          {"id": "w6", "zh": "感动", "pinyin": "gǎndòng"}
+        ]
+      },
+      {
+        "zh": "她意识到，一个人只有对工作负责，才能获得真正的成功。",
+        "pinyin": "Tā yìshídào, yí gè rén zhǐyǒu duì gōngzuò fùzé, cáinéng huòdé zhēnzhèng de chénggōng.",
+        "en": "She realized that only if a person is responsible for their work can they achieve true success.",
+        "vi": "Cô ấy nhận ra rằng, một người chỉ có chịu trách nhiệm với công việc mới có thể đạt được thành công thực sự.",
+        "segments": [
+          {"id": "w7", "zh": "意识到", "pinyin": "yìshídào"},
+          {"id": "w8", "zh": "负责", "pinyin": "fùzé"},
+          {"id": "w9", "zh": "获得", "pinyin": "huòdé"}
+        ]
+      }
+    ],
+    "grammar": [
+      {
+        "title": { "en": "Even though: jǐnguǎn... háishì...", "vi": "Mặc dù... vẫn (jǐnguǎn... háishì...)" },
+        "point": "'尽管' (jǐnguǎn) is used to grant a fact, and '还是' or '却' is used in the following clause to indicate that the result is contrary to what might be expected.",
+        "hsk_ref": "中-高-尽管(jǐnguǎn) …… 还是( háishì) ……"
+      }
+    ],
+    "vocabulary_inventory": [
+      {
+        "id": 17,
+        "zh": "尽管",
+        "pinyin": "jǐnguǎn",
+        "en": "despite / although",
+        "vi": "mặc dù",
+        "hsk": 4,
+        "examples": [
+          { "zh": "尽管很累，他还是坚持跑步。", "en": "Despite being tired, he still insisted on running.", "vi": "Mặc dù rất mệt, anh ấy vẫn kiên trì chạy bộ." }
+        ]
+      },
+      {
+        "id": 18,
+        "zh": "负责",
+        "pinyin": "fùzé",
+        "en": "to be responsible for",
+        "vi": "phụ trách / chịu trách nhiệm",
+        "hsk": 4,
+        "examples": [
+          { "zh": "他对这个项目负责。", "en": "He is responsible for this project.", "vi": "Anh ấy chịu trách nhiệm cho dự án này." }
+        ]
+      }
+    ],
+    "practice": [
+      {
+        "question": { "en": "Complete the sentence: ____天气不好，他____出门了。", "vi": "Hoàn thành câu: ____天气不好，他____出门了。" },
+        "options": ["A. 既然...就", "B. 尽管...还是", "C. 与其...不如", "D. 哪怕...也"],
+        "answer": "B"
+      },
+      {
+        "question": { "en": "What does '意识到' mean?", "vi": "'意识到' nghĩa là gì?" },
+        "options": ["A. To ignore", "B. To realize / be aware of", "C. To forget", "D. To prepare"],
+        "answer": "B"
+      }
+    ]
+  },
+  {
+    "hsk_level": 4,
+    "lesson_id": "L8",
+    "theme": {
+      "en": "Digital World",
+      "vi": "Thế giới số"
+    },
+    "characters": ["李明 (Lǐ Míng)", "张伟 (Zhāng Wěi)"],
+    "story": [
+      {
+        "zh": "李明感叹道：“随着互联网的发展，我们的生活发生了巨大的变化。”",
+        "pinyin": "Lǐ Míng gǎntàn dào: 'Suízhe hùliánwǎng de fāzhǎn, wǒmen de shēnghuó fāshēngle jùdà de biànhuà.'",
+        "en": "Li Ming lamented: 'Along with the development of the Internet, our lives have undergone huge changes.'",
+        "vi": "Lý Minh cảm thán: 'Cùng với sự phát triển của Internet, cuộc sống của chúng ta đã có những thay đổi to lớn.'",
+        "segments": [
+          {"id": "w1", "zh": "随着", "pinyin": "suízhe"},
+          {"id": "w2", "zh": "互联网", "pinyin": "hùliánwǎng"},
+          {"id": "w3", "zh": "巨大", "pinyin": "jùdà"}
+        ]
+      },
+      {
+        "zh": "张伟点头同意，但也认为人们因此变得越来越离不开手机了。",
+        "pinyin": "Zhāng Wěi diǎntóu tóngyì, dàn yě rènwéi rénmen yīncǐ biàn de yuè lái yuè lì bù kāi shǒujī le.",
+        "en": "Zhang Wei nodded in agreement, but also believed that people have become increasingly inseparable from their phones as a result.",
+        "vi": "Trương Vĩ gật đầu đồng ý, nhưng cũng cho rằng con người vì thế mà ngày càng không thể rời xa điện thoại.",
+        "segments": [
+          {"id": "w4", "zh": "因此", "pinyin": "yīncǐ"},
+          {"id": "w5", "zh": "离不开", "pinyin": "lì bù kāi"}
+        ]
+      },
+      {
+        "zh": "网络虽然提供了很多信息，但同时也带来了一些负面的影响。",
+        "pinyin": "Wǎngluò suīrán tígōngle hěnduō xìnxī, dàn tóngshí yě dàiláile yìxiē fùmiàn de yǐngxiǎng.",
+        "en": "Although the network provides a lot of information, it also brings some negative impacts at the same time.",
+        "vi": "Mạng lưới tuy cung cấp rất nhiều thông tin, nhưng đồng thời cũng mang lại một số ảnh hưởng tiêu cực.",
+        "segments": [
+          {"id": "w6", "zh": "提供", "pinyin": "tígōng"},
+          {"id": "w7", "zh": "负面", "pinyin": "fùmiàn"},
+          {"id": "w8", "zh": "影响", "pinyin": "yǐngxiǎng"}
+        ]
+      }
+    ],
+    "grammar": [
+      {
+        "title": { "en": "Along with: suízhe", "vi": "Cùng với / Theo (suízhe)" },
+        "point": "'随着' (suízhe) indicates that one change is happening in parallel with another. It is often followed by a noun or phrase indicating progress or development.",
+        "hsk_ref": "中-高-随着(suízhe)"
+      }
+    ],
+    "vocabulary_inventory": [
+      {
+        "id": 19,
+        "zh": "随着",
+        "pinyin": "suízhe",
+        "en": "along with / in the wake of",
+        "vi": "cùng với",
+        "hsk": 4,
+        "examples": [
+          { "zh": "随着气温升高，冰雪开始融化。", "en": "As the temperature rises, ice and snow begin to melt.", "vi": "Cùng với nhiệt độ tăng cao, băng tuyết bắt đầu tan." }
+        ]
+      },
+      {
+        "id": 20,
+        "zh": "影响",
+        "pinyin": "yǐngxiǎng",
+        "en": "influence / impact",
+        "vi": "ảnh hưởng",
+        "hsk": 4,
+        "examples": [
+          { "zh": "环境对人的影响很大。", "en": "Environment has a great influence on people.", "vi": "Môi trường có ảnh hưởng rất lớn đối với con người." }
+        ]
+      }
+    ],
+    "practice": [
+      {
+        "question": { "en": "Translate 'Along with the development of technology':", "vi": "Dịch cụm từ 'Cùng với sự phát triển của công nghệ':" },
+        "options": ["A. 因为科技发展", "B. 随着科技发展", "C. 虽然科技发展", "D. 即使科技发展"],
+        "answer": "B"
+      },
+      {
+        "question": { "en": "What is the opposite of '负面' (fùmiàn)?", "vi": "Từ trái nghĩa của '负面' (fùmiàn) là gì?" },
+        "options": ["A. 正面", "B. 后面", "C. 里面", "D. 表面"],
+        "answer": "A"
+      }
+    ]
+  },
+  {
+    "hsk_level": 4,
+    "lesson_id": "L9",
+    "theme": {
+      "en": "Finance & Economy",
+      "vi": "Tài chính & Kinh tế"
+    },
+    "characters": ["张伟 (Zhāng Wěi)", "林芳 (Lín Fāng)"],
+    "story": [
+      {
+        "zh": "由于最近经济不景气，张伟的摄影订单减少了许多。",
+        "pinyin": "Yóuyú zuìjìn jīngjì bù jǐngqì, Zhāng Wěi de shèyǐng dìngdān jiǎnshǎole xǔduō.",
+        "en": "Due to the recent economic downturn, Zhang Wei's photography orders have decreased a lot.",
+        "vi": "Do tình hình kinh tế gần đây không tốt, các đơn hàng chụp ảnh của Trương Vĩ đã giảm đi nhiều.",
+        "segments": [
+          {"id": "w1", "zh": "由于", "pinyin": "yóuyú"},
+          {"id": "w2", "zh": "经济", "pinyin": "jīngjì"},
+          {"id": "w3", "zh": "减少", "pinyin": "jiǎnshǎo"}
+        ]
+      },
+      {
+        "zh": "他决定减少一些不必要的开支，从而攒钱买新的镜头。",
+        "pinyin": "Tā juédìng jiǎnshǎo yìxiē bú bìyào de kāizhī, cóng'ér zǎn qián mǎi xīn de jìngtóu.",
+        "en": "He decided to reduce some unnecessary expenses, thereby saving money to buy a new lens.",
+        "vi": "Anh ấy quyết định giảm bớt một số chi tiêu không cần thiết, từ đó tiết kiệm tiền để mua ống kính mới.",
+        "segments": [
+          {"id": "w4", "zh": "开支", "pinyin": "kāizhī"},
+          {"id": "w5", "zh": "从而", "pinyin": "cóng'ér"},
+          {"id": "w6", "zh": "攒钱", "pinyin": "zǎn qián"}
+        ]
+      },
+      {
+        "zh": "林芳建议他建立一个详细的计划，以保证财务安全。",
+        "pinyin": "Lín Fāng jiànyì tā jiànlì yí gè xiángxì de jìhuà, yǐ bǎozhèng cáiwù ānquán.",
+        "en": "Lin Fang suggested that he establish a detailed plan to ensure financial security.",
+        "vi": "Lâm Phương góp ý anh ấy nên lập một kế hoạch chi tiết để đảm bảo an toàn tài chính.",
+        "segments": [
+          {"id": "w7", "zh": "建议", "pinyin": "jiànyì"},
+          {"id": "w8", "zh": "保证", "pinyin": "bǎozhèng"}
+        ]
+      }
+    ],
+    "grammar": [
+      {
+        "title": { "en": "Thus/Thereby: cóng'ér", "vi": "Từ đó / Do đó (cóng'ér)" },
+        "point": "'从而' (cóng'ér) is a conjunction used to connect two clauses. The second clause indicates the result or purpose of the action described in the first clause. It is very common in formal or written Chinese.",
+        "hsk_ref": "中-高-从而(cóng'ér)"
+      }
+    ],
+    "vocabulary_inventory": [
+      {
+        "id": 21,
+        "zh": "从而",
+        "pinyin": "cóng'ér",
+        "en": "thus / thereby / as a result",
+        "vi": "từ đó / do đó",
+        "hsk": 4,
+        "examples": [
+          { "zh": "通过努力学习，他获得了奖学金，从而减轻了家里的负担。", "en": "By studying hard, he won a scholarship, thereby reducing the burden on his family.", "vi": "Thông qua nỗ lực học tập, anh ấy đã nhận được học bổng, từ đó giảm bớt gánh nặng cho gia đình." }
+        ]
+      },
+      {
+        "id": 22,
+        "zh": "经济",
+        "pinyin": "jīngjì",
+        "en": "economy / economic",
+        "vi": "kinh tế",
+        "hsk": 4,
+        "examples": [
+          { "zh": "这个国家的经济发展很快。", "en": "This country's economy is developing rapidly.", "vi": "Kinh tế của quốc gia này phát triển rất nhanh." }
+        ]
+      }
+    ],
+    "practice": [
+      {
+        "question": { "en": "Which word is a formal way to show result/purpose linking two actions?", "vi": "Từ nào là cách dùng trang trọng để chỉ kết quả/mục đích liên kết hai hành động?" },
+        "options": ["A. 所以", "B. 从而", "C. 但是", "D. 可是"],
+        "answer": "B"
+      },
+      {
+        "question": { "en": "What does '开支' mean?", "vi": "'开支' nghĩa là gì?" },
+        "options": ["A. Income", "B. Expenses/Expenditure", "C. Bank", "D. Business"],
+        "answer": "B"
+      }
+    ]
+  },
+  {
+    "hsk_level": 4,
+    "lesson_id": "L10",
+    "theme": {
+      "en": "Relationships",
+      "vi": "Mối quan hệ"
+    },
+    "characters": ["林芳 (Lín Fāng)", "张伟 (Zhāng Wěi)", "李明 (Lǐ Míng)", "陈美 (Chén Měi)"],
+    "story": [
+      {
+        "zh": "虽然大家的职业不同，但他们总是相互支持，共同进步。",
+        "pinyin": "Suīrán dàjiā de zhíyè bùtóng, dàn tāmen zǒngshì xiānghù zhīchí, gòngtóng jìnbù.",
+        "en": "Although everyone's professions are different, they always support each other and progress together.",
+        "vi": "Mặc dù nghề nghiệp của mỗi người khác nhau, nhưng họ luôn hỗ trợ lẫn nhau và cùng nhau tiến bộ.",
+        "segments": [
+          {"id": "w1", "zh": "职业", "pinyin": "zhíyè"},
+          {"id": "w2", "zh": "相互", "pinyin": "xiānghù"},
+          {"id": "w3", "zh": "进步", "pinyin": "jìnbù"}
+        ]
+      },
+      {
+        "zh": "张伟感慨地说：“真正的朋友应该了解彼此的想法。”",
+        "pinyin": "Zhāng Wěi gǎnkǎi de shuō: 'Zhēnzhèng de péngyǒu yīnggāi liǎojiě bǐcǐ de xiǎngfǎ.'",
+        "en": "Zhang Wei said with emotion: 'True friends should understand each other's thoughts.'",
+        "vi": "Trương Vĩ cảm khái nói: 'Bạn bè thực sự nên thấu hiểu suy nghĩ của nhau.'",
+        "segments": [
+          {"id": "w4", "zh": "感慨", "pinyin": "gǎnkǎi"},
+          {"id": "w5", "zh": "彼此", "pinyin": "bǐcǐ"}
+        ]
+      },
+      {
+        "zh": "在这个过程中，他们建立了一种极其深厚的友谊。",
+        "pinyin": "Zài zhège guòchéng zhōng, tāmen jiànlì le yì zhǒng jíqí shēnhòu de yǒuyì.",
+        "en": "In this process, they established an extremely deep friendship.",
+        "vi": "Trong quá trình này, họ đã thiết lập một tình bạn cực kỳ sâu sắc.",
+        "segments": [
+          {"id": "w6", "zh": "建立", "pinyin": "jiànlì"},
+          {"id": "w7", "zh": "深厚", "pinyin": "shēnhòu"},
+          {"id": "w8", "zh": "友谊", "pinyin": "yǒuyì"}
+        ]
+      }
+    ],
+    "grammar": [
+      {
+        "title": { "en": "Each Other: bǐcǐ vs xiānghù", "vi": "Lẫn nhau: bǐcǐ và xiānghù" },
+        "point": "'相互' (xiānghù) is an adverb often followed by a dual-syllable verb (e.g., 相互支持). '彼此' (bǐcǐ) is a pronoun that can act as a subject, object, or modifier (e.g., 了解彼此).",
+        "hsk_ref": "中-高-彼此(bǐcǐ) vs 相互(xiānghù)"
+      }
+    ],
+    "vocabulary_inventory": [
+      {
+        "id": 23,
+        "zh": "彼此",
+        "pinyin": "bǐcǐ",
+        "en": "each other / one another",
+        "vi": "lẫn nhau / đối phương",
+        "hsk": 4,
+        "examples": [
+          { "zh": "我们互不认识，但彼此信任。", "en": "We don't know each other, but we trust one another.", "vi": "Chúng tôi không quen biết nhau nhưng tin tưởng lẫn nhau." }
+        ]
+      },
+      {
+        "id": 24,
+        "zh": "友谊",
+        "pinyin": "yǒuyì",
+        "en": "friendship",
+        "vi": "tình bạn",
+        "hsk": 4,
+        "examples": [
+          { "zh": "祝我们的友谊长存。", "en": "May our friendship last forever.", "vi": "Chúc cho tình bạn của chúng ta mãi vững bền." }
+        ]
+      }
+    ],
+    "practice": [
+      {
+        "question": { "en": "Which word is a pronoun that can be used like 'each other's thoughts'?", "vi": "Từ nào là đại từ có thể dùng như 'suy nghĩ của nhau'?" },
+        "options": ["A. 相互", "B. 彼此", "C. 共同", "D. 甚至"],
+        "answer": "B"
+      },
+      {
+        "question": { "en": "Translate 'to establish':", "vi": "Dịch từ 'thiết lập/xây dựng':" },
+        "options": ["A. 建立", "B. 建议", "C. 放弃", "D. 获得"],
+        "answer": "A"
+      }
+    ]
+  },
+  {
+    "hsk_level": 4,
+    "lesson_id": "L11",
+    "theme": {
+      "en": "Modern Workplace",
+      "vi": "Văn phòng hiện đại"
+    },
+    "characters": ["林芳 (Lín Fāng)", "陈美 (Chén Měi)"],
+    "story": [
+      {
+        "zh": "公司最近实行了弹性工作制，这不仅没有让陈美轻松。",
+        "pinyin": "Gōngsī zuìjìn shíxíng le tánxìng gōngzuòzhì, zhè bùjǐn méiyǒu ràng Chén Měi qīngsōng.",
+        "en": "The company recently implemented a flexible working system; this not only failed to make Chen Mei relaxed...",
+        "vi": "Công ty gần đây thực hiện chế độ làm việc linh hoạt, việc này không những không làm Trần Mỹ thoải mái hơn.",
+        "segments": [
+          {"id": "w1", "zh": "实行", "pinyin": "shíxíng"},
+          {"id": "w2", "zh": "不仅", "pinyin": "bùjǐn"}
+        ]
+      },
+      {
+        "zh": "反而让她感到了更大的压力，因为任务反而增加了。",
+        "pinyin": "fǎn'ér ràng tā gǎndào le gèng dà de yālì, yīnwèi rènwù fǎn'ér zēngjiā le.",
+        "en": "...on the contrary, it made her feel even greater pressure because the tasks actually increased.",
+        "vi": "ngược lại còn khiến cô ấy cảm thấy áp lực lớn hơn, bởi vì nhiệm vụ lại tăng lên.",
+        "segments": [
+          {"id": "w3", "zh": "反而", "pinyin": "fǎn'ér"},
+          {"id": "w4", "zh": "增加", "pinyin": "zēngjiā"}
+        ]
+      },
+      {
+        "zh": "林芳安慰她，这是一个适应的过程，千万不要放弃。",
+        "pinyin": "Lín Fāng ānwèi tā, zhè shì yí gè shìyìng de guòchéng, qiānwàn búyào fàngqì.",
+        "en": "Lin Fang comforted her, saying this is an adaptation process and she must not give up.",
+        "vi": "Lâm Phương an ủi cô ấy, đây là một quá trình thích nghi, tuyệt đối đừng bỏ cuộc.",
+        "segments": [
+          {"id": "w5", "zh": "适应", "pinyin": "shìyìng"},
+          {"id": "w6", "zh": "千万", "pinyin": "qiānwàn"}
+        ]
+      }
+    ],
+    "grammar": [
+      {
+        "title": { "en": "On the contrary: bùjǐn... fǎn'ér", "vi": "Không những... ngược lại (bùjǐn... fǎn'ér)" },
+        "point": "This structure is used when the result is the opposite of what was expected. '不仅' (bùjǐn) states the expectation, and '反而' (fǎn'ér) introduces the surprising contrary reality.",
+        "hsk_ref": "中-高-不仅 …… 反而 ……"
+      },
+      {
+        "title": { "en": "By all means / Must: qiānwàn", "vi": "Tuyệt đối / Nhất định (qiānwàn)" },
+        "point": "'千万' (qiānwàn) is used in imperatives (orders or advice) to emphasize that something must or must not be done. It is usually followed by '别' or '不要'.",
+        "hsk_ref": "中-高-千万(qiānwàn)"
+      }
+    ],
+    "vocabulary_inventory": [
+      {
+        "id": 25,
+        "zh": "反而",
+        "pinyin": "fǎn'ér",
+        "en": "on the contrary / instead",
+        "vi": "ngược lại",
+        "hsk": 4,
+        "examples": [
+          { "zh": "风不仅没停，反而更大了。", "en": "The wind didn't stop; on the contrary, it became stronger.", "vi": "Gió không những không ngừng mà ngược lại còn to hơn." }
+        ]
+      },
+      {
+        "id": 26,
+        "zh": "千万",
+        "pinyin": "qiānwàn",
+        "en": "by all means / absolutely (must/must not)",
+        "vi": "tuyệt đối / nhất định",
+        "hsk": 4,
+        "examples": [
+          { "zh": "你千万别忘了带护照。", "en": "You absolutely must not forget to bring your passport.", "vi": "Bạn tuyệt đối đừng quên mang theo hộ chiếu." }
+        ]
+      }
+    ],
+    "practice": [
+      {
+        "question": { "en": "Which word indicates a result that is the opposite of the expectation?", "vi": "Từ nào chỉ một kết quả trái ngược với mong đợi?" },
+        "options": ["A. 甚至", "B. 反而", "C. 既然", "D. 随着"],
+        "answer": "B"
+      },
+      {
+        "question": { "en": "Translate 'By all means, do not forget':", "vi": "Dịch cụm 'Tuyệt đối đừng quên':" },
+        "options": ["A. 千万别忘", "B. 偶尔别忘", "C. 竟然别忘", "D. 也许别忘"],
+        "answer": "A"
+      }
+    ]
+  },
+  {
+    "hsk_level": 4,
+    "lesson_id": "L12",
+    "theme": {
+      "en": "Technology & Society",
+      "vi": "Công nghệ & Xã hội"
+    },
+    "characters": ["李明 (Lǐ Míng)"],
+    "story": [
+      {
+        "zh": "李明在讲课时提到，现代科技让沟通变得极其方便。",
+        "pinyin": "Lǐ Míng zài jiǎngkè shí tídào, xiàndài kējì ràng gōutōng biàn de jíqí fāngbiàn.",
+        "en": "During his lecture, Li Ming mentioned that modern technology has made communication extremely convenient.",
+        "vi": "Lý Minh khi giảng bài có đề cập rằng, công nghệ hiện đại khiến việc giao tiếp trở nên cực kỳ thuận tiện.",
+        "segments": [
+          {"id": "w1", "zh": "提到", "pinyin": "tídào"},
+          {"id": "w2", "zh": "科技", "pinyin": "kējì"},
+          {"id": "w3", "zh": "沟通", "pinyin": "gōutōng"}
+        ]
+      },
+      {
+        "zh": "但他也担心，很多人哪怕坐在一起，也甚至不互相说话，只看手机。",
+        "pinyin": "Dàn tā yě dānxīn, hěnduō rén nǎpà zuò zài yìqǐ, yě shènzhì bù hùxiāng shuōhuà, zhǐ kàn shǒujī.",
+        "en": "But he also worries that many people, even if they sit together, even go so far as to not talk to each other, only looking at their phones.",
+        "vi": "Nhưng anh ấy cũng lo lắng rằng, rất nhiều người cho dù ngồi cùng nhau, thậm chí cũng không nói chuyện với nhau, chỉ nhìn điện thoại.",
+        "segments": [
+          {"id": "w4", "zh": "哪怕", "pinyin": "nǎpà"},
+          {"id": "w5", "zh": "甚至", "pinyin": "shènzhì"},
+          {"id": "w6", "zh": "互相", "pinyin": "hùxiāng"}
+        ]
+      },
+      {
+        "zh": "这种现象在社会上已经非常普遍，值得我们去深思。",
+        "pinyin": "Zhè zhǒng xiànxiàng zài shèhuì shàng yǐjīng fēicháng pǔbiàn, zhídé wǒmen qù shēnsī.",
+        "en": "This phenomenon is already very common in society and is worth our deep reflection.",
+        "vi": "Hiện tượng này trong xã hội đã rất phổ biến, đáng để chúng ta phải suy nghĩ sâu sắc.",
+        "segments": [
+          {"id": "w7", "zh": "现象", "pinyin": "xiànxiàng"},
+          {"id": "w8", "zh": "普遍", "pinyin": "pǔbiàn"},
+          {"id": "w9", "zh": "值得", "pinyin": "zhídé"}
+        ]
+      }
+    ],
+    "grammar": [
+      {
+        "title": { "en": "Even: shènzhì", "vi": "Thậm chí (shènzhì)" },
+        "point": "'甚至' (shènzhì) is used to introduce an extreme case or an additional point that goes further than what has been mentioned. It emphasizes the degree of a situation.",
+        "hsk_ref": "中-高-甚至(shènzhì)"
+      }
+    ],
+    "vocabulary_inventory": [
+      {
+        "id": 27,
+        "zh": "科技",
+        "pinyin": "kējì",
+        "en": "science and technology",
+        "vi": "khoa học kỹ thuật",
+        "hsk": 4,
+        "examples": [
+          { "zh": "科技改变了生活。", "en": "Technology has changed life.", "vi": "Công nghệ đã thay đổi cuộc sống." }
+        ]
+      },
+      {
+        "id": 28,
+        "zh": "普遍",
+        "pinyin": "pǔbiàn",
+        "en": "common / universal / general",
+        "vi": "phổ biến",
+        "hsk": 4,
+        "examples": [
+          { "zh": "这是一个很普遍的问题。", "en": "This is a very common problem.", "vi": "Đây là một vấn đề rất phổ biến." }
+        ]
+      }
+    ],
+    "practice": [
+      {
+        "question": { "en": "Translate 'worth deep reflection':", "vi": "Dịch cụm 'đáng để suy nghĩ sâu sắc':" },
+        "options": ["A. 受到深思", "B. 值得深思", "C. 甚至深思", "D. 极其深思"],
+        "answer": "B"
+      },
+      {
+        "question": { "en": "Which word is used to highlight an extreme example?", "vi": "Từ nào được dùng để làm nổi bật một ví dụ cực đoan?" },
+        "options": ["A. 普及", "B. 甚至", "C. 职业", "D. 共同"],
+        "answer": "B"
+      }
+    ]
+  },
+  {
+    "hsk_level": 4,
+    "lesson_id": "L13",
+    "theme": {
+      "en": "Health & Habits",
+      "vi": "Sức khỏe & Thói quen"
+    },
+    "characters": ["张伟 (Zhāng Wěi)", "林芳 (Lín Fāng)"],
+    "story": [
+      {
+        "zh": "张伟发现林芳脸色不好，建议她要养成良好的生活习惯。",
+        "pinyin": "Zhāng Wěi fāxiàn Lín Fāng liǎnsè bù hǎo, jiànyì tā yào yǎngchéng liánghǎo de shēnghuó xíguàn.",
+        "en": "Zhang Wei noticed Lin Fang's complexion was poor and suggested she develop good living habits.",
+        "vi": "Trương Vĩ phát hiện sắc mặt Lâm Phương không tốt, góp ý cô ấy nên hình thành thói quen sinh hoạt tốt.",
+        "segments": [
+          {"id": "w1", "zh": "养成", "pinyin": "yǎngchéng"},
+          {"id": "w2", "zh": "良好", "pinyin": "liánghǎo"},
+          {"id": "w3", "zh": "习惯", "pinyin": "xíguàn"}
+        ]
+      },
+      {
+        "zh": "良好的睡眠不仅能让你更有精神，还能提高工作效率。",
+        "pinyin": "Liánghǎo de shuìmián bùjǐn néng ràng nǐ gèng yǒu jīngshén, hái néng tígāo gōngzuò xiàolǜ.",
+        "en": "Good sleep not only makes you more energetic, but also improves work efficiency.",
+        "vi": "Giấc ngủ tốt không những có thể giúp bạn có tinh thần hơn, mà còn nâng cao hiệu suất công việc.",
+        "segments": [
+          {"id": "w4", "zh": "不仅", "pinyin": "bùjǐn"},
+          {"id": "w5", "zh": "精神", "pinyin": "jīngshén"},
+          {"id": "w6", "zh": "效率", "pinyin": "xiàolǜ"}
+        ]
+      },
+      {
+        "zh": "林芳意识到，如果没有健康的身体，获得再大的成功也没有意义。",
+        "pinyin": "Lín Fāng yìshídào, rúguǒ méiyǒu jiànkāng de shēntǐ, huòdé zài dà de chénggōng yě méiyǒu yìyì.",
+        "en": "Lin Fang realized that if one doesn't have a healthy body, achieving even the greatest success has no meaning.",
+        "vi": "Lâm Phương nhận ra rằng, nếu không có một cơ thể khỏe mạnh, đạt được thành công lớn đến đâu cũng không có ý nghĩa.",
+        "segments": [
+          {"id": "w7", "zh": "意义", "pinyin": "yìyì"},
+          {"id": "w8", "zh": "成功", "pinyin": "chénggōng"}
+        ]
+      }
+    ],
+    "grammar": [
+      {
+        "title": { "en": "Not only: bùjǐn", "vi": "Không những (bùjǐn)" },
+        "point": "'不仅' (bùjǐn) is used to connect two clauses. It is often paired with '还' (hái) or '也' (yě) to add more information. At HSK 4, we focus on its use in complex logical reasoning.",
+        "hsk_ref": "中-高-不仅(bùjǐn) …… 也/还 ……"
+      }
+    ],
+    "vocabulary_inventory": [
+      {
+        "id": 29,
+        "zh": "养成",
+        "pinyin": "yǎngchéng",
+        "en": "to form / to cultivate (a habit)",
+        "vi": "hình thành / nuôi dưỡng",
+        "hsk": 4,
+        "examples": [
+          { "zh": "养成好习惯很难。", "en": "Developing a good habit is difficult.", "vi": "Hình thành thói quen tốt rất khó." }
+        ]
+      },
+      {
+        "id": 30,
+        "zh": "效率",
+        "pinyin": "xiàolǜ",
+        "en": "efficiency",
+        "vi": "hiệu suất",
+        "hsk": 4,
+        "examples": [
+          { "zh": "我们要提高工作效率。", "en": "We need to improve work efficiency.", "vi": "Chúng ta cần nâng cao hiệu suất công việc." }
+        ]
+      }
+    ],
+    "practice": [
+      {
+        "question": { "en": "What is the common pair for '养成'?", "vi": "Từ nào thường được đi kèm với '养成'?" },
+        "options": ["A. 压力", "B. 习惯", "C. 互联网", "D. 薪水"],
+        "answer": "B"
+      },
+      {
+        "question": { "en": "Translate 'meaning/significance':", "vi": "Dịch từ 'ý nghĩa':" },
+        "options": ["A. 感慨", "B. 意义", "C. 精神", "D. 目的"],
+        "answer": "B"
+      }
+    ]
+  },
+  {
+    "hsk_level": 4,
+    "lesson_id": "L14",
+    "theme": {
+      "en": "Financial Management",
+      "vi": "Quản lý tài chính"
+    },
+    "characters": ["张伟 (Zhāng Wěi)"],
+    "story": [
+      {
+        "zh": "由于平时不注意节约，张伟发现自己的存款比预想的要少得多。",
+        "pinyin": "Yóuyú píngshí bú zhùyì jiéyuē, Zhāng Wěi fāxiàn zìjǐ de cúnkuǎn bǐ yùxiǎng de yào shǎo de duō.",
+        "en": "Due to not paying attention to saving normally, Zhang Wei found his savings were much less than expected.",
+        "vi": "Do bình thường không chú ý tiết kiệm, Trương Vĩ phát hiện tiền tiết kiệm của mình ít hơn nhiều so với dự tính.",
+        "segments": [
+          {"id": "w1", "zh": "由于", "pinyin": "yóuyú"},
+          {"id": "w2", "zh": "节约", "pinyin": "jiéyuē"},
+          {"id": "w3", "zh": "存款", "pinyin": "cúnkuǎn"}
+        ]
+      },
+      {
+        "zh": "他决定从现在起节省开支，不再购买不必要的摄影器材。",
+        "pinyin": "Tā juédìng cóng xiànzài qǐ jiéshěng kāizhī, búzài gòumǎi bú bìyào de shèyǐng qìcái.",
+        "en": "He decided to save on expenses from now on and no longer buy unnecessary photography equipment.",
+        "vi": "Anh ấy quyết định từ bây giờ sẽ tiết kiệm chi tiêu, không mua những thiết bị chụp ảnh không cần thiết nữa.",
+        "segments": [
+          {"id": "w4", "zh": "节省", "pinyin": "jiéshěng"},
+          {"id": "w5", "zh": "开支", "pinyin": "kāizhī"},
+          {"id": "w6", "zh": "器材", "pinyin": "qìcái"}
+        ]
+      },
+      {
+        "zh": "通过管理财务，他希望能获得更多的生活主动权。",
+        "pinyin": "Tōngguò guǎnlǐ cáiwù, tā xīwàng néng huòdé gèng duō de shēnghuó zhǔdòngquán.",
+        "en": "Through managing his finances, he hopes to gain more initiative in his life.",
+        "vi": "Thông qua việc quản lý tài chính, anh ấy hy vọng có thể giành được nhiều quyền chủ động hơn trong cuộc sống.",
+        "segments": [
+          {"id": "w7", "zh": "管理", "pinyin": "guǎnlǐ"},
+          {"id": "w8", "zh": "财务", "pinyin": "cáiwù"}
+        ]
+      }
+    ],
+    "grammar": [
+      {
+        "title": { "en": "Cause: yóuyú", "vi": "Do / Bởi vì (yóuyú)" },
+        "point": "'由于' (yóuyú) is used to introduce a cause or reason. It is more formal than '因为'. It can be used alone or paired with '所以' or '因此'.",
+        "hsk_ref": "中-高-由于(yóuyú)"
+      }
+    ],
+    "vocabulary_inventory": [
+      {
+        "id": 31,
+        "zh": "由于",
+        "pinyin": "yóuyú",
+        "en": "due to / because of / owing to",
+        "vi": "do / bởi vì",
+        "hsk": 4,
+        "examples": [
+          { "zh": "由于天气原因，航班取消了。", "en": "Due to weather reasons, the flight was cancelled.", "vi": "Do nguyên nhân thời tiết, chuyến bay đã bị hủy." }
+        ]
+      },
+      {
+        "id": 32,
+        "zh": "节省",
+        "pinyin": "jiéshěng",
+        "en": "to save / to economize",
+        "vi": "tiết kiệm",
+        "hsk": 4,
+        "examples": [
+          { "zh": "我们要节省用水。", "en": "We need to save water.", "vi": "Chúng ta cần tiết kiệm nước." }
+        ]
+      }
+    ],
+    "practice": [
+      {
+        "question": { "en": "Which word is a formal synonym for '因为'?", "vi": "Từ nào là từ đồng nghĩa trang trọng của '因为'?" },
+        "options": ["A. 反而", "B. 由于", "C. 甚至", "D. 难道"],
+        "answer": "B"
+      },
+      {
+        "question": { "en": "Translate 'to save on expenses':", "vi": "Dịch cụm 'tiết kiệm chi tiêu':" },
+        "options": ["A. 养成开支", "B. 节省开支", "C. 受到开支", "D. 极其开支"],
+        "answer": "B"
+      }
+    ]
+  },
+  {
+    "hsk_level": 4,
+    "lesson_id": "L15",
+    "theme": {
+      "en": "Professional Challenges",
+      "vi": "Thử thách nghề nghiệp"
+    },
+    "characters": ["林芳 (Lín Fāng)", "陈美 (Chén Měi)"],
+    "story": [
+      {
+        "zh": "公司交给陈美一个重要的任务，这对她来说是个巨大的挑战。",
+        "pinyin": "Gōngsī jiāo gěi Chén Měi yí gè zhòngyào de rènwù, zhè duì tā lái shuō shì gè jùdà de tiǎozhàn.",
+        "en": "The company gave Chen Mei an important task; this is a huge challenge for her.",
+        "vi": "Công ty giao cho Trần Mỹ một nhiệm vụ quan trọng, đây là một thử thách to lớn đối với cô ấy.",
+        "segments": [
+          {"id": "w1", "zh": "重要", "pinyin": "zhòngyào"},
+          {"id": "w2", "zh": "巨大", "pinyin": "jùdà"},
+          {"id": "w3", "zh": "挑战", "pinyin": "tiǎozhàn"}
+        ]
+      },
+      {
+        "zh": "为了适应高强度的工作，她每天都主动向林芳请教。",
+        "pinyin": "Wèile shìyìng gāo qiángdù de gōngzuò, tā měitiān dōu zhǔdòng xiàng Lín Fāng qǐngjiào.",
+        "en": "In order to adapt to the high-intensity work, she takes the initiative to ask Lin Fang for advice every day.",
+        "vi": "Để thích nghi với công việc cường độ cao, mỗi ngày cô ấy đều chủ động thỉnh giáo Lâm Phương.",
+        "segments": [
+          {"id": "w4", "zh": "适应", "pinyin": "shìyìng"},
+          {"id": "w5", "zh": "主动", "pinyin": "zhǔdòng"},
+          {"id": "w6", "zh": "请教", "pinyin": "qǐngjiào"}
+        ]
+      },
+      {
+        "zh": "虽然过程很辛苦，但她最终克服了困难，完成了任务。",
+        "pinyin": "Suīrán guòchéng hěn xīnkǔ, dàn tā zuìzhōng kèfú le kùnnan, wánchéng le rènwù.",
+        "en": "Although the process was very hard, she finally overcame the difficulties and completed the task.",
+        "vi": "Tuy rằng quá trình rất vất vả, nhưng cuối cùng cô ấy đã vượt qua khó khăn, hoàn thành nhiệm vụ.",
+        "segments": [
+          {"id": "w7", "zh": "克服", "pinyin": "kèfú"},
+          {"id": "w8", "zh": "最终", "pinyin": "zuìzhōng"}
+        ]
+      }
+    ],
+    "grammar": [
+      {
+        "title": { "en": "Adapting: shìyìng", "vi": "Thích nghi (shìyìng)" },
+        "point": "'适应' (shìyìng) can be used as a transitive verb (适应环境) or an intransitive verb. It describes the process of becoming suitable for or adjusted to new conditions.",
+        "hsk_ref": "中-高-适应(shìyìng)"
+      }
+    ],
+    "vocabulary_inventory": [
+      {
+        "id": 33,
+        "zh": "适应",
+        "pinyin": "shìyìng",
+        "en": "to adapt / to become accustomed to",
+        "vi": "thích nghi",
+        "hsk": 4,
+        "examples": [
+          { "zh": "我很快就适应了这里的生活。", "en": "I quickly adapted to the life here.", "vi": "Tôi rất nhanh đã thích nghi với cuộc sống ở đây." }
+        ]
+      },
+      {
+        "id": 34,
+        "zh": "克服",
+        "pinyin": "kèfú",
+        "en": "to overcome / to conquer",
+        "vi": "khắc phục / vượt qua",
+        "hsk": 4,
+        "examples": [
+          { "zh": "我们要克服各种困难。", "en": "We must overcome all kinds of difficulties.", "vi": "Chúng ta phải vượt qua mọi loại khó khăn." }
+        ]
+      }
+    ],
+    "practice": [
+      {
+        "question": { "en": "What is the meaning of '克服'?", "vi": "Nghĩa của '克服' là gì?" },
+        "options": ["A. To give up", "B. To overcome", "C. To adapt", "D. To suggest"],
+        "answer": "B"
+      },
+      {
+        "question": { "en": "Complete the phrase: '____环境' (adapt to the environment)", "vi": "Hoàn thành cụm: '____环境' (thích nghi với môi trường)" },
+        "options": ["A. 坚持", "B. 适应", "C. 受到", "D. 极其"],
+        "answer": "B"
+      }
+    ]
+  },
+  {
+    "hsk_level": 4,
+    "lesson_id": "L16",
+    "theme": {
+      "en": "Weekend Harvest",
+      "vi": "Thu hoạch cuối tuần"
+    },
+    "characters": ["林芳 (Lín Fāng)", "张伟 (Zhāng Wěi)", "李明 (Lǐ Míng)", "陈美 (Chén Měi)"],
+    "story": [
+      {
+        "zh": "大家聚在一起聊天，陈美兴奋地分享了她完成任务后的收获。",
+        "pinyin": "Dàjiā jù zài yìqǐ liáotiān, Chén Měi xīngfèn de fēnxiǎng le tā wánchéng rènwù hòu de shōuhuò.",
+        "en": "Everyone gathered to chat, and Chen Mei excitedly shared what she had gained after completing her task.",
+        "vi": "Mọi người tụ tập trò chuyện, Trần Mỹ hào hứng chia sẻ những thu hoạch của cô ấy sau khi hoàn thành nhiệm vụ.",
+        "segments": [
+          {"id": "w1", "zh": "收获", "pinyin": "shōuhuò"},
+          {"id": "w2", "zh": "分享", "pinyin": "fēnxiǎng"}
+        ]
+      },
+      {
+        "zh": "她说：“那个任务太难了，连林芳姐都说很有挑战性。”",
+        "pinyin": "Tā shuō: 'Nàge rènwù tài nán le, lián Lín Fāng jiě dōu shuō hěn yǒu tiǎozhànxìng.'",
+        "en": "She said: 'That task was so difficult, even Sister Lin Fang said it was very challenging.'",
+        "vi": "Cô ấy nói: 'Nhiệm vụ đó khó quá, đến cả chị Lâm Phương cũng nói là rất có tính thử thách.'",
+        "segments": [
+          {"id": "w3", "zh": "连", "pinyin": "lián"},
+          {"id": "w4", "zh": "都", "pinyin": "dōu"},
+          {"id": "w5", "zh": "挑战性", "pinyin": "tiǎozhànxìng"}
+        ]
+      },
+      {
+        "zh": "李明鼓励道：“只要有进步，所有的辛苦都是值得的。”",
+        "pinyin": "Lǐ Míng gǔlì dào: 'Zhǐyào yǒu jìnbù, suǒyǒu de xīnkǔ dōu shì zhídé de.'",
+        "en": "Li Ming encouraged: 'As long as there is progress, all the hard work is worthwhile.'",
+        "vi": "Lý Minh khích lệ: 'Chỉ cần có tiến bộ, mọi vất vả đều là xứng đáng.'",
+        "segments": [
+          {"id": "w6", "zh": "进步", "pinyin": "jìnbù"},
+          {"id": "w7", "zh": "值得", "pinyin": "zhídé"}
+        ]
+      }
+    ],
+    "grammar": [
+      {
+        "title": { "en": "Even: lián... yě/dōu...", "vi": "Đến cả... cũng (lián... yě/dōu...)" },
+        "point": "'连' (lián) emphasizes an extreme case to reinforce a point. It is always used with '也' (yě) or '都' (dōu). Structure: 连 + [Extreme Case] + 也/都 + Verb.",
+        "hsk_ref": "中-高-连(lián) …… 也/都 ……"
+      }
+    ],
+    "vocabulary_inventory": [
+      {
+        "id": 35,
+        "zh": "收获",
+        "pinyin": "shōuhuò",
+        "en": "harvest / gains / results",
+        "vi": "thu hoạch / thành quả",
+        "hsk": 4,
+        "examples": [
+          { "zh": "这次去中国，我有很多收获。", "en": "Going to China this time, I gained a lot.", "vi": "Chuyến đi Trung Quốc lần này tôi đã có rất nhiều thu hoạch." }
+        ]
+      },
+      {
+        "id": 36,
+        "zh": "值得",
+        "pinyin": "zhídé",
+        "en": "to be worth / to deserve",
+        "vi": "đáng / xứng đáng",
+        "hsk": 4,
+        "examples": [
+          { "zh": "这个地方值得去旅游。", "en": "This place is worth visiting.", "vi": "Địa điểm này đáng để đi du lịch." }
+        ]
+      }
+    ],
+    "practice": [
+      {
+        "question": { "en": "Complete the structure: ____小孩子____懂这个道理。", "vi": "Hoàn thành cấu trúc: ____小孩子____懂 cái đạo lý này." },
+        "options": ["A. 连...都", "B. 因为...所以", "C. 虽然...但是", "D. 既然...就"],
+        "answer": "A"
+      },
+      {
+        "question": { "en": "What does '收获' refer to in a professional context?", "vi": "'收获' trong ngữ cảnh công việc ám chỉ điều gì?" },
+        "options": ["A. Farming", "B. Knowledge/Gains/Experience", "C. Salary", "D. Pressure"],
+        "answer": "B"
+      }
+    ]
+  },
+  {
+    "hsk_level": 4,
+    "lesson_id": "L17",
+    "theme": {
+      "en": "Handling Criticism",
+      "vi": "Đối mặt với phê bình"
+    },
+    "characters": ["林芳 (Lín Fāng)", "陈美 (Chén Měi)"],
+    "story": [
+      {
+        "zh": "陈美因为客户的批评感到很伤心，甚至想过辞职。",
+        "pinyin": "Chén Měi yīnwèi kèhù de pīpíng gǎndào hěn shāngxīn, shènzhì xiǎngguò cízhí.",
+        "en": "Chen Mei felt very sad because of the client's criticism, and even thought about resigning.",
+        "vi": "Trần Mỹ vì lời phê bình của khách hàng mà cảm thấy rất đau lòng, thậm chí đã từng nghĩ đến việc từ chức.",
+        "segments": [
+          {"id": "w1", "zh": "批评", "pinyin": "pīpíng"},
+          {"id": "w2", "zh": "甚至", "pinyin": "shènzhì"},
+          {"id": "w3", "zh": "辞职", "pinyin": "cízhí"}
+        ]
+      },
+      {
+        "zh": "林芳告诉她：“你千万不要灰心，批评是为了让你进步。”",
+        "pinyin": "Lín Fāng gàosu tā: 'Nǐ qiānwàn búyào huīxīn, pīpíng shì wèile ràng nǐ jìnbù.'",
+        "en": "Lin Fang told her: 'You absolutely must not lose heart; criticism is meant to make you improve.'",
+        "vi": "Lâm Phương bảo cô ấy: 'Em tuyệt đối đừng nản lòng, phê bình là để giúp em tiến bộ.'",
+        "segments": [
+          {"id": "w4", "zh": "千万", "pinyin": "qiānwàn"},
+          {"id": "w5", "zh": "灰心", "pinyin": "huīxīn"}
+        ]
+      },
+      {
+        "zh": "只有虚心接受意见，才能在工作中不断地积累经验。",
+        "pinyin": "Zhǐyǒu xūxīn jiēshòu yìjiàn, cáinéng zài gōngzuò zhòng búduàn de jīlěi jīngyàn.",
+        "en": "Only by humbly accepting suggestions can you continuously accumulate experience in your work.",
+        "vi": "Chỉ có khiêm tốn tiếp thu ý kiến mới có thể không ngừng tích lũy kinh nghiệm trong công việc.",
+        "segments": [
+          {"id": "w6", "zh": "虚心", "pinyin": "xūxīn"},
+          {"id": "w7", "zh": "积累", "pinyin": "jīlěi"},
+          {"id": "w8", "zh": "经验", "pinyin": "jīngyàn"}
+        ]
+      }
+    ],
+    "grammar": [
+      {
+        "title": { "en": "Must: qiānwàn", "vi": "Tuyệt đối / Nhất định (qiānwàn)" },
+        "point": "As a review, '千万' (qiānwàn) is crucial here for strong advice. It is used with '别' or '不要' to mean 'must not'.",
+        "hsk_ref": "中-高-千万(qiānwàn)"
+      }
+    ],
+    "vocabulary_inventory": [
+      {
+        "id": 37,
+        "zh": "批评",
+        "pinyin": "pīpíng",
+        "en": "to criticize / criticism",
+        "vi": "phê bình",
+        "hsk": 4,
+        "examples": [
+          { "zh": "老师批评了他的错误。", "en": "The teacher criticized his mistake.", "vi": "Thầy giáo đã phê bình lỗi sai của anh ấy." }
+        ]
+      },
+      {
+        "id": 38,
+        "zh": "积累",
+        "pinyin": "jīlěi",
+        "en": "to accumulate / accumulation",
+        "vi": "tích lũy",
+        "hsk": 4,
+        "examples": [
+          { "zh": "他在工作中积累了很多经验。", "en": "He accumulated a lot of experience in his work.", "vi": "Anh ấy đã tích lũy được nhiều kinh nghiệm trong công việc." }
+        ]
+      }
+    ],
+    "practice": [
+      {
+        "question": { "en": "What is the meaning of '虚心'?", "vi": "Nghĩa của '虚心' là gì?" },
+        "options": ["A. Worried", "B. Humble", "C. Proud", "D. Sad"],
+        "answer": "B"
+      },
+      {
+        "question": { "en": "Which word means 'to accumulate'?", "vi": "Từ nào có nghĩa là 'tích lũy'?" },
+        "options": ["A. 积累", "B. 适应", "C. 受到", "D. 极其"],
+        "answer": "A"
+      }
+    ]
+  },
+  {
+    "hsk_level": 4,
+    "lesson_id": "L18",
+    "theme": {
+      "en": "Internet Safety",
+      "vi": "An toàn mạng"
+    },
+    "characters": ["李明 (Lǐ Míng)", "张伟 (Zhāng Wěi)"],
+    "story": [
+      {
+        "zh": "李明提醒张伟，在网上分享照片时要保护好个人隐私。",
+        "pinyin": "Lǐ Míng tíxǐng Zhāng Wěi, zài wǎngshàng fēnxiǎng zhàopiàn shí yào bǎohù hǎo gèrén yǐnsī.",
+        "en": "Li Ming reminded Zhang Wei to protect his personal privacy when sharing photos online.",
+        "vi": "Lý Minh nhắc nhở Trương Vĩ khi chia sẻ ảnh trên mạng cần phải bảo vệ tốt quyền riêng tư cá nhân.",
+        "segments": [
+          {"id": "w1", "zh": "提醒", "pinyin": "tíxǐng"},
+          {"id": "w2", "zh": "保护", "pinyin": "bǎohù"},
+          {"id": "w3", "zh": "隐私", "pinyin": "yǐnsī"}
+        ]
+      },
+      {
+        "zh": "网络不仅能带来便利，也可能存在一些不安全的因素。",
+        "pinyin": "Wǎngluò bùjǐn néng dàilái biànlì, yě kěnéng cúnzài yìxiē bù ānquán de yīnsù.",
+        "en": "The internet not only brings convenience but also may contain some unsafe factors.",
+        "vi": "Mạng lưới không chỉ mang lại sự tiện lợi mà còn có thể tồn tại một số yếu tố không an toàn.",
+        "segments": [
+          {"id": "w4", "zh": "不仅", "pinyin": "bùjǐn"},
+          {"id": "w5", "zh": "便利", "pinyin": "biànlì"},
+          {"id": "w6", "zh": "因素", "pinyin": "yīnsù"}
+        ]
+      },
+      {
+        "zh": "张伟意识到，养成定期更改密码的习惯是极其有必要的。",
+        "pinyin": "Zhāng Wěi yìshídào, yǎngchéng dìngqī gēnggǎi mìmǎ de xíguàn shì jíqí yǒu bìyào de.",
+        "en": "Zhang Wei realized that developing the habit of changing passwords regularly is extremely necessary.",
+        "vi": "Trương Vĩ nhận ra rằng, hình thành thói quen định kỳ thay đổi mật khẩu là cực kỳ cần thiết.",
+        "segments": [
+          {"id": "w7", "zh": "更改", "pinyin": "gēnggǎi"},
+          {"id": "w8", "zh": "密码", "pinyin": "mìmǎ"},
+          {"id": "w9", "zh": "极其", "pinyin": "jíqí"}
+        ]
+      }
+    ],
+    "grammar": [
+      {
+        "title": { "en": "Protecting: bǎohù", "vi": "Bảo vệ (bǎohù)" },
+        "point": "'保护' (bǎohù) can be followed by abstract nouns (privacy, environment) or concrete nouns (eyes, children). In HSK 4, it often appears in contexts of rights and safety.",
+        "hsk_ref": "中-高-保护(bǎohù)"
+      }
+    ],
+    "vocabulary_inventory": [
+      {
+        "id": 39,
+        "zh": "保护",
+        "pinyin": "bǎohù",
+        "en": "to protect / to safeguard",
+        "vi": "bảo vệ",
+        "hsk": 4,
+        "examples": [
+          { "zh": "我们要保护环境。", "en": "We must protect the environment.", "vi": "Chúng ta phải bảo vệ môi trường." }
+        ]
+      },
+      {
+        "id": 40,
+        "zh": "密码",
+        "pinyin": "mìmǎ",
+        "en": "password / code",
+        "vi": "mật khẩu",
+        "hsk": 4,
+        "examples": [
+          { "zh": "请不要把密码告诉别人。", "en": "Please don't tell your password to others.", "vi": "Vui lòng đừng cho người khác biết mật khẩu." }
+        ]
+      }
+    ],
+    "practice": [
+      {
+        "question": { "en": "What is the meaning of '提醒'?", "vi": "Nghĩa của '提醒' là gì?" },
+        "options": ["A. To remind", "B. To forget", "C. To protect", "D. To change"],
+        "answer": "A"
+      },
+      {
+        "question": { "en": "Translate 'to protect privacy':", "vi": "Dịch cụm 'bảo vệ quyền riêng tư':" },
+        "options": ["A. 积累隐私", "B. 适应隐私", "C. 保护隐私", "D. 获得隐私"],
+        "answer": "C"
+      }
+    ]
+  },
+  {
+    "hsk_level": 4,
+    "lesson_id": "L19",
+    "theme": {
+      "en": "Time Management",
+      "vi": "Quản lý thời gian"
+    },
+    "characters": ["林芳 (Lín Fāng)", "陈美 (Chén Měi)"],
+    "story": [
+      {
+        "zh": "由于陈美不会安排时间，她经常在琐事上浪费很多精力。",
+        "pinyin": "Yóuyú Chén Měi bú huì ānpái shíjiān, tā jīngcháng zài suǒshì shàng làngfèi hěnduō jīnglì.",
+        "en": "Due to Chen Mei not knowing how to arrange her time, she often wastes a lot of energy on trivial matters.",
+        "vi": "Do Trần Mỹ không biết sắp xếp thời gian, cô ấy thường lãng phí rất nhiều tâm sức vào những việc vụn vặt.",
+        "segments": [
+          {"id": "w1", "zh": "安排", "pinyin": "ānpái"},
+          {"id": "w2", "zh": "浪费", "pinyin": "làngfèi"},
+          {"id": "w3", "zh": "精力", "pinyin": "jīnglì"}
+        ]
+      },
+      {
+        "zh": "林芳建议她把任务按重要程度分类，从而提高效率。",
+        "pinyin": "Lín Fāng jiànyì tā bǎ rènwù àn zhòngyào chéngdù fēnlèi, cóng'ér tígāo xiàolǜ.",
+        "en": "Lin Fang suggested she classify tasks by importance, thereby improving efficiency.",
+        "vi": "Lâm Phương góp ý cô ấy nên phân loại nhiệm vụ theo mức độ quan trọng, từ đó nâng cao hiệu suất.",
+        "segments": [
+          {"id": "w4", "zh": "分类", "pinyin": "fēnlèi"},
+          {"id": "w5", "zh": "从而", "pinyin": "cóng'ér"},
+          {"id": "w6", "zh": "效率", "pinyin": "xiàolǜ"}
+        ]
+      },
+      {
+        "zh": "陈美立刻调整了计划，发现工作竟然变得轻松了许多。",
+        "pinyin": "Chén Měi lìkè tiáozhěng le jìhuà, fāxiàn gōngzuò jìngrán biàn de qīngsōng le xǔduō.",
+        "en": "Chen Mei immediately adjusted her plan and found that the work surprisingly became much easier.",
+        "vi": "Trần Mỹ ngay lập tức điều chỉnh kế hoạch, phát hiện công việc hóa ra lại trở nên nhẹ nhàng hơn nhiều.",
+        "segments": [
+          {"id": "w7", "zh": "立即", "pinyin": "lìkè"},
+          {"id": "w8", "zh": "调整", "pinyin": "tiáozhěng"},
+          {"id": "w9", "zh": "竟然", "pinyin": "jìngrán"}
+        ]
+      }
+    ],
+    "grammar": [
+      {
+        "title": { "en": "Arranging: ānpái", "vi": "Sắp xếp (ānpái)" },
+        "point": "In HSK 4, '安排' (ānpái) is not just for people (meeting a friend), but for systematic structures like schedules, tasks, and budgets.",
+        "hsk_ref": "中-高-安排(ānpái)"
+      }
+    ],
+    "vocabulary_inventory": [
+      {
+        "id": 41,
+        "zh": "精力",
+        "pinyin": "jīnglì",
+        "en": "energy / vigor",
+        "vi": "tâm sức / sinh lực",
+        "hsk": 4,
+        "examples": [
+          { "zh": "他把全部精力都放在了学习上。", "en": "He put all his energy into studying.", "vi": "Anh ấy dồn toàn bộ tâm sức vào việc học tập." }
+        ]
+      },
+      {
+        "id": 42,
+        "zh": "浪费",
+        "pinyin": "làngfèi",
+        "en": "to waste / to squander",
+        "vi": "lãng phí",
+        "hsk": 4,
+        "examples": [
+          { "zh": "别浪费时间了。", "en": "Don't waste time.", "vi": "Đừng lãng phí thời gian nữa." }
+        ]
+      }
+    ],
+    "practice": [
+      {
+        "question": { "en": "Which word is used for 'wasting' resources or time?", "vi": "Từ nào được dùng cho việc 'lãng phí' nguồn lực hoặc thời gian?" },
+        "options": ["A. 节省", "B. 浪费", "C. 安排", "D. 调整"],
+        "answer": "B"
+      },
+      {
+        "question": { "en": "Translate 'to adjust the plan':", "vi": "Dịch cụm 'điều chỉnh kế hoạch':" },
+        "options": ["A. 养成计划", "B. 调整计划", "C. 适应计划", "D. 批评计划"],
+        "answer": "B"
+      }
+    ]
+  },
+  {
+    "hsk_level": 4,
+    "lesson_id": "L20",
+    "theme": {
+      "en": "Future Goals",
+      "vi": "Mục tiêu tương lai"
+    },
+    "characters": ["林芳 (Lín Fāng)", "张伟 (Zhāng Wěi)", "李明 (Lǐ Míng)", "陈美 (Chén Měi)"],
+    "story": [
+      {
+        "zh": "新年快到了，大家都在讨论自己未来的目标。",
+        "pinyin": "Xīnnián kuài dào le, dàjiā dōu zài tǎolùn zìjǐ wèilái de mùbiāo.",
+        "en": "New Year is approaching, and everyone is discussing their future goals.",
+        "vi": "Sắp đến năm mới rồi, mọi người đều đang thảo luận về mục tiêu tương lai của mình.",
+        "segments": [
+          {"id": "w1", "zh": "未来", "pinyin": "wèilái"},
+          {"id": "w2", "zh": "目标", "pinyin": "mùbiāo"}
+        ]
+      },
+      {
+        "zh": "李明认为，目标不仅要远大，更要符合实际。",
+        "pinyin": "Lǐ Míng rènwéi, mùbiāo bùjǐn yào yuǎndà, gèng yào fúhé shíjì.",
+        "en": "Li Ming believes that goals should not only be ambitious but also realistic.",
+        "vi": "Lý Minh cho rằng, mục tiêu không những phải xa rộng mà còn phải phù hợp với thực tế.",
+        "segments": [
+          {"id": "w3", "zh": "远大", "pinyin": "yuǎndà"},
+          {"id": "w4", "zh": "符合", "pinyin": "fúhé"},
+          {"id": "w5", "zh": "实际", "pinyin": "shíjì"}
+        ]
+      },
+      {
+        "zh": "林芳坚定地说：“我一定要实现去深造的愿望，千万不能再拖延了。”",
+        "pinyin": "Lín Fāng jiāndìng de shuō: 'Wǒ yídìng yào shíxiàn qù shēnzào de yuànwàng, qiānwàn bùnéng zài tuōyán le.'",
+        "en": "Lin Fang said firmly: 'I must realize my wish to go for further studies; I absolutely cannot procrastinate anymore.'",
+        "vi": "Lâm Phương kiên định nói: 'Tôi nhất định phải thực hiện nguyện vọng đi học chuyên sâu, tuyệt đối không thể trì hoãn thêm nữa.'",
+        "segments": [
+          {"id": "w6", "zh": "坚定", "pinyin": "jiāndìng"},
+          {"id": "w7", "zh": "实现", "pinyin": "shíxiàn"},
+          {"id": "w8", "zh": "愿望", "pinyin": "yuànwàng"},
+          {"id": "w9", "zh": "千万", "pinyin": "qiānwàn"}
+        ]
+      }
+    ],
+    "grammar": [
+      {
+        "title": { "en": "Matching: fúhé", "vi": "Phù hợp / Khớp với (fúhé)" },
+        "point": "'符合' (fúhé) is a verb used to indicate that something matches a standard, fact, or requirement. Common collocations: 符合要求 (meet requirements), 符合实际 (be realistic).",
+        "hsk_ref": "中-高-符合(fúhé)"
+      }
+    ],
+    "vocabulary_inventory": [
+      {
+        "id": 43,
+        "zh": "目标",
+        "pinyin": "mùbiāo",
+        "en": "goal / target / objective",
+        "vi": "mục tiêu",
+        "hsk": 4,
+        "examples": [
+          { "zh": "我的短期目标是学会游泳。", "en": "My short-term goal is to learn how to swim.", "vi": "Mục tiêu ngắn hạn của tôi là học bơi." }
+        ]
+      },
+      {
+        "id": 44,
+        "zh": "实际",
+        "pinyin": "shíjì",
+        "en": "reality / practical / realistic",
+        "vi": "thực tế",
+        "hsk": 4,
+        "examples": [
+          { "zh": "你要考虑实际情况。", "en": "You need to consider the actual situation.", "vi": "Bạn cần phải cân nhắc tình hình thực tế." }
+        ]
+      }
+    ],
+    "practice": [
+      {
+        "question": { "en": "Which word is a verb meaning 'to realize/fulfill' a dream?", "vi": "Từ nào là động từ có nghĩa là 'thực hiện/hiện thực hóa' một giấc mơ?" },
+        "options": ["A. 积累", "B. 实现", "C. 适应", "D. 获得"],
+        "answer": "B"
+      },
+      {
+        "question": { "en": "Translate 'to meet the standard':", "vi": "Dịch cụm 'phù hợp tiêu chuẩn':" },
+        "options": ["A. 养成标准", "B. 符合标准", "C. 调整标准", "D. 批评标准"],
+        "answer": "B"
+      }
+    ]
+  },
+  {
+    "hsk_level": 4,
+    "lesson_id": "L21",
+    "theme": {
+      "en": "Friendship & Misunderstanding",
+      "vi": "Tình bạn & Hiểu lầm"
+    },
+    "characters": ["林芳 (Lín Fāng)", "张伟 (Zhāng Wěi)"],
+    "story": [
+      {
+        "zh": "张伟因为忙着拍摄，忘了和林芳的约会，导致了彼此之间的误会。",
+        "pinyin": "Zhāng Wěi yīnwèi mángzhe pāishè, wàngle hé Lín Fāng de yuēhuì, dǎozhì le bǐcǐ zhījiān de wùhuì.",
+        "en": "Because Zhang Wei was busy filming, he forgot his appointment with Lin Fang, leading to a misunderstanding between them.",
+        "vi": "Trương Vĩ vì mải mê quay chụp nên đã quên mất cuộc hẹn với Lâm Phương, dẫn đến sự hiểu lầm giữa hai người.",
+        "segments": [
+          {"id": "w1", "zh": "约会", "pinyin": "yuēhuì"},
+          {"id": "w2", "zh": "导致", "pinyin": "dǎozhì"},
+          {"id": "w3", "zh": "彼此", "pinyin": "bǐcǐ"},
+          {"id": "w4", "zh": "误会", "pinyin": "wùhuì"}
+        ]
+      },
+      {
+        "zh": "林芳感到很委屈，她认为张伟不尊重她的时间。",
+        "pinyin": "Lín Fāng gǎndào hěn wěiqu, tā rènwéi Zhāng Wěi bù zūnzhòng tā de shíjiān.",
+        "en": "Lin Fang felt very wronged; she felt that Zhang Wei did not respect her time.",
+        "vi": "Lâm Phương cảm thấy rất tủi thân, cô cho rằng Trương Vĩ không tôn trọng thời gian của mình.",
+        "segments": [
+          {"id": "w5", "zh": "委屈", "pinyin": "wěiqu"},
+          {"id": "w6", "zh": "尊重", "pinyin": "zūnzhòng"}
+        ]
+      },
+      {
+        "zh": "李明提醒张伟，哪怕是最好的朋友，也需要通过有效的沟通来消除矛盾。",
+        "pinyin": "Lǐ Míng tíxǐng Zhāng Wěi, nǎpà shì zuì hǎo de péngyǒu, yě xūyào tōngguò yǒuxiào de gōutōng lái xiāochú máodùn.",
+        "en": "Li Ming reminded Zhang Wei that even for best friends, it is necessary to eliminate conflicts through effective communication.",
+        "vi": "Lý Minh nhắc nhở Trương Vĩ rằng cho dù là bạn thân nhất thì cũng cần thông qua giao tiếp hiệu quả để xóa bỏ mâu thuẫn.",
+        "segments": [
+          {"id": "w7", "zh": "哪怕", "pinyin": "nǎpà"},
+          {"id": "w8", "zh": "有效", "pinyin": "yǒuxiào"},
+          {"id": "w9", "zh": "沟通", "pinyin": "gōutōng"},
+          {"id": "w10", "zh": "消除", "pinyin": "xiāochú"},
+          {"id": "w11", "zh": "矛盾", "pinyin": "máodùn"}
+        ]
+      }
+    ],
+    "grammar": [
+      {
+        "title": { "en": "Leading to: dǎozhì", "vi": "Dẫn đến (dǎozhì)" },
+        "point": "'导致' (dǎozhì) is a verb meaning 'to lead to' or 'to cause'. It is almost always used for negative or undesirable results. Example: 导致失败 (lead to failure).",
+        "hsk_ref": "中-高-导致(dǎozhì)"
+      }
+    ],
+    "vocabulary_inventory": [
+      {
+        "id": 45,
+        "zh": "误会",
+        "pinyin": "wùhuì",
+        "en": "misunderstanding / to misunderstand",
+        "vi": "hiểu lầm",
+        "hsk": 4,
+        "examples": [
+          { "zh": "对不起，这是一个误会。", "en": "Sorry, this is a misunderstanding.", "vi": "Xin lỗi, đây là một sự hiểu lầm." }
+        ]
+      },
+      {
+        "id": 46,
+        "zh": "矛盾",
+        "pinyin": "máodùn",
+        "en": "contradiction / conflict",
+        "vi": "mâu thuẫn",
+        "hsk": 4,
+        "examples": [
+          { "zh": "他们之间有很多矛盾。", "en": "There are many conflicts between them.", "vi": "Giữa họ có rất nhiều mâu thuẫn." }
+        ]
+      }
+    ],
+    "practice": [
+      {
+        "question": { "en": "Which word is usually used for CAUSING a NEGATIVE result?", "vi": "Từ nào thường được dùng để chỉ việc GÂY RA một kết quả TIÊU CỰC?" },
+        "options": ["A. 导致", "B. 获得", "C. 建立", "D. 养成"],
+        "answer": "A"
+      },
+      {
+        "question": { "en": "What is the opposite of '有效' (effective)?", "vi": "Từ trái nghĩa của '有效' (hiệu quả) là gì?" },
+        "options": ["A. 无效", "B. 低效", "C. 没效", "D. 反效"],
+        "answer": "A"
+      }
+    ]
+  },
+  {
+    "hsk_level": 4,
+    "lesson_id": "L22",
+    "theme": {
+      "en": "Subjective Beliefs",
+      "vi": "Niềm tin chủ quan"
+    },
+    "characters": ["张伟 (Zhāng Wěi)", "林芳 (Lín Fāng)"],
+    "story": [
+      {
+        "zh": "张伟向林芳道歉说：“对不起，我以为你会理解我的工作压力。”",
+        "pinyin": "Zhāng Wěi xiàng Lín Fāng dàoqiàn shuō: 'Duìbuqǐ, wǒ yǐwéi nǐ huì lǐjiě wǒ de gōngzuò yālì.'",
+        "en": "Zhang Wei apologized to Lin Fang: 'I'm sorry, I (mistakenly) thought you would understand my work pressure.'",
+        "vi": "Trương Vĩ xin lỗi Lâm Phương: 'Xin lỗi, tôi cứ ngỡ rằng bạn sẽ thấu hiểu áp lực công việc của tôi.'",
+        "segments": [
+          {"id": "w1", "zh": "道歉", "pinyin": "dàoqiàn"},
+          {"id": "w2", "zh": "以为", "pinyin": "yǐwéi"}
+        ]
+      },
+      {
+        "zh": "林芳冷静地回答：“我认为准时参加约会是对朋友最基本的尊重。”",
+        "pinyin": "Lín Fāng lěngjìng de huídá: 'Wǒ rènwéi zhǔnshí cānjiā yuēhuì shì duì péngyǒu zuì jīběn de zūnzhòng.'",
+        "en": "Lin Fang replied calmly: 'I believe (as an opinion) that attending an appointment on time is the most basic respect for a friend.'",
+        "vi": "Lâm Phương bình tĩnh trả lời: 'Tôi cho rằng tham gia cuộc hẹn đúng giờ là sự tôn trọng cơ bản nhất đối với bạn bè.'",
+        "segments": [
+          {"id": "w3", "zh": "认为", "pinyin": "rènwéi"},
+          {"id": "w4", "zh": "准时", "pinyin": "zhǔnshí"},
+          {"id": "w5", "zh": "基本", "pinyin": "jīběn"}
+        ]
+      },
+      {
+        "zh": "这次谈话让他们意识到，不能总用自己的想法去推测对方。",
+        "pinyin": "Zhè cì tánhuà ràng tāmen yìshídào, bùnéng zǒng yòng zìjǐ de xiǎngfǎ qù tuīcè duìfāng.",
+        "en": "This conversation made them realize that they cannot always use their own thoughts to speculate about each other.",
+        "vi": "Cuộc trò chuyện này khiến họ nhận ra rằng không thể luôn dùng suy nghĩ của mình để suy đoán đối phương.",
+        "segments": [
+          {"id": "w6", "zh": "推测", "pinyin": "tuīcè"},
+          {"id": "w7", "zh": "对方", "pinyin": "duìfāng"}
+        ]
+      }
+    ],
+    "grammar": [
+      {
+        "title": { "en": "rènwéi vs yǐwéi", "vi": "Phân biệt rènwéi và yǐwéi" },
+        "point": "At HSK 4, we use '以为' specifically when a person has discovered their previous belief was a mistake. '认为' is used for a steady, reasoned opinion or principle.",
+        "hsk_ref": "中-高-认为(rènwéi) vs 以为(yǐwéi)"
+      }
+    ],
+    "vocabulary_inventory": [
+      {
+        "id": 47,
+        "zh": "以为",
+        "pinyin": "yǐwéi",
+        "en": "to think (mistakenly) / to assume",
+        "vi": "cứ ngỡ / tưởng rằng",
+        "hsk": 4,
+        "examples": [
+          { "zh": "我以为今天是星期五，结果是星期六。", "en": "I thought today was Friday; turns out it's Saturday.", "vi": "Tôi cứ ngỡ hôm nay là thứ Sáu, hóa ra là thứ Bảy." }
+        ]
+      },
+      {
+        "id": 48,
+        "zh": "推测",
+        "pinyin": "tuīcè",
+        "en": "to speculate / to surmise",
+        "vi": "suy đoán",
+        "hsk": 4,
+        "examples": [
+          { "zh": "这只是我的推测，没有证据。", "en": "This is just my speculation; there is no evidence.", "vi": "Đây chỉ là suy đoán của tôi, không có bằng chứng." }
+        ]
+      }
+    ],
+    "practice": [
+      {
+        "question": { "en": "Choose the correct word: 我____他是老师，其实他是医生。", "vi": "Chọn từ đúng: 我____他是 thầy giáo, thực ra anh ấy là bác sĩ." },
+        "options": ["A. 认为", "B. 以为", "C. 决定", "D. 打算"],
+        "answer": "B"
+      },
+      {
+        "question": { "en": "Translate 'to apologize':", "vi": "Dịch từ 'xin lỗi/tạ lỗi':" },
+        "options": ["A. 保护", "B. 适应", "C. 道歉", "D. 获得"],
+        "answer": "C"
+      },
+      {
+        "question": { "en": "Which word describes a 'basic' or 'essential' requirement?", "vi": "Từ nào mô tả một yêu cầu 'cơ bản' hoặc 'thiết yếu'?" },
+        "options": ["A. 严重", "B. 激烈", "C. 基本", "D. 共同"],
+        "answer": "C"
+      }
+    ]
+  },
+  {
+    "hsk_level": 4,
+    "lesson_id": "L23",
+    "theme": {
+      "en": "Mediation & Balance",
+      "vi": "Hòa giải & Cân bằng"
+    },
+    "characters": ["李明 (Lǐ Míng)", "张伟 (Zhāng Wěi)", "林芳 (Lín Fāng)"],
+    "story": [
+      {
+        "zh": "李明作为中间人，建议他们都要学会调整心态。",
+        "pinyin": "Lǐ Míng zuòwéi zhōngjiānrén, jiànyì tāmen dōu yào xuéhuì tiáozhěng xīntài.",
+        "en": "As a mediator, Li Ming suggested that they both learn to adjust their mindsets.",
+        "vi": "Với tư cách là người trung gian, Lý Minh góp ý rằng cả hai đều nên học cách điều chỉnh tâm thái.",
+        "segments": [
+          {"id": "w1", "zh": "作为", "pinyin": "zuòwéi"},
+          {"id": "w2", "zh": "调整", "pinyin": "tiáozhěng"},
+          {"id": "w3", "zh": "心态", "pinyin": "xīntài"}
+        ]
+      },
+      {
+        "zh": "他说：“生活需要平衡，工作和友谊同样重要。”",
+        "pinyin": "Tā shuō: 'Shēnghuó xūyào pínghéng, gōngzuò hé yǒuyì tóngyàng zhòngyào.'",
+        "en": "He said: 'Life requires balance; work and friendship are equally important.'",
+        "vi": "Anh ấy nói: 'Cuộc sống cần có sự cân bằng, công việc và tình bạn đều quan trọng như nhau.'",
+        "segments": [
+          {"id": "w4", "zh": "平衡", "pinyin": "pínghéng"},
+          {"id": "w5", "zh": "同样", "pinyin": "tóngyàng"}
+        ]
+      },
+      {
+        "zh": "由于李明的帮助，张伟和林芳终于消除了心理上的隔阂。",
+        "pinyin": "Yóuyú Lǐ Míng de bāngzhù, Zhāng Wěi hé Lín Fāng zhōngyú xiāochú le xīnlǐ shàng de géhé.",
+        "en": "Due to Li Ming's help, Zhang Wei and Lin Fang finally eliminated the psychological barrier between them.",
+        "vi": "Nhờ có sự giúp đỡ của Lý Minh, Trương Vĩ và Lâm Phương cuối cùng đã xóa bỏ được rào cản tâm lý.",
+        "segments": [
+          {"id": "w6", "zh": "消除", "pinyin": "xiāochú"},
+          {"id": "w7", "zh": "心理", "pinyin": "xīnlǐ"}
+        ]
+      }
+    ],
+    "grammar": [
+      {
+        "title": { "en": "As/In the capacity of: zuòwéi", "vi": "Với tư cách là (zuòwéi)" },
+        "point": "'作为' (zuòwéi) can be used as a preposition meaning 'as' or 'in the capacity of' a certain role. It can also be a verb.",
+        "hsk_ref": "中-高-作为(zuòwéi)"
+      }
+    ],
+    "vocabulary_inventory": [
+      {
+        "id": 49,
+        "zh": "平衡",
+        "pinyin": "pínghéng",
+        "en": "balance / equilibrium",
+        "vi": "cân bằng",
+        "hsk": 4,
+        "examples": [
+          { "zh": "保持营养平衡。", "en": "Maintain a nutritional balance.", "vi": "Duy trì sự cân bằng dinh dưỡng." }
+        ]
+      },
+      {
+        "id": 50,
+        "zh": "心理",
+        "pinyin": "xīnlǐ",
+        "en": "psychology / mental state",
+        "vi": "tâm lý",
+        "hsk": 4,
+        "examples": [
+          { "zh": "他的心理素质很好。", "en": "His psychological quality is very good.", "vi": "Tố chất tâm lý của anh ấy rất tốt." }
+        ]
+      }
+    ],
+    "practice": [
+      {
+        "question": { "en": "Which word means 'mental state' or 'mindset'?", "vi": "Từ nào có nghĩa là 'trạng thái tâm lý' hoặc 'tâm thái'?" },
+        "options": ["A. 心态", "B. 精神", "C. 压力", "D. 态度"],
+        "answer": "A"
+      },
+      {
+        "question": { "en": "Translate 'equally/similarly':", "vi": "Dịch từ 'tương tự/như nhau':" },
+        "options": ["A. 普通", "B. 同样", "C. 彼此", "D. 极其"],
+        "answer": "B"
+      },
+      {
+        "question": { "en": "Complete the phrase: '保持____' (keep balance)", "vi": "Hoàn thành cụm: '保持____' (giữ cân bằng)" },
+        "options": ["A. 误会", "B. 矛盾", "C. 平衡", "D. 目标"],
+        "answer": "C"
+      }
+    ]
+  },
+  {
+    "hsk_level": 4,
+    "lesson_id": "L24",
+    "theme": {
+      "en": "Shared Memories",
+      "vi": "Ký ức chung"
+    },
+    "characters": ["张伟 (Zhāng Wěi)", "林芳 (Lín Fāng)"],
+    "story": [
+      {
+        "zh": "为了消除之前的误会，张伟带林芳去看了他们小时候经常去的地方。",
+        "pinyin": "Wèile xiāochú zhīqián de wùhuì, Zhāng Wěi dài Lín Fāng qù kànle tāmen xiǎoshíhòu jīngcháng qù de dìfang.",
+        "en": "In order to eliminate the previous misunderstanding, Zhang Wei took Lin Fang to see the places they often went to as children.",
+        "vi": "Để xóa bỏ hiểu lầm trước đó, Trương Vĩ đã đưa Lâm Phương đi xem những nơi họ thường đến khi còn nhỏ.",
+        "segments": [
+          {"id": "w1", "zh": "消除", "pinyin": "xiāochú"},
+          {"id": "w2", "zh": "误会", "pinyin": "wùhuì"}
+        ]
+      },
+      {
+        "zh": "那里的景色唤起了他们极其美好的回忆。",
+        "pinyin": "Nàlǐ de jǐngsè huànqǐle tāmen jíqí měihǎo de huíyì.",
+        "en": "The scenery there evoked extremely beautiful memories for them.",
+        "vi": "Cảnh sắc nơi đó đã gợi lại cho họ những kỷ niệm cực kỳ tốt đẹp.",
+        "segments": [
+          {"id": "w3", "zh": "极其", "pinyin": "jíqí"},
+          {"id": "w4", "zh": "回忆", "pinyin": "huíyì"}
+        ]
+      },
+      {
+        "zh": "林芳感叹道：“我们应该珍惜彼此的友谊，不要让繁忙的生活影响了感情。”",
+        "pinyin": "Lín Fāng gǎntàn dào: 'Wǒmen yīnggāi zhēnxī bǐcǐ de yǒuyì, búyào ràng fánmáng de shēnghuó yǐngxiǎngle gǎnqíng.'",
+        "en": "Lin Fang lamented: 'We should cherish each other's friendship and not let a busy life affect our feelings.'",
+        "vi": "Lâm Phương cảm thán: 'Chúng ta nên trân trọng tình bạn của nhau, đừng để cuộc sống bận rộn làm ảnh hưởng đến tình cảm.'",
+        "segments": [
+          {"id": "w5", "zh": "珍惜", "pinyin": "zhēnxī"},
+          {"id": "w6", "zh": "彼此", "pinyin": "bǐcǐ"},
+          {"id": "w7", "zh": "感情", "pinyin": "gǎnqíng"}
+        ]
+      }
+    ],
+    "grammar": [
+      {
+        "title": { "en": "Recalling: huíyì", "vi": "Hồi ức / Nhớ lại (huíyì)" },
+        "point": "'回忆' (huíyì) can be a noun (memory) or a verb (to recall). At HSK 4, it is often paired with adjectives like '美好' (beautiful) or '难忘' (unforgettable).",
+        "hsk_ref": "中-高-回忆(huíyì)"
+      }
+    ],
+    "vocabulary_inventory": [
+      {
+        "id": 51,
+        "zh": "回忆",
+        "pinyin": "huíyì",
+        "en": "memory / to recall",
+        "vi": "kỷ niệm / nhớ lại",
+        "hsk": 4,
+        "examples": [
+          { "zh": "童年的回忆非常珍贵。", "en": "Childhood memories are very precious.", "vi": "Kỷ niệm tuổi thơ rất quý giá." }
+        ]
+      },
+      {
+        "id": 52,
+        "zh": "珍惜",
+        "pinyin": "zhēnxī",
+        "en": "to cherish / to treasure",
+        "vi": "trân trọng / quý trọng",
+        "hsk": 4,
+        "examples": [
+          { "zh": "我们要珍惜时间。", "en": "We should cherish time.", "vi": "Chúng ta phải trân trọng thời gian." }
+        ]
+      }
+    ],
+    "practice": [
+      {
+        "question": { "en": "Complete the phrase: '____机会' (cherish the opportunity)", "vi": "Hoàn thành cụm: '____机会' (trân trọng cơ hội)" },
+        "options": ["A. 积累", "B. 珍惜", "C. 受到", "D. 获得"],
+        "answer": "B"
+      },
+      {
+        "question": { "en": "Translate 'unforgettable memory':", "vi": "Dịch cụm 'kỷ niệm khó quên':" },
+        "options": ["A. 难忘的回忆", "B. 极其的回忆", "C. 简单的回忆", "D. 丰富的回忆"],
+        "answer": "A"
+      },
+      {
+        "question": { "en": "Which word is a synonym for 'feelings/emotions' between people?", "vi": "Từ nào là từ đồng nghĩa với 'tình cảm/cảm xúc' giữa người với người?" },
+        "options": ["A. 心理", "B. 感情", "C. 态度", "D. 精神"],
+        "answer": "B"
+      }
+    ]
+  },
+  {
+    "hsk_level": 4,
+    "lesson_id": "L25",
+    "theme": {
+      "en": "Personal Values",
+      "vi": "Giá trị cá nhân"
+    },
+    "characters": ["李明 (Lǐ Míng)"],
+    "story": [
+      {
+        "zh": "李明在写讲稿时，思考着所谓的成功到底是什么。",
+        "pinyin": "Lǐ Míng zài xiě jiǎnggǎo shí, sīkǎozhe suǒwèi de chénggōng dàodǐ shì shénme.",
+        "en": "While writing his speech, Li Ming pondered what the so-called 'success' actually is.",
+        "vi": "Khi viết bản thảo bài phát biểu, Lý Minh đang suy nghĩ xem cái gọi là thành công rốt cuộc là gì.",
+        "segments": [
+          {"id": "w1", "zh": "所谓", "pinyin": "suǒwèi"},
+          {"id": "w2", "zh": "思考", "pinyin": "sīkǎo"},
+          {"id": "w3", "zh": "到底", "pinyin": "dàodǐ"}
+        ]
+      },
+      {
+        "zh": "他认为，基本上每个人都有权利追求自己认为的幸福。",
+        "pinyin": "Tā rènwéi, jīběnshàng měi gè rén dōu yǒu quánlì zhuīqiú zìjǐ rènwéi de xìngfú.",
+        "en": "He believes that basically everyone has the right to pursue the happiness they believe in.",
+        "vi": "Anh ấy cho rằng, về cơ bản mỗi người đều có quyền theo đuổi hạnh phúc mà mình hằng tin tưởng.",
+        "segments": [
+          {"id": "w4", "zh": "基本上", "pinyin": "jīběnshàng"},
+          {"id": "w5", "zh": "权利", "pinyin": "quánlì"},
+          {"id": "w6", "zh": "追求", "pinyin": "zhuīqiú"}
+        ]
+      },
+      {
+        "zh": "成功不只是金钱，更是一种对社会有贡献的成就感。",
+        "pinyin": "Chénggōng bù zhǐshì jīnqián, gèng shì yì zhǒng duì shèhuì yǒu gòngxiàn de chéngjiùgǎn.",
+        "en": "Success is not just about money, but also a sense of accomplishment in contributing to society.",
+        "vi": "Thành công không chỉ là tiền bạc, mà còn là một loại cảm giác thành tựu khi có đóng góp cho xã hội.",
+        "segments": [
+          {"id": "w7", "zh": "金钱", "pinyin": "jīnqián"},
+          {"id": "w8", "zh": "贡献", "pinyin": "gòngxiàn"},
+          {"id": "w9", "zh": "成就感", "pinyin": "chéngjiùgǎn"}
+        ]
+      }
+    ],
+    "grammar": [
+      {
+        "title": { "en": "So-called: suǒwèi", "vi": "Cái gọi là (suǒwèi)" },
+        "point": "'所谓' (suǒwèi) is used to introduce a term or concept, often implying that the speaker has a different opinion or is quoting a general belief.",
+        "hsk_ref": "中-高-所谓(suǒwèi)"
+      }
+    ],
+    "vocabulary_inventory": [
+      {
+        "id": 53,
+        "zh": "所谓",
+        "pinyin": "suǒwèi",
+        "en": "so-called",
+        "vi": "cái gọi là",
+        "hsk": 4,
+        "examples": [
+          { "zh": "这就是他所谓的‘秘密’。", "en": "This is his so-called 'secret'.", "vi": "Đây chính là 'bí mật' mà anh ta nói." }
+        ]
+      },
+      {
+        "id": 54,
+        "zh": "基本上",
+        "pinyin": "jīběnshàng",
+        "en": "basically / on the whole",
+        "vi": "về cơ bản",
+        "hsk": 4,
+        "examples": [
+          { "zh": "这个项目基本上完成了。", "en": "This project is basically finished.", "vi": "Dự án này về cơ bản đã hoàn thành." }
+        ]
+      }
+    ],
+    "practice": [
+      {
+        "question": { "en": "Which word is used to express 'on the whole' or 'mostly'?", "vi": "Từ nào được dùng để diễn đạt 'về tổng thể' hoặc 'hầu hết'?" },
+        "options": ["A. 由于", "B. 基本上", "C. 甚至", "D. 果然"],
+        "answer": "B"
+      },
+      {
+        "question": { "en": "What does '追求' mean?", "vi": "'追求' nghĩa là gì?" },
+        "options": ["A. To chase / To pursue", "B. To run away", "C. To accept", "D. To give up"],
+        "answer": "A"
+      },
+      {
+        "question": { "en": "Translate 'sense of achievement':", "vi": "Dịch cụm 'cảm giác thành tựu':" },
+        "options": ["A. 责任感", "B. 幽默感", "C. 成就感", "D. 压力感"],
+        "answer": "C"
+      }
+    ]
+  },
+  {
+    "hsk_level": 4,
+    "lesson_id": "L26",
+    "theme": {
+      "en": "Confidence & Resilience",
+      "vi": "Tự tin & Kiên cường"
+    },
+    "characters": ["林芳 (Lín Fāng)", "陈美 (Chén Měi)"],
+    "story": [
+      {
+        "zh": "陈美觉得自己不够优秀，林芳鼓励她要变得更坚强一些。",
+        "pinyin": "Chén Měi juéde zìjǐ bú gòu yōuxiù, Lín Fāng gǔlì tā yào biàn de gèng jiānqiáng yìxiē.",
+        "en": "Chen Mei felt she wasn't excellent enough; Lin Fang encouraged her to become a bit more resilient.",
+        "vi": "Trần Mỹ cảm thấy bản thân không đủ ưu tú, Lâm Phương khích lệ cô ấy nên trở nên kiên cường hơn một chút.",
+        "segments": [
+          {"id": "w1", "zh": "优秀", "pinyin": "yōuxiù"},
+          {"id": "w2", "zh": "坚强", "pinyin": "jiānqiáng"}
+        ]
+      },
+      {
+        "zh": "林芳说：“你应该相信自己，否则很难克服未来的挑战。”",
+        "pinyin": "Lín Fāng shuō: 'Nǐ yīnggāi xiāngxìn zìjǐ, fǒuzé hěn nán kèfú wèilái de tiǎozhàn.'",
+        "en": "Lin Fang said: 'You should believe in yourself; otherwise, it will be very difficult to overcome future challenges.'",
+        "vi": "Lâm Phương nói: 'Em nên tin tưởng vào bản thân, nếu không sẽ rất khó vượt qua những thử thách trong tương lai.'",
+        "segments": [
+          {"id": "w3", "zh": "相信", "pinyin": "xiāngxìn"},
+          {"id": "w4", "zh": "否则", "pinyin": "fǒuzé"},
+          {"id": "w5", "zh": "挑战", "pinyin": "tiǎozhàn"}
+        ]
+      },
+      {
+        "zh": "听了这些话，陈美重新找回了信心，工作表现也变好了。",
+        "pinyin": "Tīngle zhèxiē huà, Chén Měi chóngxīn zhǎohuíle xìnxīn, gōngzuò biǎoxiàn yě biànhǎo le.",
+        "en": "After hearing these words, Chen Mei regained her confidence, and her work performance also improved.",
+        "vi": "Nghe xong những lời này, Trần Mỹ đã tìm lại được lòng tin, biểu hiện trong công việc cũng tốt lên.",
+        "segments": [
+          {"id": "w6", "zh": "信心", "pinyin": "xìnxīn"},
+          {"id": "w7", "zh": "表现", "pinyin": "biǎoxiàn"}
+        ]
+      }
+    ],
+    "grammar": [
+      {
+        "title": { "en": "Otherwise: fǒuzé", "vi": "Nếu không / Bằng không (fǒuzé)" },
+        "point": "'否则' (fǒuzé) is a conjunction used to indicate what will happen if the condition in the previous clause is not met. It is more formal than '不然'.",
+        "hsk_ref": "中-高-否则(fǒuzé)"
+      }
+    ],
+    "vocabulary_inventory": [
+      {
+        "id": 55,
+        "zh": "坚强",
+        "pinyin": "jiānqiáng",
+        "en": "strong / firm / resilient",
+        "vi": "kiên cường",
+        "hsk": 4,
+        "examples": [
+          { "zh": "她是一个坚强的女性。", "en": "She is a strong woman.", "vi": "Cô ấy là một người phụ nữ kiên cường." }
+        ]
+      },
+      {
+        "id": 56,
+        "zh": "否则",
+        "pinyin": "fǒuzé",
+        "en": "otherwise / if not",
+        "vi": "nếu không",
+        "hsk": 4,
+        "examples": [
+          { "zh": "快点儿，否则我们要迟到了。", "en": "Hurry up, otherwise we will be late.", "vi": "Nhanh lên, nếu không chúng ta sẽ muộn đấy." }
+        ]
+      }
+    ],
+    "practice": [
+      {
+        "question": { "en": "Which word is a formal way to say 'if not'?", "vi": "Từ nào là cách nói trang trọng để chỉ 'nếu không'?" },
+        "options": ["A. 反而", "B. 否则", "C. 甚至", "D. 即使"],
+        "answer": "B"
+      },
+      {
+        "question": { "en": "Translate 'to believe in oneself':", "vi": "Dịch cụm 'tin tưởng bản thân':" },
+        "options": ["A. 尊重自己", "B. 相信自己", "C. 照顾自己", "D. 批评自己"],
+        "answer": "B"
+      },
+      {
+        "question": { "en": "What does '优秀' mean?", "vi": "'优秀' nghĩa là gì?" },
+        "options": ["A. Excellent", "B. Ordinary", "C. Difficult", "D. Nervous"],
+        "answer": "A"
+      }
+    ]
+  },
+  {
+    "hsk_level": 4,
+    "lesson_id": "L27",
+    "theme": {
+      "en": "Society & Charity",
+      "vi": "Xã hội & Từ thiện"
+    },
+    "characters": ["张伟 (Zhāng Wěi)", "李明 (Lǐ Míng)"],
+    "story": [
+      {
+        "zh": "为了支持慈善事业，张伟和李明参加了社区的捐款活动。",
+        "pinyin": "Wèile zhīchí císhàn shìyè, Zhāng Wěi hé Lǐ Míng cānjiāle shèqū de juānkuǎn huódòng.",
+        "en": "In order to support charitable causes, Zhang Wei and Li Ming participated in the community's donation activity.",
+        "vi": "Để ủng hộ sự nghiệp từ thiện, Trương Vĩ và Lý Minh đã tham gia hoạt động quyên góp của cộng đồng.",
+        "segments": [
+          {"id": "w1", "zh": "支持", "pinyin": "zhīchí"},
+          {"id": "w2", "zh": "慈善", "pinyin": "císhàn"},
+          {"id": "w3", "zh": "捐款", "pinyin": "juānkuǎn"}
+        ]
+      },
+      {
+        "zh": "李明认为，每个人都应该对社会有一定的责任感。",
+        "pinyin": "Lǐ Míng rènwéi, měi gè rén dōu yīnggāi duì shèhuì yǒu yídìng de zérèngǎn.",
+        "en": "Li Ming believes that everyone should have a certain sense of responsibility toward society.",
+        "vi": "Lý Minh cho rằng, mỗi người đều nên có một tinh thần trách nhiệm nhất định đối với xã hội.",
+        "segments": [
+          {"id": "w4", "zh": "责任感", "pinyin": "zérèngǎn"}
+        ]
+      },
+      {
+        "zh": "尽管捐的钱不多，但他们的行为能给需要帮助的人带来温暖。",
+        "pinyin": "Jǐnguǎn juān de qián bù duō, dàn tāmen de xíngwéi néng gěi xūyào bāngzhù de rén dàilái wēnnuǎn.",
+        "en": "Even though the money donated isn't much, their actions can bring warmth to people in need of help.",
+        "vi": "Mặc dù số tiền quyên góp không nhiều, nhưng hành động của họ có thể mang lại sự ấm áp cho những người cần giúp đỡ.",
+        "segments": [
+          {"id": "w5", "zh": "尽管", "pinyin": "jǐnguǎn"},
+          {"id": "w6", "zh": "行为", "pinyin": "xíngwéi"},
+          {"id": "w7", "zh": "温暖", "pinyin": "wēnnuǎn"}
+        ]
+      }
+    ],
+    "grammar": [
+      {
+        "title": { "en": "Responsibility: zérèn", "vi": "Trách nhiệm (zérèn)" },
+        "point": "'责任' (zérèn) is a noun. At HSK 4, we often add '感' (gǎn) to form '责任感' (sense of responsibility). Collocation: 负起责任 (take up responsibility).",
+        "hsk_ref": "中-高-责任(zérèn)"
+      }
+    ],
+    "vocabulary_inventory": [
+      {
+        "id": 57,
+        "zh": "责任",
+        "pinyin": "zérèn",
+        "en": "responsibility / duty",
+        "vi": "trách nhiệm",
+        "hsk": 4,
+        "examples": [
+          { "zh": "保护环境是每个人的责任。", "en": "Protecting the environment is everyone's responsibility.", "vi": "Bảo vệ môi trường là trách nhiệm của mỗi người." }
+        ]
+      },
+      {
+        "id": 58,
+        "zh": "捐",
+        "pinyin": "juān",
+        "en": "to donate",
+        "vi": "quyên góp",
+        "hsk": 4,
+        "examples": [
+          { "zh": "他捐了很多书给学校。", "en": "He donated many books to the school.", "vi": "Anh ấy đã quyên góp rất nhiều sách cho nhà trường." }
+        ]
+      }
+    ],
+    "practice": [
+      {
+        "question": { "en": "Which word is a verb meaning 'to donate'?", "vi": "Từ nào là động từ có nghĩa là 'quyên góp'?" },
+        "options": ["A. 放弃", "B. 捐", "C. 积累", "D. 获得"],
+        "answer": "B"
+      },
+      {
+        "question": { "en": "Translate 'sense of responsibility':", "vi": "Dịch cụm 'tinh thần trách nhiệm':" },
+        "options": ["A. 成就感", "B. 幽默感", "C. 责任感", "D. 压力感"],
+        "answer": "C"
+      },
+      {
+        "question": { "en": "What is the meaning of '温暖'?", "vi": "'温暖' nghĩa là gì?" },
+        "options": ["A. Warmth", "B. Cold", "C. Happy", "D. Sad"],
+        "answer": "A"
+      }
+    ]
+  },
+  {
+    "hsk_level": 4,
+    "lesson_id": "L28",
+    "theme": {
+      "en": "Environment & Sustainability",
+      "vi": "Môi trường & Phát triển bền vững"
+    },
+    "characters": ["张伟 (Zhāng Wěi)", "李明 (Lǐ Míng)"],
+    "story": [
+      {
+        "zh": "张伟发现公园里的垃圾很多，他感叹环境污染依然很严重。",
+        "pinyin": "Zhāng Wěi fāxiàn gōngyuán lǐ de lājī hěnduō, tā gǎntàn huánjìng wūrǎn yīrán hěn yánzhòng.",
+        "en": "Zhang Wei noticed a lot of trash in the park and lamented that environmental pollution is still very serious.",
+        "vi": "Trương Vĩ phát hiện rác trong công viên rất nhiều, anh ấy cảm thán rằng ô nhiễm môi trường vẫn còn rất nghiêm trọng.",
+        "segments": [
+          {"id": "w1", "zh": "垃圾", "pinyin": "lājī"},
+          {"id": "w2", "zh": "依然", "pinyin": "yīrán"},
+          {"id": "w3", "zh": "严重", "pinyin": "yánzhòng"}
+        ]
+      },
+      {
+        "zh": "李明说：“既然我们都意识到了这个问题，就应该从减少使用塑料袋开始。”",
+        "pinyin": "Lǐ Míng shuō: 'Jìrán wǒmen dōu yìshídào le zhège wèntí, jiù yīnggāi cóng jiǎnshǎo shǐyòng sùliàodài kāishǐ.'",
+        "en": "Li Ming said: 'Since we have all realized this problem, we should start by reducing the use of plastic bags.'",
+        "vi": "Lý Minh nói: 'Nếu chúng ta đều đã nhận ra vấn đề này, thì nên bắt đầu từ việc giảm sử dụng túi nilon.'",
+        "segments": [
+          {"id": "w4", "zh": "既然", "pinyin": "jìrán"},
+          {"id": "w5", "zh": "就", "pinyin": "jiù"},
+          {"id": "w6", "zh": "塑料袋", "pinyin": "sùliàodài"}
+        ]
+      },
+      {
+        "zh": "通过科技的发展和大家的努力，生态环境一定会得到改善。",
+        "pinyin": "Tōngguò kējì de fāzhǎn hé dàjiā de nǔlì, shēngtài huánjìng yídìng huì dédào gǎishàn.",
+        "en": "Through the development of technology and everyone's efforts, the ecological environment will surely improve.",
+        "vi": "Thông qua sự phát triển của công nghệ và nỗ lực của mọi người, môi trường sinh thái nhất định sẽ được cải thiện.",
+        "segments": [
+          {"id": "w7", "zh": "改善", "pinyin": "gǎishàn"},
+          {"id": "w8", "zh": "生态", "pinyin": "shēngtài"}
+        ]
+      }
+    ],
+    "grammar": [
+      {
+        "title": { "en": "Improvement: gǎishàn", "vi": "Cải thiện (gǎishàn)" },
+        "point": "'改善' (gǎishàn) is used for abstract concepts like living standards, relationships, or environments. Collocation: 改善生活 (improve life), 改善环境 (improve environment).",
+        "hsk_ref": "中-高-改善(gǎishàn)"
+      }
+    ],
+    "vocabulary_inventory": [
+      {
+        "id": 59,
+        "zh": "改善",
+        "pinyin": "gǎishàn",
+        "en": "to improve / to make better",
+        "vi": "cải thiện",
+        "hsk": 4,
+        "examples": [
+          { "zh": "他们的生活水平有了很大改善。", "en": "Their standard of living has improved greatly.", "vi": "Mức sống của họ đã có sự cải thiện rất lớn." }
+        ]
+      },
+      {
+        "id": 60,
+        "zh": "依然",
+        "pinyin": "yīrán",
+        "en": "still / as before",
+        "vi": "vẫn như cũ / như trước",
+        "hsk": 4,
+        "examples": [
+          { "zh": "十年过去了，他依然那么年轻。", "en": "Ten years have passed, and he is still so young.", "vi": "Mười năm đã trôi qua, anh ấy vẫn trẻ trung như vậy." }
+        ]
+      }
+    ],
+    "practice": [
+      {
+        "question": { "en": "Which word is a formal synonym for '还是' (still)?", "vi": "Từ nào là từ đồng nghĩa trang trọng của '还是' (vẫn còn)?" },
+        "options": ["A. 反而", "B. 依然", "C. 甚至", "D. 导致"],
+        "answer": "B"
+      },
+      {
+        "question": { "en": "Translate 'to improve conditions':", "vi": "Dịch cụm 'cải thiện điều kiện':" },
+        "options": ["A. 改善条件", "B. 积累条件", "C. 适应条件", "D. 获得条件"],
+        "answer": "A"
+      },
+      {
+        "question": { "en": "Complete the logic: ____你不喜欢，____别去了。", "vi": "Hoàn thành logic: ____ bạn không thích, ____ đừng đi nữa." },
+        "options": ["A. 既然...就", "B. 虽然...但是", "C. 与其...不如", "D. 哪怕...也"],
+        "answer": "A"
+      }
+    ]
+  },
+  {
+    "hsk_level": 4,
+    "lesson_id": "L29",
+    "theme": {
+      "en": "Key Points & Summary",
+      "vi": "Trọng điểm & Tóm tắt"
+    },
+    "characters": ["林芳 (Lín Fāng)", "陈美 (Chén Měi)"],
+    "story": [
+      {
+        "zh": "林芳正在教陈美如何写工作总结，她强调要抓住重点。",
+        "pinyin": "Lín Fāng zhèngzài jiāo Chén Měi rúhé xiě gōngzuò zǒngjié, tā qiángdiào yào zhuāzhù zhòngdiǎn.",
+        "en": "Lin Fang is teaching Chen Mei how to write a work summary; she emphasized catching the key points.",
+        "vi": "Lâm Phương đang dạy Trần Mỹ cách viết tổng kết công việc, cô ấy nhấn mạnh việc phải nắm vững trọng điểm.",
+        "segments": [
+          {"id": "w1", "zh": "总结", "pinyin": "zǒngjié"},
+          {"id": "w2", "zh": "强调", "pinyin": "qiángdiào"},
+          {"id": "w3", "zh": "重点", "pinyin": "zhòngdiǎn"}
+        ]
+      },
+      {
+        "zh": "报告的内容必须简洁，用简单的语言概括复杂的现象。",
+        "pinyin": "Bàogào de nèiróng bìxū jiǎnjié, yòng jiǎndān de yǔyán gàikuò fùzá de xiànxiàng.",
+        "en": "The content of the report must be concise, using simple language to summarize complex phenomena.",
+        "vi": "Nội dung báo cáo phải ngắn gọn, dùng ngôn ngữ đơn giản để khái quát những hiện tượng phức tạp.",
+        "segments": [
+          {"id": "w4", "zh": "简洁", "pinyin": "jiǎnjié"},
+          {"id": "w5", "zh": "概括", "pinyin": "gàikuò"},
+          {"id": "w6", "zh": "现象", "pinyin": "xiànxiàng"}
+        ]
+      },
+      {
+        "zh": "陈美意识到，只有深入理解了业务，才能把总结写好。",
+        "pinyin": "Chén Měi yìshídào, zhǐyǒu shēnrù lǐjiěle yèwù, cáinéng bǎ zǒngjié xiěhǎo.",
+        "en": "Chen Mei realized that only by understanding the business deeply can one write the summary well.",
+        "vi": "Trần Mỹ nhận ra rằng, chỉ khi hiểu sâu sắc nghiệp vụ mới có thể viết tốt bản tổng kết.",
+        "segments": [
+          {"id": "w7", "zh": "深入", "pinyin": "shēnrù"},
+          {"id": "w8", "zh": "业务", "pinyin": "yèwù"}
+        ]
+      }
+    ],
+    "grammar": [
+      {
+        "title": { "en": "Summarizing: gàikuò", "vi": "Khái quát / Tóm tắt (gàikuò)" },
+        "point": "'概括' (gàikuò) is a verb. It involves stripping away minor details to present the essence of a situation. It's a high-level skill in HSK 4.",
+        "hsk_ref": "中-高-概括(gàikuò)"
+      }
+    ],
+    "vocabulary_inventory": [
+      {
+        "id": 61,
+        "zh": "概括",
+        "pinyin": "gàikuò",
+        "en": "to summarize / to generalize",
+        "vi": "khái quát / tóm tắt",
+        "hsk": 4,
+        "examples": [
+          { "zh": "请用一句话概括全文的意思。", "en": "Please summarize the meaning of the whole text in one sentence.", "vi": "Vui lòng dùng một câu để tóm tắt ý nghĩa toàn văn." }
+        ]
+      },
+      {
+        "id": 62,
+        "zh": "总结",
+        "pinyin": "zǒngjié",
+        "en": "to summarize / summary",
+        "vi": "tổng kết",
+        "hsk": 4,
+        "examples": [
+          { "zh": "我们要学会总结经验。", "en": "We should learn to summarize experiences.", "vi": "Chúng ta phải học cách tổng kết kinh nghiệm." }
+        ]
+      }
+    ],
+    "practice": [
+      {
+        "question": { "en": "What does '强调' mean?", "vi": "'强调' nghĩa là gì?" },
+        "options": ["A. To emphasize", "B. To ignore", "C. To suggest", "D. To criticize"],
+        "answer": "A"
+      },
+      {
+        "question": { "en": "Which word describes a 'concise' report?", "vi": "Từ nào mô tả một bản báo cáo 'ngắn gọn'?" },
+        "options": ["A. 激烈", "B. 简洁", "C. 普遍", "D. 坚强"],
+        "answer": "B"
+      },
+      {
+        "question": { "en": "Translate 'to summarize key points':", "vi": "Dịch cụm 'tóm tắt trọng điểm':" },
+        "options": ["A. 概括重点", "B. 改善重点", "C. 受到重点", "D. 积累重点"],
+        "answer": "A"
+      }
+    ]
+  },
+  {
+    "hsk_level": 4,
+    "lesson_id": "L30",
+    "theme": {
+      "en": "Inner Growth",
+      "vi": "Sự trưởng thành nội tâm"
+    },
+    "characters": ["林芳 (Lín Fāng)", "陈美 (Chén Měi)", "张伟 (Zhāng Wěi)"],
+    "story": [
+      {
+        "zh": "陈美在这一年的工作中，心态发生了巨大的转变。",
+        "pinyin": "Chén Měi zài zhè yì nián de gōngzuò zhòng, xīntài fāshēngle jùdà de zhuǎnbiàn.",
+        "en": "During this year of work, Chen Mei's mindset has undergone a huge transformation.",
+        "vi": "Trong một năm làm việc này, tâm thái của Trần Mỹ đã có một sự chuyển biến to lớn.",
+        "segments": [
+          {"id": "w1", "zh": "心态", "pinyin": "xīntài"},
+          {"id": "w2", "zh": "转变", "pinyin": "zhuǎnbiàn"}
+        ]
+      },
+      {
+        "zh": "她不再害怕批评，反而为自己能克服困难感到自豪。",
+        "pinyin": "Tā búzài hàipà pīpíng, fǎn'ér wèi zìjǐ néng kèfú kùnnan gǎndào zìháo.",
+        "en": "She is no longer afraid of criticism; instead, she feels proud of being able to overcome difficulties.",
+        "vi": "Cô ấy không còn sợ bị phê bình nữa, ngược lại còn cảm thấy tự hào vì mình có thể vượt qua khó khăn.",
+        "segments": [
+          {"id": "w3", "zh": "反而", "pinyin": "fǎn'ér"},
+          {"id": "w4", "zh": "自豪", "pinyin": "zìháo"}
+        ]
+      },
+      {
+        "zh": "林芳和张伟也为她的进步感到由衷的高兴。",
+        "pinyin": "Lín Fāng hé Zhāng Wěi yě wèi tā de jìnbù gǎndào yóuzhōng de gāoxìng.",
+        "en": "Lin Fang and Zhang Wei are also sincerely happy for her progress.",
+        "vi": "Lâm Phương và Trương Vĩ cũng cảm thấy thực sự vui mừng cho sự tiến bộ của cô ấy.",
+        "segments": [
+          {"id": "w5", "zh": "由衷", "pinyin": "yóuzhōng"},
+          {"id": "w6", "zh": "进步", "pinyin": "jìnbù"}
+        ]
+      }
+    ],
+    "grammar": [
+      {
+        "title": { "en": "Transformation: zhuǎnbiàn", "vi": "Chuyển biến (zhuǎnbiàn)" },
+        "point": "'转变' (zhuǎnbiàn) refers to a change in direction, nature, or attitude. It is often used with '发生' (fāshēng - to occur/happen).",
+        "hsk_ref": "中-高-转变(zhuǎnbiàn)"
+      }
+    ],
+    "vocabulary_inventory": [
+      {
+        "id": 63,
+        "zh": "转变",
+        "pinyin": "zhuǎnbiàn",
+        "en": "to change / to transform",
+        "vi": "chuyển biến",
+        "hsk": 4,
+        "examples": [
+          { "zh": "他的态度发生了很大的转变。", "en": "His attitude has changed a lot.", "vi": "Thái độ của anh ấy đã có sự chuyển biến rất lớn." }
+        ]
+      },
+      {
+        "id": 64,
+        "zh": "自豪",
+        "pinyin": "zìháo",
+        "en": "proud (in a good sense)",
+        "vi": "tự hào",
+        "hsk": 4,
+        "examples": [
+          { "zh": "我为我的祖国感到自豪。", "en": "I am proud of my motherland.", "vi": "Tôi cảm thấy tự hào về tổ quốc của mình." }
+        ]
+      }
+    ],
+    "practice": [
+      {
+        "question": { "en": "Which word is a verb for 'to transform'?", "vi": "Từ nào là động từ có nghĩa là 'chuyển biến'?" },
+        "options": ["A. 积累", "B. 转变", "C. 改善", "D. 获得"],
+        "answer": "B"
+      },
+      {
+        "question": { "en": "Translate 'to feel proud':", "vi": "Dịch cụm 'cảm thấy tự hào':" },
+        "options": ["A. 感到自豪", "B. 感到后悔", "C. 感到委屈", "D. 感到害羞"],
+        "answer": "A"
+      },
+      {
+        "question": { "en": "What is the meaning of '由衷'?", "vi": "'由衷' nghĩa là gì?" },
+        "options": ["A. Sincere / From the heart", "B. Fake", "C. Sudden", "D. Serious"],
+        "answer": "A"
+      }
+    ]
+  },
+  {
+    "hsk_level": 4,
+    "lesson_id": "L31",
+    "theme": {
+      "en": "Legal Awareness",
+      "vi": "Ý thức pháp luật"
+    },
+    "characters": ["李明 (Lǐ Míng)"],
+    "story": [
+      {
+        "zh": "李明告诉学生，凡是公民都必须遵守国家的法律。",
+        "pinyin": "Lǐ Míng gàosu xuésheng, fánshì gōngmín dōu bìxū zūnshǒu guójiā de fǎlǜ.",
+        "en": "Li Ming told the students that all citizens must abide by the laws of the country.",
+        "vi": "Lý Minh bảo học sinh rằng phàm là công dân thì đều phải tuân thủ pháp luật nhà nước.",
+        "segments": [
+          {"id": "w1", "zh": "凡是", "pinyin": "fánshì"},
+          {"id": "w2", "zh": "公民", "pinyin": "gōngmín"},
+          {"id": "w3", "zh": "遵守", "pinyin": "zūnshǒu"},
+          {"id": "w4", "zh": "法律", "pinyin": "fǎlǜ"}
+        ]
+      },
+      {
+        "zh": "法律不仅是约束，更是保护我们权利的工具。",
+        "pinyin": "Fǎlǜ bùjǐn shì yuēshù, gèng shì bǎohù wǒmen quánlì de gōngjù.",
+        "en": "Law is not only a constraint, but also a tool to protect our rights.",
+        "vi": "Pháp luật không chỉ là sự ràng buộc mà còn là công cụ để bảo vệ quyền lợi của chúng ta.",
+        "segments": [
+          {"id": "w5", "zh": "约束", "pinyin": "yuēshù"},
+          {"id": "w6", "zh": "权利", "pinyin": "quánlì"},
+          {"id": "w7", "zh": "工具", "pinyin": "gōngjù"}
+        ]
+      },
+      {
+        "zh": "养成良好的法律意识，对社会的稳定非常重要。",
+        "pinyin": "Yǎngchéng liánghǎo de fǎlǜ yìshí, duì shèhuì de wěndìng fēicháng zhòngyào.",
+        "en": "Developing a good legal awareness is very important for the stability of society.",
+        "vi": "Hình thành ý thức pháp luật tốt là điều cực kỳ quan trọng đối với sự ổn định của xã hội.",
+        "segments": [
+          {"id": "w8", "zh": "意识", "pinyin": "yìshí"},
+          {"id": "w9", "zh": "稳定", "pinyin": "wěndìng"}
+        ]
+      }
+    ],
+    "grammar": [
+      {
+        "title": { "en": "Every/All: fánshì", "vi": "Phàm là / Hễ là (fánshì)" },
+        "point": "'凡是' (fánshì) means 'every' or 'all'. It is usually used with '都' (dōu) in the second clause to emphasize that there are no exceptions.",
+        "hsk_ref": "中-高-凡是(fánshì) …… 都(dōu) ……"
+      }
+    ],
+    "vocabulary_inventory": [
+      {
+        "id": 65,
+        "zh": "凡是",
+        "pinyin": "fánshì",
+        "en": "every / all / any and every",
+        "vi": "phàm là / hễ là",
+        "hsk": 4,
+        "examples": [
+          { "zh": "凡是这种笔，我都要买一支。", "en": "Any pen of this kind, I want to buy one.", "vi": "Hễ là loại bút này thì tôi đều muốn mua một chiếc." }
+        ]
+      },
+      {
+        "id": 66,
+        "zh": "遵守",
+        "pinyin": "zūnshǒu",
+        "en": "to comply with / to abide by",
+        "vi": "tuân thủ",
+        "hsk": 4,
+        "examples": [
+          { "zh": "我们必须遵守交通规则。", "en": "We must abide by traffic rules.", "vi": "Chúng ta phải tuân thủ luật giao thông." }
+        ]
+      }
+    ],
+    "practice": [
+      {
+        "question": { "en": "Complete the phrase: '____规定' (abide by regulations)", "vi": "Hoàn thành cụm: '____规定' (tuân thủ quy định)" },
+        "options": ["A. 尊重", "B. 遵守", "C. 保护", "D. 实现"],
+        "answer": "B"
+      },
+      {
+        "question": { "en": "Which word means 'all/every' with no exceptions?", "vi": "Từ nào có nghĩa là 'tất cả/mọi cái' mà không có ngoại lệ?" },
+        "options": ["A. 凡是", "B. 虽然", "C. 依然", "D. 既然"],
+        "answer": "A"
+      },
+      {
+        "question": { "en": "Translate 'rights':", "vi": "Dịch từ 'quyền lợi':" },
+        "options": ["A. 权力", "B. 权利", "C. 经验", "D. 目标"],
+        "answer": "B"
+      }
+    ]
+  },
+  {
+    "hsk_level": 4,
+    "lesson_id": "L32",
+    "theme": {
+      "en": "Ethics & Honesty",
+      "vi": "Đạo đức & Thành thật"
+    },
+    "characters": ["林芳 (Lín Fāng)", "陈美 (Chén Měi)"],
+    "story": [
+      {
+        "zh": "林芳告诉陈美，在商业合作中，诚实永远是第一位的。",
+        "pinyin": "Lín Fāng gàosu Chén Měi, zài shāngyè hézuò zhòng, chéngshí yǒngyuǎn shì dì-yī wèi de.",
+        "en": "Lin Fang told Chen Mei that in business cooperation, honesty is always the first priority.",
+        "vi": "Lâm Phương bảo Trần Mỹ rằng trong hợp tác kinh doanh, thành thật luôn là vị trí số một.",
+        "segments": [
+          {"id": "w1", "zh": "商业", "pinyin": "shāngyè"},
+          {"id": "w2", "zh": "诚实", "pinyin": "chéngshí"}
+        ]
+      },
+      {
+        "zh": "即使面临失去订单的风险，我们也必须向客户说明真实情况。",
+        "pinyin": "Jíshǐ miànlín shīqù dìngdān de fēngxiǎn, wǒmen yě bìxū xiàng kèhù shuōmíng zhēnshí qíngkuàng.",
+        "en": "Even if we face the risk of losing an order, we must explain the real situation to the client.",
+        "vi": "Cho dù đối mặt với rủi ro mất đơn hàng, chúng ta cũng phải giải thích tình hình thực tế cho khách hàng.",
+        "segments": [
+          {"id": "w3", "zh": "即使", "pinyin": "jíshǐ"},
+          {"id": "w4", "zh": "风险", "pinyin": "fēngxiǎn"},
+          {"id": "w5", "zh": "真实", "pinyin": "zhēnshí"}
+        ]
+      },
+      {
+        "zh": "这种负责的态度，最终会赢得他人的信任和尊重。",
+        "pinyin": "Zhè zhǒng fùzé de tàidù, zuìzhōng huì yíngdé tārén de xìnrèn hé zūnzhòng.",
+        "en": "This responsible attitude will ultimately win the trust and respect of others.",
+        "vi": "Thái độ trách nhiệm này cuối cùng sẽ giành được sự tin tưởng và tôn trọng của người khác.",
+        "segments": [
+          {"id": "w6", "zh": "负责", "pinyin": "fùzé"},
+          {"id": "w7", "zh": "赢得", "pinyin": "yíngdé"},
+          {"id": "w8", "zh": "信任", "pinyin": "xìnrèn"}
+        ]
+      }
+    ],
+    "grammar": [
+      {
+        "title": { "en": "Even if: jíshǐ... yě...", "vi": "Cho dù... cũng (jíshǐ... yě...)" },
+        "point": "'即使' (jíshǐ) introduces a hypothetical condition. It is similar to '哪怕' but is slightly more formal and frequently used in written Chinese to emphasize that the result remains unchanged.",
+        "hsk_ref": "中-高-即使(jíshǐ) …… 也( yě) ……"
+      }
+    ],
+    "vocabulary_inventory": [
+      {
+        "id": 67,
+        "zh": "诚实",
+        "pinyin": "chéngshí",
+        "en": "honest / truthful",
+        "vi": "thành thật",
+        "hsk": 4,
+        "examples": [
+          { "zh": "他是一个非常诚实的人。", "en": "He is a very honest person.", "vi": "Anh ấy là một người rất thành thật." }
+        ]
+      },
+      {
+        "id": 68,
+        "zh": "即使",
+        "pinyin": "jíshǐ",
+        "en": "even if / even though",
+        "vi": "cho dù",
+        "hsk": 4,
+        "examples": [
+          { "zh": "即使明天不下雨，我也想留在家里。", "en": "Even if it doesn't rain tomorrow, I still want to stay home.", "vi": "Cho dù ngày mai không mưa, tôi cũng muốn ở nhà." }
+        ]
+      }
+    ],
+    "practice": [
+      {
+        "question": { "en": "Which conjunction is often paired with '也' to mean 'even if'?", "vi": "Liên từ nào thường đi cặp với '也' để có nghĩa là 'cho dù'?" },
+        "options": ["A. 既然", "B. 即使", "C. 因为", "D. 虽然"],
+        "answer": "B"
+      },
+      {
+        "question": { "en": "Translate 'to win trust':", "vi": "Dịch cụm 'giành được sự tin tưởng':" },
+        "options": ["A. 积累信任", "B. 赢得信任", "C. 保护信任", "D. 遵守信任"],
+        "answer": "B"
+      },
+      {
+        "question": { "en": "What does '诚实' mean?", "vi": "'诚实' nghĩa là gì?" },
+        "options": ["A. Clever", "B. Honest", "C. Brave", "D. Fast"],
+        "answer": "B"
+      }
+    ]
+  },
+  {
+    "hsk_level": 4,
+    "lesson_id": "L33",
+    "theme": {
+      "en": "Social Progress",
+      "vi": "Tiến bộ xã hội"
+    },
+    "characters": ["李明 (Lǐ Míng)", "张伟 (Zhāng Wěi)"],
+    "story": [
+      {
+        "zh": "李明认为，教育、医疗以及公共交通的进步，是一个社会发展的标志。",
+        "pinyin": "Lǐ Míng rènwéi, jiàoyù, yīliáo yǐjí gōnggòng jiāotōng de jìnbù, shì yí gè shèhuì fāzhǎn de biāozhì.",
+        "en": "Li Ming believes that progress in education, medical care, and public transportation is a sign of a society's development.",
+        "vi": "Lý Minh cho rằng sự tiến bộ của giáo dục, y tế cũng như giao thông công cộng là biểu tượng của sự phát triển xã hội.",
+        "segments": [
+          {"id": "w1", "zh": "医疗", "pinyin": "yīliáo"},
+          {"id": "w2", "zh": "以及", "pinyin": "yǐjí"},
+          {"id": "w3", "zh": "标志", "pinyin": "biāozhì"}
+        ]
+      },
+      {
+        "zh": "张伟注意到，随着生活条件的改善，人们开始关注精神生活的丰富。",
+        "pinyin": "Zhāng Wěi zhùyì dào, suízhe shēnghuó tiáojiàn de gǎishàn, rénmen kāishǐ guānzhù jīngshén shēnghuó de fēngfù.",
+        "en": "Zhang Wei noticed that with the improvement of living conditions, people began to pay attention to the enrichment of spiritual life.",
+        "vi": "Trương Vĩ chú ý thấy rằng, cùng với sự cải thiện của điều kiện sống, mọi người bắt đầu quan tâm đến sự phong phú của đời sống tinh thần.",
+        "segments": [
+          {"id": "w4", "zh": "改善", "pinyin": "gǎishàn"},
+          {"id": "w5", "zh": "丰富", "pinyin": "fēngfù"}
+        ]
+      },
+      {
+        "zh": "这种全面的发展，为下一代创造了更好的成长环境。",
+        "pinyin": "Zhè zhǒng quánmiàn de fāzhǎn, wèi xià yí dài chuàngzàole gèng hǎo de chéngzhǎng huánjìng.",
+        "en": "This comprehensive development creates a better growth environment for the next generation.",
+        "vi": "Sự phát triển toàn diện này đã tạo ra một môi trường trưởng thành tốt hơn cho thế hệ sau.",
+        "segments": [
+          {"id": "w6", "zh": "全面", "pinyin": "quánmiàn"},
+          {"id": "w7", "zh": "创造", "pinyin": "chuàngzào"}
+        ]
+      }
+    ],
+    "grammar": [
+      {
+        "title": { "en": "As well as: yǐjí", "vi": "Cũng như / Và (yǐjí)" },
+        "point": "'以及' (yǐjí) is a formal conjunction used to connect nouns or phrases. It is similar to '和' (hé) but is more formal and often used to link the final item in a long list.",
+        "hsk_ref": "中-高-以及(yǐjí)"
+      }
+    ],
+    "vocabulary_inventory": [
+      {
+        "id": 69,
+        "zh": "以及",
+        "pinyin": "yǐjí",
+        "en": "as well as / and / along with",
+        "vi": "cũng như / và",
+        "hsk": 4,
+        "examples": [
+          { "zh": "老师、学生以及家长都参加了会议。", "en": "Teachers, students, and parents all attended the meeting.", "vi": "Thầy cô, học sinh cũng như phụ huynh đều tham gia cuộc họp." }
+        ]
+      },
+      {
+        "id": 70,
+        "zh": "创造",
+        "pinyin": "chuàngzào",
+        "en": "to create / to produce",
+        "vi": "tạo ra / sáng tạo",
+        "hsk": 4,
+        "examples": [
+          { "zh": "劳动创造了人类。", "en": "Labor created humanity.", "vi": "Lao động đã sáng tạo ra con người." }
+        ]
+      }
+    ],
+    "practice": [
+      {
+        "question": { "en": "Which word is the most formal way to link the last item in a list of nouns?", "vi": "Từ nào là cách trang trọng nhất để liên kết mục cuối cùng trong một danh sách danh từ?" },
+        "options": ["A. 和", "B. 以及", "C. 或者", "D. 还有"],
+        "answer": "B"
+      },
+      {
+        "question": { "en": "Translate 'to create opportunities':", "vi": "Dịch cụm 'tạo ra cơ hội':" },
+        "options": ["A. 创造机会", "B. 改善机会", "C. 受到机会", "D. 积累机会"],
+        "answer": "A"
+      },
+      {
+        "question": { "en": "What is the meaning of '全面'?", "vi": "'全面' nghĩa là gì?" },
+        "options": ["A. Partial", "B. Comprehensive / All-around", "C. Simple", "D. Difficult"],
+        "answer": "B"
+      }
+    ]
+  },
+  {
+    "hsk_level": 4,
+    "lesson_id": "L34",
+    "theme": {
+      "en": "Career Promotion",
+      "vi": "Thăng tiến sự nghiệp"
+    },
+    "characters": ["林芳 (Lín Fāng)", "陈美 (Chén Měi)"],
+    "story": [
+      {
+        "zh": "经过几年的努力，林芳终于获得了升职的机会，成为了部门经理。",
+        "pinyin": "Jīngguò jǐ nián de nǔlì, Lín Fāng zhōngyú huòdéle shēngzhí de jīhuì, chéngwéile bùmén jīnglǐ.",
+        "en": "After several years of hard work, Lin Fang finally gained an opportunity for promotion and became the department manager.",
+        "vi": "Sau vài năm nỗ lực, Lâm Phương cuối cùng đã nhận được cơ hội thăng chức và trở thành trưởng phòng.",
+        "segments": [
+          {"id": "w1", "zh": "升职", "pinyin": "shēngzhí"},
+          {"id": "w2", "zh": "部门", "pinyin": "bùmén"}
+        ]
+      },
+      {
+        "zh": "她意识到，成功是逐步积累的结果，千万不能急于求成。",
+        "pinyin": "Tā yìshídào, chénggōng shì zhùbù jīlěi de jiéguǒ, qiānwàn bùnéng jíyúqiúchéng.",
+        "en": "She realized that success is the result of step-by-step accumulation; one must absolutely not be impatient for success.",
+        "vi": "Cô ấy nhận ra rằng, thành công là kết quả của sự tích lũy từng bước, tuyệt đối không được nôn nóng đạt được kết quả.",
+        "segments": [
+          {"id": "w3", "zh": "逐步", "pinyin": "zhùbù"},
+          {"id": "w4", "zh": "积累", "pinyin": "jīlěi"},
+          {"id": "w5", "zh": "千万", "pinyin": "qiānwàn"}
+        ]
+      },
+      {
+        "zh": "陈美向她表示祝贺，并希望能像她一样不断进步。",
+        "pinyin": "Chén Měi xiàng tā biǎoshì zhùhè, bìng xīwàng néng xiàng tā yíyàng búduàn jìnbù.",
+        "en": "Chen Mei offered her congratulations and hoped to make continuous progress just like her.",
+        "vi": "Trần Mỹ gửi lời chúc mừng đến cô ấy, đồng thời hy vọng có thể giống như cô ấy không ngừng tiến bộ.",
+        "segments": [
+          {"id": "w6", "zh": "祝贺", "pinyin": "zhùhè"},
+          {"id": "w7", "zh": "不断", "pinyin": "búduàn"}
+        ]
+      }
+    ],
+    "grammar": [
+      {
+        "title": { "en": "Step by step: zhùbù", "vi": "Từng bước (zhùbù)" },
+        "point": "'逐步' (zhùbù) is an adverb used to describe a process that develops or changes in stages. It is more formal than '一步一步'.",
+        "hsk_ref": "中-高-逐步(zhùbù)"
+      }
+    ],
+    "vocabulary_inventory": [
+      {
+        "id": 71,
+        "zh": "逐步",
+        "pinyin": "zhùbù",
+        "en": "step by step / gradually",
+        "vi": "từng bước",
+        "hsk": 4,
+        "examples": [
+          { "zh": "问题正在逐步得到解决。", "en": "The problem is being solved step by step.", "vi": "Vấn đề đang dần được giải quyết từng bước." }
+        ]
+      },
+      {
+        "id": 72,
+        "zh": "升职",
+        "pinyin": "shēngzhí",
+        "en": "to get promoted",
+        "vi": "thăng chức",
+        "hsk": 4,
+        "examples": [
+          { "zh": "恭喜你升职了！", "en": "Congratulations on your promotion!", "vi": "Chúc mừng bạn đã được thăng chức!" }
+        ]
+      }
+    ],
+    "practice": [
+      {
+        "question": { "en": "Which word is a formal adverb for 'gradually' or 'in stages'?", "vi": "Từ nào là trạng từ trang trọng có nghĩa là 'dần dần' hoặc 'theo từng giai đoạn'?" },
+        "options": ["A. 逐步", "B. 居然", "C. 甚至", "D. 难道"],
+        "answer": "A"
+      },
+      {
+        "question": { "en": "Translate 'to get a promotion':", "vi": "Dịch cụm 'được thăng chức':" },
+        "options": ["A. 获得升职", "B. 改善升职", "C. 受到升职", "D. 坚持升职"],
+        "answer": "A"
+      },
+      {
+        "question": { "en": "What does '祝贺' mean?", "vi": "'祝贺' nghĩa là gì?" },
+        "options": ["A. To suggest", "B. To congratulate", "C. To apologize", "D. To criticize"],
+        "answer": "B"
+      }
+    ]
+  },
+  {
+    "hsk_level": 4,
+    "lesson_id": "L35",
+    "theme": {
+      "en": "Planning for the Future",
+      "vi": "Lập kế hoạch tương lai"
+    },
+    "characters": ["李明 (Lǐ Míng)", "林芳 (Lín Fāng)"],
+    "story": [
+      {
+        "zh": "李明建议林芳，应该提前为部门的未来发展制定计划。",
+        "pinyin": "Lǐ Míng jiànyì Lín Fāng, yīnggāi tíqián wèi bùmén de wèilái fāzhǎn zhìdìng jìhuà.",
+        "en": "Li Ming suggested to Lin Fang that she should formulate a plan for the department's future development in advance.",
+        "vi": "Lý Minh góp ý với Lâm Phương rằng nên lập kế hoạch trước cho sự phát triển tương lai của bộ phận.",
+        "segments": [
+          {"id": "w1", "zh": "提前", "pinyin": "tíqián"},
+          {"id": "w2", "zh": "制定", "pinyin": "zhìdìng"}
+        ]
+      },
+      {
+        "zh": "我们要不断学习新知识，以便适应日益激烈的竞争环境。",
+        "pinyin": "Wǒmen yào búduàn xuéxí xīn zhīshí, yǐbiàn shìyìng rìyì jīliè de jìngzhēng huánjìng.",
+        "en": "We must continuously learn new knowledge so as to adapt to the increasingly fierce competitive environment.",
+        "vi": "Chúng ta phải không ngừng học hỏi kiến thức mới để có thể thích nghi với môi trường cạnh tranh ngày càng khốc liệt.",
+        "segments": [
+          {"id": "w3", "zh": "以便", "pinyin": "yǐbiàn"},
+          {"id": "w4", "zh": "日益", "pinyin": "rìyì"},
+          {"id": "w5", "zh": "激烈", "pinyin": "jīliè"}
+        ]
+      },
+      {
+        "zh": "林芳非常赞同，她决定下周就召集大家开会讨论。",
+        "pinyin": "Lín Fāng fēicháng zàntóng, tā juédìng xià zhōu jiù zhàojí dàjiā kāihuì tǎolùn.",
+        "en": "Lin Fang very much agreed; she decided to call everyone together for a meeting to discuss it next week.",
+        "vi": "Lâm Phương vô cùng tán đồng, cô ấy quyết định tuần tới sẽ triệu tập mọi người họp để thảo luận.",
+        "segments": [
+          {"id": "w6", "zh": "赞同", "pinyin": "zàntóng"},
+          {"id": "w7", "zh": "召集", "pinyin": "zhàojí"}
+        ]
+      }
+    ],
+    "grammar": [
+      {
+        "title": { "en": "So that / In order to: yǐbiàn", "vi": "Để / Nhằm để (yǐbiàn)" },
+        "point": "'以便' (yǐbiàn) is a conjunction used to connect two clauses. The first clause describes an action or preparation, and the second clause describes the purpose or benefit of that action.",
+        "hsk_ref": "中-高-以便(yǐbiàn)"
+      }
+    ],
+    "vocabulary_inventory": [
+      {
+        "id": 73,
+        "zh": "以便",
+        "pinyin": "yǐbiàn",
+        "en": "so that / in order to / with a view to",
+        "vi": "để / nhằm để",
+        "hsk": 4,
+        "examples": [
+          { "zh": "请留下联系方式，以便我们通知您。", "en": "Please leave your contact information so that we can notify you.", "vi": "Vui lòng để lại thông tin liên lạc để chúng tôi tiện thông báo cho bạn." }
+        ]
+      },
+      {
+        "id": 74,
+        "zh": "提前",
+        "pinyin": "tíqián",
+        "en": "in advance / ahead of time",
+        "vi": "trước / sớm hơn",
+        "hsk": 4,
+        "examples": [
+          { "zh": "如果计划有变，请提前告诉我。", "en": "If the plan changes, please tell me in advance.", "vi": "Nếu kế hoạch có thay đổi, vui lòng báo cho tôi trước." }
+        ]
+      }
+    ],
+    "practice": [
+      {
+        "question": { "en": "Which word is a conjunction used to show the purpose of an earlier action?", "vi": "Từ nào là liên từ dùng để chỉ mục đích của một hành động trước đó?" },
+        "options": ["A. 以便", "B. 由于", "C. 从而", "D. 反而"],
+        "answer": "A"
+      },
+      {
+        "question": { "en": "Translate 'to prepare in advance':", "vi": "Dịch cụm 'chuẩn bị trước':" },
+        "options": ["A. 提前准备", "B. 逐步准备", "C. 甚至准备", "D. 获得准备"],
+        "answer": "A"
+      },
+      {
+        "question": { "en": "What does '制定' usually refer to?", "vi": "'制定' thường dùng để chỉ việc gì?" },
+        "options": ["A. Making a mistake", "B. Formulating/Establishing (plans, laws)", "C. Buying products", "D. Traveling"],
+        "answer": "B"
+      }
+    ]
+  },
+  {
+    "hsk_level": 4,
+    "lesson_id": "L36",
+    "theme": {
+      "en": "Art & Exhibition",
+      "vi": "Nghệ thuật & Triển lãm"
+    },
+    "characters": ["张伟 (Zhāng Wěi)", "林芳 (Lín Fāng)", "陈美 (Chén Měi)"],
+    "story": [
+      {
+        "zh": "张伟终于举办了自己的个人摄影展览，邀请朋友们去参观。",
+        "pinyin": "Zhāng Wěi zhōngyú jǔbànle zìjǐ de gèrén shèyǐng zhǎnlǎn, yāoqǐng péngyǒumen qù cānguān.",
+        "en": "Zhang Wei finally held his own solo photography exhibition and invited his friends to visit.",
+        "vi": "Trương Vĩ cuối cùng đã tổ chức triển lãm nhiếp ảnh cá nhân của mình và mời bạn bè đến tham quan.",
+        "segments": [
+          {"id": "w1", "zh": "举办", "pinyin": "jǔbàn"},
+          {"id": "w2", "zh": "展览", "pinyin": "zhǎnlǎn"},
+          {"id": "w3", "zh": "参观", "pinyin": "cānguān"}
+        ]
+      },
+      {
+        "zh": "林芳非常欣赏这些照片，她认为张伟的作品有着独特的风格。",
+        "pinyin": "Lín Fāng fēicháng xīnshǎng zhèxiē zhàopiàn, tā rènwéi Zhāng Wěi de zuòpǐn yǒuzhe dútè de fēnggé.",
+        "en": "Lin Fang really appreciated these photos; she believes Zhang Wei's works have a unique style.",
+        "vi": "Lâm Phương rất tán thưởng những bức ảnh này, cô cho rằng tác phẩm của Trương Vĩ có một phong cách độc đáo.",
+        "segments": [
+          {"id": "w4", "zh": "欣赏", "pinyin": "xīnshǎng"},
+          {"id": "w5", "zh": "独特", "pinyin": "dútè"},
+          {"id": "w6", "zh": "风格", "pinyin": "fēnggé"}
+        ]
+      },
+      {
+        "zh": "通过艺术，张伟向大家展示了他对大自然和生活的深情。",
+        "pinyin": "Tōngguò yìshù, Zhāng Wěi xiàng dàjiā zhǎnshìle tā duì dàzìrán hé shēnghuó de shēnqíng.",
+        "en": "Through art, Zhang Wei showed everyone his deep affection for nature and life.",
+        "vi": "Thông qua nghệ thuật, Trương Vĩ đã thể hiện cho mọi người thấy tình cảm sâu nặng của mình đối với thiên nhiên và cuộc sống.",
+        "segments": [
+          {"id": "w7", "zh": "艺术", "pinyin": "yìshù"},
+          {"id": "w8", "zh": "展示", "pinyin": "zhǎnshì"}
+        ]
+      }
+    ],
+    "grammar": [
+      {
+        "title": { "en": "Appreciation: xīnshǎng", "vi": "Thưởng thức / Tán thưởng (xīnshǎng)" },
+        "point": "'欣赏' (xīnshǎng) means to enjoy and recognize the value of something, usually art, music, or a person's qualities/talents.",
+        "hsk_ref": "中-高-欣赏(xīnshǎng)"
+      }
+    ],
+    "vocabulary_inventory": [
+      {
+        "id": 75,
+        "zh": "展览",
+        "pinyin": "zhǎnlǎn",
+        "en": "exhibition / show",
+        "vi": "triển lãm",
+        "hsk": 4,
+        "examples": [
+          { "zh": "画廊正在举办现代艺术展览。", "en": "The gallery is holding a modern art exhibition.", "vi": "Phòng tranh đang tổ chức triển lãm nghệ thuật hiện đại." }
+        ]
+      },
+      {
+        "id": 76,
+        "zh": "风格",
+        "pinyin": "fēnggé",
+        "en": "style / manner",
+        "vi": "phong cách",
+        "hsk": 4,
+        "examples": [
+          { "zh": "这栋建筑的风格非常古老。", "en": "The style of this building is very ancient.", "vi": "Phong cách của tòa nhà này rất cổ kính." }
+        ]
+      }
+    ],
+    "practice": [
+      {
+        "question": { "en": "Which word is a noun for an 'art show' or 'exhibition'?", "vi": "Từ nào là danh từ chỉ 'triển lãm'?" },
+        "options": ["A. 举办", "B. 展览", "C. 参观", "D. 展示"],
+        "answer": "B"
+      },
+      {
+        "question": { "en": "Translate 'unique style':", "vi": "Dịch cụm 'phong cách độc đáo':" },
+        "options": ["A. 独特风格", "B. 逐步风格", "C. 普遍风格", "D. 极其风格"],
+        "answer": "A"
+      },
+      {
+        "question": { "en": "What is the meaning of '欣赏'?", "vi": "'欣赏' nghĩa là gì?" },
+        "options": ["A. To ignore", "B. To appreciate/admire", "C. To apologize", "D. To criticize"],
+        "answer": "B"
+      }
+    ]
+  },
+  {
+    "hsk_level": 4,
+    "lesson_id": "L37",
+    "theme": {
+      "en": "Social Harmony",
+      "vi": "Hòa hợp xã hội"
+    },
+    "characters": ["李明 (Lǐ Míng)"],
+    "story": [
+      {
+        "zh": "李明认为，建设和谐社会需要每个人的共同参与。",
+        "pinyin": "Lǐ Míng rènwéi, jiànshè héxié shèhuì xūyào měi gè rén de gòngtóng cānyù.",
+        "en": "Li Ming believes that building a harmonious society requires the joint participation of everyone.",
+        "vi": "Lý Minh cho rằng việc xây dựng một xã hội hòa hợp cần có sự tham gia chung của mỗi người.",
+        "segments": [
+          {"id": "w1", "zh": "和谐", "pinyin": "héxié"},
+          {"id": "w2", "zh": "建设", "pinyin": "jiànshè"},
+          {"id": "w3", "zh": "参与", "pinyin": "cānyù"}
+        ]
+      },
+      {
+        "zh": "如果大家能相互包容、彼此尊重，那么社会矛盾就会大大减少。",
+        "pinyin": "Rúguǒ dàjiā néng xiānghù bāoróng, bǐcǐ zūnzhòng, nàme shèhuì máodùn jiù huì dàdà jiǎnshǎo.",
+        "en": "If everyone can be inclusive of each other and respect one another, then social conflicts will be greatly reduced.",
+        "vi": "Nếu mọi người có thể bao dung lẫn nhau, tôn trọng đối phương, thì mâu thuẫn xã hội sẽ giảm đi đáng kể.",
+        "segments": [
+          {"id": "w4", "zh": "包容", "pinyin": "bāoróng"},
+          {"id": "w5", "zh": "彼此", "pinyin": "bǐcǐ"},
+          {"id": "w6", "zh": "矛盾", "pinyin": "máodùn"}
+        ]
+      },
+      {
+        "zh": "这种美好的气氛，让城市生活变得更加温馨、舒适。",
+        "pinyin": "Zhè zhǒng měihǎo de qìfēn, ràng chéngshì shēnghuó biàn de gèngjiā wēnxīn, shūshì.",
+        "en": "This beautiful atmosphere makes city life even more warm and comfortable.",
+        "vi": "Bầu không khí tốt đẹp này khiến cuộc sống thành thị trở nên ấm áp và thoải mái hơn.",
+        "segments": [
+          {"id": "w7", "zh": "气氛", "pinyin": "qìfēn"},
+          {"id": "w8", "zh": "温馨", "pinyin": "wēnxīn"}
+        ]
+      }
+    ],
+    "grammar": [
+      {
+        "title": { "en": "Mutual: xiānghù vs bǐcǐ (Deepen)", "vi": "Tương hỗ: xiānghù và bǐcǐ" },
+        "point": "In HSK 4, we use '相互' as an adverb (相互包容) and '彼此' as a pronoun. Both are used here to emphasize the collaborative nature of a harmonious society.",
+        "hsk_ref": "中-高-彼此(bǐcǐ) vs 相互(xiānghù)"
+      }
+    ],
+    "vocabulary_inventory": [
+      {
+        "id": 77,
+        "zh": "和谐",
+        "pinyin": "héxié",
+        "en": "harmonious / harmony",
+        "vi": "hòa hợp / hài hòa",
+        "hsk": 4,
+        "examples": [
+          { "zh": "我们要共同创造和谐的社会。", "en": "We must jointly create a harmonious society.", "vi": "Chúng ta phải cùng nhau tạo nên một xã hội hòa hợp." }
+        ]
+      },
+      {
+        "id": 78,
+        "zh": "气氛",
+        "pinyin": "qìfēn",
+        "en": "atmosphere / mood",
+        "vi": "bầu không khí",
+        "hsk": 4,
+        "examples": [
+          { "zh": "晚会的气氛非常热烈。", "en": "The atmosphere of the party was very enthusiastic.", "vi": "Bầu không khí của buổi tiệc tối rất sôi nổi." }
+        ]
+      }
+    ],
+    "practice": [
+      {
+        "question": { "en": "Which word is an adjective for 'harmonious'?", "vi": "Từ nào là tính từ có nghĩa là 'hòa hợp'?" },
+        "options": ["A. 和谐", "B. 深刻", "C. 激烈", "D. 普遍"],
+        "answer": "A"
+      },
+      {
+        "question": { "en": "Translate 'warm atmosphere':", "vi": "Dịch cụm 'bầu không khí ấm áp':" },
+        "options": ["A. 温馨气氛", "B. 稳定气氛", "C. 实际气氛", "D. 传统气氛"],
+        "answer": "A"
+      },
+      {
+        "question": { "en": "What does '包容' mean?", "vi": "'包容' nghĩa là gì?" },
+        "options": ["A. To exclude", "B. To include/be tolerant of", "C. To argue", "D. To hide"],
+        "answer": "B"
+      }
+    ]
+  },
+  {
+    "hsk_level": 4,
+    "lesson_id": "L38",
+    "theme": {
+      "en": "Success & Reflection",
+      "vi": "Thành công & Phản tư"
+    },
+    "characters": ["林芳 (Lín Fāng)", "陈美 (Chén Měi)"],
+    "story": [
+      {
+        "zh": "作为部门经理，林芳对过去一年的工作做了全面的总结。",
+        "pinyin": "Zuòwéi bùmén jīnglǐ, Lín Fāng duì guòqù yì nián de gōngzuò zuòle quánmián de zǒngjié.",
+        "en": "As department manager, Lin Fang made a comprehensive summary of the work over the past year.",
+        "vi": "Với tư cách là trưởng phòng, Lâm Phương đã thực hiện một bản tổng kết toàn diện về công việc trong năm qua.",
+        "segments": [
+          {"id": "w1", "zh": "作为", "pinyin": "zuòwéi"},
+          {"id": "w2", "zh": "全面", "pinyin": "quánmiàn"},
+          {"id": "w3", "zh": "总结", "pinyin": "zǒngjié"}
+        ]
+      },
+      {
+        "zh": "她认为，只有经历了困难，才能对成功有更深刻的理解。",
+        "pinyin": "Tā rènwéi, zhǐyǒu jīnglìle kùnnan, cáinéng duì chénggōng yǒu gèng shēnkè de lǐjiě.",
+        "en": "She believes that only after experiencing difficulties can one have a deeper understanding of success.",
+        "vi": "Cô ấy cho rằng, chỉ khi trải qua khó khăn, người ta mới có thể có sự hiểu biết sâu sắc hơn về thành công.",
+        "segments": [
+          {"id": "w4", "zh": "经历", "pinyin": "jīnglì"},
+          {"id": "w5", "zh": "深刻", "pinyin": "shēnkè"},
+          {"id": "w6", "zh": "理解", "pinyin": "lǐjiě"}
+        ]
+      },
+      {
+        "zh": "陈美也感叹道，这段经历让她学会了如何独立面对挑战。",
+        "pinyin": "Chén Měi yě gǎntàn dào, zhè duàn jīnglì ràng tā xuéhuìle rúhé dúlì miànduì tiǎozhàn.",
+        "en": "Chen Mei also lamented that this experience taught her how to face challenges independently.",
+        "vi": "Trần Mỹ cũng cảm thán rằng, đoạn trải nghiệm này đã giúp cô học được cách đối mặt với thử thách một cách độc lập.",
+        "segments": [
+          {"id": "w7", "zh": "经历", "pinyin": "jīnglì"},
+          {"id": "w8", "zh": "独立", "pinyin": "dúlì"}
+        ]
+      }
+    ],
+    "grammar": [
+      {
+        "title": { "en": "Deep/Profound: shēnkè", "vi": "Sâu sắc (shēnkè)" },
+        "point": "'深刻' (shēnkè) is an adjective used to describe thoughts, impressions, or understandings that are deep and meaningful. It is a common 'written-style' word in HSK 4.",
+        "hsk_ref": "中-高-深刻(shēnkè)"
+      }
+    ],
+    "vocabulary_inventory": [
+      {
+        "id": 79,
+        "zh": "深刻",
+        "pinyin": "shēnkè",
+        "en": "deep / profound",
+        "vi": "sâu sắc",
+        "hsk": 4,
+        "examples": [
+          { "zh": "这篇文章给我留下了深刻的印象。", "en": "This article left a deep impression on me.", "vi": "Bài viết này đã để lại ấn tượng sâu sắc cho tôi." }
+        ]
+      },
+      {
+        "id": 80,
+        "zh": "独立",
+        "pinyin": "dúlì",
+        "en": "independent",
+        "vi": "độc lập",
+        "hsk": 4,
+        "examples": [
+          { "zh": "孩子应该学会独立生活。", "en": "Children should learn to live independently.", "vi": "Trẻ em nên học cách sống độc lập." }
+        ]
+      }
+    ],
+    "practice": [
+      {
+        "question": { "en": "Which word is an adjective meaning 'profound' or 'deep'?", "vi": "Từ nào là tính từ có nghĩa là 'sâu sắc'?" },
+        "options": ["A. 深刻", "B. 激烈", "C. 极其", "D. 普遍"],
+        "answer": "A"
+      },
+      {
+        "question": { "en": "Translate 'independent living':", "vi": "Dịch cụm 'sống độc lập':" },
+        "options": ["A. 独立生活", "B. 适应生活", "C. 改善生活", "D. 积累生活"],
+        "answer": "A"
+      },
+      {
+        "question": { "en": "What is the meaning of '全面的总结'?", "vi": "'全面的总结' nghĩa là gì?" },
+        "options": ["A. Partial summary", "B. Comprehensive summary", "C. Simple summary", "D. Brief summary"],
+        "answer": "B"
+      }
+    ]
+  },
+  {
+    "hsk_level": 4,
+    "lesson_id": "L39",
+    "theme": {
+      "en": "Future Development",
+      "vi": "Phát triển tương lai"
+    },
+    "characters": ["李明 (Lǐ Míng)", "张伟 (Zhāng Wěi)"],
+    "story": [
+      {
+        "zh": "李明认为，把握未来的发展趋势对每个人都极其重要。",
+        "pinyin": "Lǐ Míng rènwéi, bǎwò wèilái de fāzhǎn qūshì duì měi gè rén dōu jíqí zhòngyào.",
+        "en": "Li Ming believes that grasping future development trends is extremely important for everyone.",
+        "vi": "Lý Minh cho rằng, việc nắm bắt xu hướng phát triển trong tương lai là cực kỳ quan trọng đối với mỗi người.",
+        "segments": [
+          {"id": "w1", "zh": "把握", "pinyin": "bǎwò"},
+          {"id": "w2", "zh": "趋势", "pinyin": "qūshì"},
+          {"id": "w3", "zh": "极其", "pinyin": "jíqí"}
+        ]
+      },
+      {
+        "zh": "既然世界在不断变化，我们就必须保持学习的热情。",
+        "pinyin": "Jìrán shìjiè zài búduàn biànhuà, wǒmen jiù bìxū bǎochí xuéxí de rèqíng.",
+        "en": "Since the world is constantly changing, we must maintain our passion for learning.",
+        "vi": "Nếu thế giới đang không ngừng thay đổi, thì chúng ta nhất định phải giữ vững niềm đam mê học hỏi.",
+        "segments": [
+          {"id": "w4", "zh": "既然", "pinyin": "jìrán"},
+          {"id": "w5", "zh": "不断", "pinyin": "búduàn"},
+          {"id": "w6", "zh": "热情", "pinyin": "rèqíng"}
+        ]
+      },
+      {
+        "zh": "张伟赞同道：“通过不断地尝试，我们才能发现更多的可能性。”",
+        "pinyin": "Zhāng Wěi zàntóng dào: 'Tōngguò búduàn de chángshì, wǒmen cáinéng fāxiàn gèng duō de kěnéngxìng.'",
+        "en": "Zhang Wei agreed: 'Only through constant experimentation can we discover more possibilities.'",
+        "vi": "Trương Vĩ tán đồng: 'Thông qua việc không ngừng thử nghiệm, chúng ta mới có thể khám phá thêm nhiều khả năng.'",
+        "segments": [
+          {"id": "w7", "zh": "赞同", "pinyin": "zàntóng"},
+          {"id": "w8", "zh": "尝试", "pinyin": "chángshì"},
+          {"id": "w9", "zh": "可能性", "pinyin": "kěnéngxìng"}
+        ]
+      }
+    ],
+    "grammar": [
+      {
+        "title": { "en": "Trend: qūshì", "vi": "Xu hướng (qūshì)" },
+        "point": "'趋势' (qūshì) is a noun referring to the general direction in which something is developing or changing. It is often paired with '把握' (bǎwò - to grasp/seize).",
+        "hsk_ref": "中-高-趋势(qūshì)"
+      }
+    ],
+    "vocabulary_inventory": [
+      {
+        "id": 81,
+        "zh": "趋势",
+        "pinyin": "qūshì",
+        "en": "trend / tendency",
+        "vi": "xu hướng",
+        "hsk": 4,
+        "examples": [
+          { "zh": "这种趋势还会继续下去。", "en": "This trend will continue.", "vi": "Xu hướng này sẽ còn tiếp tục diễn ra." }
+        ]
+      },
+      {
+        "id": 82,
+        "zh": "把握",
+        "pinyin": "bǎwò",
+        "en": "to grasp / to seize / assurance",
+        "vi": "nắm bắt",
+        "hsk": 4,
+        "examples": [
+          { "zh": "你要把握住这次机会。", "en": "You must seize this opportunity.", "vi": "Bạn phải nắm bắt lấy cơ hội lần này." }
+        ]
+      }
+    ],
+    "practice": [
+      {
+        "question": { "en": "Which word is a noun for 'development trend'?", "vi": "Từ nào là danh từ chỉ 'xu hướng phát triển'?" },
+        "options": ["A. 转变", "B. 趋势", "C. 改善", "D. 目标"],
+        "answer": "B"
+      },
+      {
+        "question": { "en": "Translate 'to grasp the opportunity':", "vi": "Dịch cụm 'nắm bắt cơ hội':" },
+        "options": ["A. 把握机会", "B. 建立机会", "C. 获得机会", "D. 实现机会"],
+        "answer": "A"
+      },
+      {
+        "question": { "en": "What does '可能性' mean?", "vi": "'可能性' nghĩa là gì?" },
+        "options": ["A. Difficulty", "B. Possibility", "C. Certainty", "D. Result"],
+        "answer": "B"
+      }
+    ]
+  },
+  {
+    "hsk_level": 4,
+    "lesson_id": "L40",
+    "theme": {
+      "en": "Grand Review & Graduation",
+      "vi": "Tổng kết & Tốt nghiệp"
+    },
+    "characters": ["林芳 (Lín Fāng)", "张伟 (Zhāng Wěi)", "李明 (Lǐ Míng)", "陈美 (Chén Měi)"],
+    "story": [
+      {
+        "zh": "为了庆祝通过HSK 4级，大家举办了一次由衷的聚会。",
+        "pinyin": "Wèile qìngzhù tōngguò HSK sì jí, dàjiā jǔbànle yí cì yóuzhōng de jùhuì.",
+        "en": "To celebrate passing HSK Level 4, everyone held a sincere gathering.",
+        "vi": "Để ăn mừng việc vượt qua HSK cấp 4, mọi người đã tổ chức một buổi tụ tập chân thành.",
+        "segments": [
+          {"id": "w1", "zh": "庆祝", "pinyin": "qìngzhù"},
+          {"id": "w2", "zh": "由衷", "pinyin": "yóuzhōng"},
+          {"id": "w3", "zh": "聚会", "pinyin": "jùhuì"}
+        ]
+      },
+      {
+        "zh": "李明总结道：“这一路走来，我们不仅获得了知识，更学会了如何面对生活。”",
+        "pinyin": "Lǐ Míng zǒngjié dào: 'Zhè yí lù zǒu lái, wǒmen bùjǐn huòdéle zhīshí, gèng xuéhuìle rúhé miànduì shēnghuó.'",
+        "en": "Li Ming summarized: 'Along this journey, we have not only gained knowledge but also learned how to face life.'",
+        "vi": "Lý Minh tổng kết: 'Đi hết chặng đường này, chúng ta không chỉ nhận được kiến thức mà còn học được cách đối diện với cuộc sống.'",
+        "segments": [
+          {"id": "w4", "zh": "获得", "pinyin": "huòdé"},
+          {"id": "w5", "zh": "面对", "pinyin": "miànduì"}
+        ]
+      },
+      {
+        "zh": "只要保持这种坚持不懈的精神，未来的挑战都将不再是困难。",
+        "pinyin": "Zhǐyào bǎochí zhè zhǒng jiānchíbúxiè de jīngshén, wèilái de tiǎozhàn dōu jiāng búzài shì kùnnan.",
+        "en": "As long as we maintain this spirit of perseverance, future challenges will no longer be difficulties.",
+        "vi": "Chỉ cần giữ vững tinh thần kiên trì không bỏ cuộc này, những thử thách trong tương lai sẽ không còn là khó khăn nữa.",
+        "segments": [
+          {"id": "w6", "zh": "坚持不懈", "pinyin": "jiānchíbúxiè"},
+          {"id": "w7", "zh": "未来", "pinyin": "wèilái"}
+        ]
+      }
+    ],
+    "grammar": [
+      {
+        "title": { "en": "HSK 4 Grammar Synthesis", "vi": "Tổng hợp ngữ pháp HSK 4" },
+        "point": "At the end of HSK 4, you should be comfortable with: 1. Logic pairs (与其...不如, 既然...就, 哪怕...也). 2. Degree adverbs (极其, 甚至, 竟然). 3. Written-style connectors (从而, 导致, 凡是, 以及).",
+        "hsk_ref": "HSK 4 Final Review"
+      }
+    ],
+    "vocabulary_inventory": [
+      {
+        "id": 83,
+        "zh": "聚会",
+        "pinyin": "jùhuì",
+        "en": "gathering / party / to meet",
+        "vi": "tụ họp / buổi gặp mặt",
+        "hsk": 4,
+        "examples": [
+          { "zh": "周末我们有个同学聚会。", "en": "We have a class reunion this weekend.", "vi": "Cuối tuần chúng tôi có một buổi họp lớp." }
+        ]
+      },
+      {
+        "id": 84,
+        "zh": "未来",
+        "pinyin": "wèilái",
+        "en": "future / coming",
+        "vi": "tương lai",
+        "hsk": 4,
+        "examples": [
+          { "zh": "谁也无法预测未来。", "en": "No one can predict the future.", "vi": "Không ai có thể dự đoán trước được tương lai." }
+        ]
+      }
+    ],
+    "practice": [
+      {
+        "question": { "en": "Which idiom means 'to persevere' or 'to never give up'?", "vi": "Thành ngữ nào có nghĩa là 'kiên trì không bỏ cuộc'?" },
+        "options": ["A. 坚持不懈", "B. 莫名其妙", "C. 粗心大意", "D. 各种各样"],
+        "answer": "A"
+      },
+      {
+        "question": { "en": "Translate 'to face the challenges of the future':", "vi": "Dịch cụm 'đối mặt với những thử thách của tương lai':" },
+        "options": ["A. 面对未来的挑战", "B. 适应未来的挑战", "C. 改善未来的挑战", "D. 总结未来的挑战"],
+        "answer": "A"
+      },
+      {
+        "question": { "en": "What is the function of the '不仅...更...' structure used by Li Ming?", "vi": "Chức năng của cấu trúc '不仅...更...' mà Lý Minh đã dùng là gì?" },
+        "options": ["A. To show contrast", "B. To show progressive emphasis (not only... but even more...)", "C. To show a mistake", "D. To show a choice"],
+        "answer": "B"
+      }
+    ]
+  }
+]

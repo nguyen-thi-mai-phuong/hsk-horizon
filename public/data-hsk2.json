@@ -1,0 +1,2431 @@
+[
+  {
+    "hsk_level": 2,
+    "lesson_id": "L1",
+    "theme": {
+      "en": "New Friends",
+      "vi": "Bạn mới"
+    },
+    "story": [
+      {
+        "zh": "你好，请问你是班长吗？",
+        "pinyin": "Nǐ hǎo, qǐngwèn nǐ shì bānzhǎng ma?",
+        "en": "Hello, may I ask, are you the class monitor?",
+        "vi": "Chào bạn, cho hỏi bạn có phải là lớp trưởng không?",
+        "segments": [
+          { "id": "w1", "zh": "你好", "pinyin": "nǐ hǎo" },
+          { "id": "w2", "zh": "请问", "pinyin": "qǐngwèn" },
+          { "id": "w3", "zh": "你", "pinyin": "nǐ" },
+          { "id": "w4", "zh": "是", "pinyin": "shì" },
+          { "id": "w5", "zh": "班长", "pinyin": "bānzhǎng" },
+          { "id": "w6", "zh": "吗", "pinyin": "ma" }
+        ]
+      },
+      {
+        "zh": "是的。你需要我的帮助吗？",
+        "pinyin": "Shì de. Nǐ xūyào wǒ de bāngzhù ma?",
+        "en": "Yes. Do you need my help?",
+        "vi": "Đúng vậy. Bạn có cần tôi giúp đỡ không?",
+        "segments": [
+          { "id": "w7", "zh": "是的", "pinyin": "shì de" },
+          { "id": "w8", "zh": "你", "pinyin": "nǐ" },
+          { "id": "w9", "zh": "需要", "pinyin": "xūyào" },
+          { "id": "w10", "zh": "我", "pinyin": "wǒ" },
+          { "id": "w11", "zh": "的", "pinyin": "de" },
+          { "id": "w12", "zh": "帮助", "pinyin": "bāngzhù" },
+          { "id": "w13", "zh": "吗", "pinyin": "ma" }
+        ]
+      },
+      {
+        "zh": "我想报名。是今天报名还是明天报名？",
+        "pinyin": "Wǒ xiǎng bàomíng. Shì jīntiān bàomíng háishi míngtiān bàomíng?",
+        "en": "I want to sign up. Is it signing up today or tomorrow?",
+        "vi": "Tôi muốn đăng ký. Là đăng ký hôm nay hay là ngày mai?",
+        "segments": [
+          { "id": "w14", "zh": "我", "pinyin": "wǒ" },
+          { "id": "w15", "zh": "想", "pinyin": "xiǎng" },
+          { "id": "w16", "zh": "报名", "pinyin": "bàomíng" },
+          { "id": "w17", "zh": "是", "pinyin": "shì" },
+          { "id": "w18", "zh": "今天", "pinyin": "jīntiān" },
+          { "id": "w19", "zh": "报名", "pinyin": "bàomíng" },
+          { "id": "w20", "zh": "还是", "pinyin": "háishi" },
+          { "id": "w21", "zh": "明天", "pinyin": "míngtiān" },
+          { "id": "w22", "zh": "报名", "pinyin": "bàomíng" }
+        ]
+      },
+      {
+        "zh": "今天或者明天都可以。我们在办公室办手续。",
+        "pinyin": "Jīntiān huòzhě míngtiān dōu kěyǐ. Wǒmen zài bàngōngshì bàn shǒuxù.",
+        "en": "Today or tomorrow are both fine. We handle procedures in the office.",
+        "vi": "Hôm nay hoặc là ngày mai đều được. Chúng ta làm thủ tục ở văn phòng.",
+        "segments": [
+          { "id": "w23", "zh": "今天", "pinyin": "jīntiān" },
+          { "id": "w24", "zh": "或者", "pinyin": "huòzhě" },
+          { "id": "w25", "zh": "明天", "pinyin": "míngtiān" },
+          { "id": "w26", "zh": "都", "pinyin": "dōu" },
+          { "id": "w27", "zh": "可以", "pinyin": "kěyǐ" },
+          { "id": "w28", "zh": "我们", "pinyin": "wǒmen" },
+          { "id": "w29", "zh": "在", "pinyin": "zài" },
+          { "id": "w30", "zh": "办公室", "pinyin": "bàngōngshì" },
+          { "id": "w31", "zh": "办", "pinyin": "bàn" },
+          { "id": "w32", "zh": "手续", "pinyin": "shǒuxù" }
+        ]
+      }
+    ],
+    "grammar": [
+      {
+        "title": { "en": "háishì vs huòzhě", "vi": "háishì và huòzhě" },
+        "point": "Both mean 'or'. Use '还是' (háishì) in questions and '或者' (huòzhě) in statements.",
+        "hsk_ref": "初-还是(háishì) vs 或者(huòzhě)"
+      }
+    ],
+    "vocabulary_inventory": [
+      { "id": 7, "zh": "班长", "pinyin": "bānzhǎng", "en": "class monitor", "vi": "lớp trưởng", "hsk": 2 },
+      { "id": 8, "zh": "办", "pinyin": "bàn", "en": "to do/to handle", "vi": "làm/giải quyết", "hsk": 2 },
+      { "id": 10, "zh": "办公室", "pinyin": "bàngōngshì", "en": "office", "vi": "văn phòng", "hsk": 2 },
+      { "id": 12, "zh": "帮助", "pinyin": "bāngzhù", "en": "to help", "vi": "giúp đỡ", "hsk": 2 },
+      { "id": 14, "zh": "报名", "pinyin": "bàomíng", "en": "to sign up", "vi": "đăng ký", "hsk": 2 },
+      { "id": 30, "zh": "不错", "pinyin": "bú cuò", "en": "not bad", "vi": "không tồi", "hsk": 2 }
+    ],
+    "practice": [
+      {
+        "question": { "en": "Which word is used for 'or' in a statement?", "vi": "Từ nào dùng để nói 'hoặc là' trong câu khẳng định?" },
+        "options": ["A. 还是", "B. 或者", "C. 但是", "D. 觉得"],
+        "answer": "B"
+      },
+      {
+        "question": { "en": "Translate 'office':", "vi": "Dịch từ 'văn phòng':" },
+        "options": ["A. 班长", "B. 办公室", "C. 学校", "D. 商店"],
+        "answer": "B"
+      },
+      {
+        "question": { "en": "Fill in the blank: 你喝茶____喝咖啡？", "vi": "Điền vào chỗ trống: 你喝茶____喝咖啡？" },
+        "options": ["A. 或者", "B. 还是", "C. 和", "D. 也"],
+        "answer": "B"
+      }
+    ]
+  },
+  {
+    "hsk_level": 2,
+    "lesson_id": "L2",
+    "theme": {
+      "en": "Daily Routines",
+      "vi": "Thói quen"
+    },
+    "story": [
+      {
+        "zh": "你刚才去哪儿了？我刚才去超市买东西了。",
+        "pinyin": "Nǐ gāngcái qù nǎr le? Wǒ gāngcái qù chāoshì mǎi dōngxi le.",
+        "en": "Where did you go just now? I just went to the supermarket to buy things.",
+        "vi": "Vừa nãy bạn đi đâu thế? Tôi vừa mới đi siêu thị mua đồ rồi.",
+        "segments": [
+          { "id": "w1", "zh": "你", "pinyin": "nǐ" },
+          { "id": "w2", "zh": "刚才", "pinyin": "gāngcái" },
+          { "id": "w3", "zh": "去", "pinyin": "qù" },
+          { "id": "w4", "zh": "哪儿", "pinyin": "nǎr" },
+          { "id": "w5", "zh": "了", "pinyin": "le" },
+          { "id": "w6", "zh": "超市", "pinyin": "chāoshì" }
+        ]
+      },
+      {
+        "zh": "我不但参加了比赛，还拿到了第一名。",
+        "pinyin": "Wǒ búdàn cānjiā le bǐsài, hái nádào le dì yī míng.",
+        "en": "I not only participated in the competition but also got first place.",
+        "vi": "Tôi không những đã tham gia cuộc thi, mà còn đạt được hạng nhất.",
+        "segments": [
+          { "id": "w7", "zh": "我不但", "pinyin": "wǒ búdàn" },
+          { "id": "w8", "zh": "参加", "pinyin": "cānjiā" },
+          { "id": "w9", "zh": "了", "pinyin": "le" },
+          { "id": "w10", "zh": "比赛", "pinyin": "bǐsài" },
+          { "id": "w11", "zh": "还", "pinyin": "hái" }
+        ]
+      },
+      {
+        "zh": "不好意思，我的汉语不够好，请再说一遍。",
+        "pinyin": "Bù hǎo yì si, wǒ de hànyǔ bú gòu hǎo, qǐng zài shuō yí biàn.",
+        "en": "Sorry, my Chinese is not good enough, please say it again.",
+        "vi": "Xin lỗi, tiếng Trung của tôi không đủ tốt, vui lòng nói lại một lần nữa.",
+        "segments": [
+          { "id": "w12", "zh": "不好意思", "pinyin": "bù hǎo yì si" },
+          { "id": "w13", "zh": "不够", "pinyin": "bú gòu" },
+          { "id": "w14", "zh": "再", "pinyin": "zài" },
+          { "id": "w15", "zh": "一遍", "pinyin": "yí biàn" }
+        ]
+      }
+    ],
+    "grammar": [
+      {
+        "title": { "en": "gānggāng vs gāngcái", "vi": "gānggāng và gāngcái" },
+        "point": "Both mean 'just now'. '刚才' (gāngcái) is a noun referring to the immediate past, while '刚刚' (gānggāng) is an adverb.",
+        "hsk_ref": "初-刚刚(gānggāng) vs 刚才(gāngcái) vs 刚(gāng)"
+      }
+    ],
+    "vocabulary_inventory": [
+      {
+        "id": 60,
+        "zh": "超市",
+        "pinyin": "chāoshì",
+        "en": "supermarket",
+        "vi": "siêu thị",
+        "hsk": 2,
+        "examples": [
+          { "zh": "我刚才去超市了。", "en": "I just went to the supermarket.", "vi": "Tôi vừa mới đi siêu thị." },
+          { "zh": "这个超市很大。", "en": "This supermarket is very big.", "vi": "Cái siêu thị này rất lớn." }
+        ]
+      },
+      {
+        "id": 49,
+        "zh": "参加",
+        "pinyin": "cānjiā",
+        "en": "to participate/join",
+        "vi": "tham gia",
+        "hsk": 2,
+        "examples": [
+          { "zh": "我不但参加了比赛。", "en": "I not only participated in the competition.", "vi": "Tôi không những đã tham gia cuộc thi." },
+          { "zh": "你想参加吗？", "en": "Do you want to join?", "vi": "Bạn có muốn tham gia không?" }
+        ]
+      },
+      {
+        "id": 36,
+        "zh": "不好意思",
+        "pinyin": "bù hǎo yì si",
+        "en": "sorry/embarrassed",
+        "vi": "xin lỗi/ngại ngùng",
+        "hsk": 2,
+        "examples": [
+          { "zh": "不好意思，我的汉语不够好。", "en": "Sorry, my Chinese is not good enough.", "vi": "Xin lỗi, tiếng Trung của tôi không đủ tốt." },
+          { "zh": "真不好意思。", "en": "I'm really embarrassed.", "vi": "Thật là ngại quá." }
+        ]
+      }
+    ],
+    "practice": [
+      {
+        "question": { "en": "Which word is a noun for 'just now'?", "vi": "Từ nào là danh từ chỉ 'vừa nãy'?" },
+        "options": ["A. 刚刚", "B. 刚才", "C. 已经", "D. 常常"],
+        "answer": "B"
+      },
+      {
+        "question": { "en": "Translate 'not only... but also...':", "vi": "Dịch cấu trúc 'không những... mà còn...':" },
+        "options": ["A. 不但...还...", "B. 虽然...但是...", "C. 因为...所以...", "D. 如果...就..."],
+        "answer": "A"
+      },
+      {
+        "question": { "en": "What is the meaning of '超市'?", "vi": "Nghĩa của '超市' là gì?" },
+        "options": ["A. Hospital", "B. School", "C. Supermarket", "D. Office"],
+        "answer": "C"
+      }
+    ]
+  },
+  {
+    "hsk_level": 2,
+    "lesson_id": "L3",
+    "theme": {
+      "en": "Health",
+      "vi": "Sức khỏe"
+    },
+    "story": [
+      {
+        "zh": "你身体怎么样？我最近觉得不太舒服。",
+        "pinyin": "Nǐ shēntǐ zěnmeyàng? Wǒ zuìjìn juéde bú tài shūfu.",
+        "en": "How is your health? I haven't been feeling very comfortable lately.",
+        "vi": "Sức khỏe của bạn thế nào? Gần đây tôi cảm thấy không được thoải mái lắm.",
+        "segments": [
+          { "id": "w1", "zh": "你", "pinyin": "nǐ" },
+          { "id": "w2", "zh": "身体", "pinyin": "shēntǐ" },
+          { "id": "w3", "zh": "怎么样", "pinyin": "zěnmeyàng" },
+          { "id": "w4", "zh": "我", "pinyin": "wǒ" },
+          { "id": "w5", "zh": "最近", "pinyin": "zuìjìn" },
+          { "id": "w6", "zh": "觉得", "pinyin": "juéde" },
+          { "id": "w7", "zh": "不太", "pinyin": "bú tài" },
+          { "id": "w8", "zh": "舒服", "pinyin": "shūfu" }
+        ]
+      },
+      {
+        "zh": "你睡得太晚了，你应该早点儿睡觉。",
+        "pinyin": "Nǐ shuì de tài wǎn le, nǐ yīnggāi zǎodiǎnr shuìjiào.",
+        "en": "You sleep too late; you should go to bed a bit earlier.",
+        "vi": "Bạn ngủ muộn quá, bạn nên đi ngủ sớm một chút.",
+        "segments": [
+          { "id": "w9", "zh": "你", "pinyin": "nǐ" },
+          { "id": "w10", "zh": "睡", "pinyin": "shuì" },
+          { "id": "w11", "zh": "得", "pinyin": "de" },
+          { "id": "w12", "zh": "太", "pinyin": "tài" },
+          { "id": "w13", "zh": "晚", "pinyin": "wǎn" },
+          { "id": "w14", "zh": "了", "pinyin": "le" },
+          { "id": "w15", "zh": "你", "pinyin": "nǐ" },
+          { "id": "w16", "zh": "应该", "pinyin": "yīnggāi" },
+          { "id": "w17", "zh": "早点儿", "pinyin": "zǎodiǎnr" }
+        ]
+      }
+    ],
+    "grammar": [
+      {
+        "title": { "en": "State Complement", "vi": "Bổ ngữ trạng thái" },
+        "point": "Verb + 得 + Adjective. Used to describe how an action is performed. Example: 睡得晚 (Sleep late).",
+        "hsk_ref": "初-The State Complement (1) – 状态补语 (1)"
+      }
+    ],
+    "vocabulary_inventory": [
+      {
+        "id": 81,
+        "zh": "舒服",
+        "pinyin": "shūfu",
+        "en": "comfortable",
+        "vi": "thoải mái/dễ chịu",
+        "hsk": 2,
+        "examples": [
+          { "zh": "我不太舒服。", "en": "I'm not very comfortable.", "vi": "Tôi không thoải mái lắm." },
+          { "zh": "这儿很舒服。", "en": "It's very comfortable here.", "vi": "Ở đây rất dễ chịu." }
+        ]
+      },
+      {
+        "id": 68,
+        "zh": "应该",
+        "pinyin": "yīnggāi",
+        "en": "should",
+        "vi": "nên",
+        "hsk": 2,
+        "examples": [
+          { "zh": "你应该早点儿睡觉。", "en": "You should sleep earlier.", "vi": "Bạn nên đi ngủ sớm một chút." },
+          { "zh": "你应该去学校。", "en": "You should go to school.", "vi": "Bạn nên đến trường." }
+        ]
+      }
+    ],
+    "practice": [
+      {
+        "question": { "en": "Which word is the 'State Complement' marker?", "vi": "Từ nào là dấu hiệu của 'Bổ ngữ trạng thái'?" },
+        "options": ["A. 的", "B. 地", "C. 得", "D. 了"],
+        "answer": "C"
+      },
+      {
+        "question": { "en": "How do you say 'You should'?", "vi": "Nói 'Bạn nên' như thế nào?" },
+        "options": ["A. 你必须", "B. 你应该", "C. 你可以", "D. 你想"],
+        "answer": "B"
+      },
+      {
+        "question": { "en": "Translate 'I don't feel well':", "vi": "Dịch 'Tôi cảm thấy không khỏe/thoải mái':" },
+        "options": ["A. 我不舒服", "B. 我没舒服", "C. 我不应该", "D. 我不觉得"],
+        "answer": "A"
+      }
+    ]
+  },
+  {
+    "hsk_level": 2,
+    "lesson_id": "L4",
+    "theme": {
+      "en": "Hobbies",
+      "vi": "Sở thích"
+    },
+    "story": [
+      {
+        "zh": "周末你喜欢做什么？",
+        "pinyin": "Zhōumò nǐ xǐhuan zuò shénme?",
+        "en": "What do you like to do on weekends?",
+        "vi": "Cuối tuần bạn thích làm gì?",
+        "segments": [
+          { "id": "w1", "zh": "周末", "pinyin": "zhōumò" },
+          { "id": "w2", "zh": "你", "pinyin": "nǐ" },
+          { "id": "w3", "zh": "喜欢", "pinyin": "xǐhuan" },
+          { "id": "w4", "zh": "做", "pinyin": "zuò" },
+          { "id": "w5", "zh": "什么", "pinyin": "shénme" }
+        ]
+      },
+      {
+        "zh": "我喜欢在家里听听音乐，看看书。",
+        "pinyin": "Wǒ xǐhuan zài jiālǐ tīngting yīnyuè, kànkan shū.",
+        "en": "I like listening to music and reading books at home.",
+        "vi": "Tôi thích ở nhà nghe nghe nhạc, đọc đọc sách.",
+        "segments": [
+          { "id": "w6", "zh": "我", "pinyin": "wǒ" },
+          { "id": "w7", "zh": "喜欢", "pinyin": "xǐhuan" },
+          { "id": "w8", "zh": "在", "pinyin": "zài" },
+          { "id": "w9", "zh": "家里", "pinyin": "jiālǐ" },
+          { "id": "w10", "zh": "听听", "pinyin": "tīngting" },
+          { "id": "w11", "zh": "音乐", "pinyin": "yīnyuè" },
+          { "id": "w12", "zh": "看看", "pinyin": "kànkan" },
+          { "id": "w13", "zh": "书", "pinyin": "shū" }
+        ]
+      },
+      {
+        "zh": "我也喜欢唱歌，可是我唱得不好。",
+        "pinyin": "Wǒ yě xǐhuan chànggē, kěshì wǒ chàng de bù hǎo.",
+        "en": "I also like singing, but I don't sing well.",
+        "vi": "Tôi cũng thích ca hát, nhưng tôi hát không tốt.",
+        "segments": [
+          { "id": "w14", "zh": "我", "pinyin": "wǒ" },
+          { "id": "w15", "zh": "也", "pinyin": "yě" },
+          { "id": "w16", "zh": "喜欢", "pinyin": "xǐhuan" },
+          { "id": "w17", "zh": "唱歌", "pinyin": "chànggē" },
+          { "id": "w18", "zh": "可是", "pinyin": "kěshì" },
+          { "id": "w19", "zh": "唱", "pinyin": "chàng" },
+          { "id": "w20", "zh": "得", "pinyin": "de" },
+          { "id": "w21", "zh": "不", "pinyin": "bù" },
+          { "id": "w22", "zh": "好", "pinyin": "hǎo" }
+        ]
+      }
+    ],
+    "grammar": [
+      {
+        "title": { "en": "Verb Reduplication", "vi": "Lặp lại động từ" },
+        "point": "Verb + Verb (AA structure). Used to indicate an action is brief, relaxed, or an attempt. Example: 看看 (Have a look).",
+        "hsk_ref": "初-The Verb Reduplication – 动词重叠"
+      }
+    ],
+    "vocabulary_inventory": [
+      {
+        "id": 98,
+        "zh": "可是",
+        "pinyin": "kěshì",
+        "en": "but/however",
+        "vi": "nhưng/nhưng mà",
+        "hsk": 2,
+        "examples": [
+          { "zh": "我也喜欢唱歌，可是我唱得不好。", "en": "I like singing, but I don't sing well.", "vi": "Tôi thích ca hát, nhưng tôi hát không tốt." },
+          { "zh": "我想去，可是没时间。", "en": "I want to go, but I don't have time.", "vi": "Tôi muốn đi, nhưng không có thời gian." }
+        ]
+      },
+      {
+        "id": 110,
+        "zh": "唱歌",
+        "pinyin": "chànggē",
+        "en": "to sing",
+        "vi": "ca hát",
+        "hsk": 2,
+        "examples": [
+          { "zh": "我喜欢唱歌。", "en": "I like singing.", "vi": "Tôi thích ca hát." },
+          { "zh": "他在唱歌呢。", "en": "He is singing.", "vi": "Anh ấy đang hát." }
+        ]
+      }
+    ],
+    "practice": [
+      {
+        "question": { "en": "What does repeating a verb (like 看看) usually mean?", "vi": "Việc lặp lại động từ (như 看看) thường có nghĩa là gì?" },
+        "options": ["A. Action is very long", "B. Action is brief/casual", "C. Action is in the past", "D. Action is impossible"],
+        "answer": "B"
+      },
+      {
+        "question": { "en": "Translate 'but':", "vi": "Dịch từ 'nhưng':" },
+        "options": ["A. 因为", "B. 所以", "C. 可是", "D. 觉得"],
+        "answer": "C"
+      },
+      {
+        "question": { "en": "Complete the phrase: '听___音乐'", "vi": "Hoàn thành cụm từ: '听___音乐'" },
+        "options": ["A. 个", "B. 听", "C. 了", "D. 吗"],
+        "answer": "B"
+      }
+    ]
+  },
+  {
+    "hsk_level": 2,
+    "lesson_id": "L5",
+    "theme": {
+      "en": "Weather",
+      "vi": "Thời tiết"
+    },
+    "story": [
+      {
+        "zh": "今天的气温比昨天高一点儿。",
+        "pinyin": "Jīntiān de qìwēn bǐ zuótiān gāo yìdiǎnr.",
+        "en": "Today's temperature is a little bit higher than yesterday's.",
+        "vi": "Nhiệt độ hôm nay cao hơn hôm qua một chút.",
+        "segments": [
+          { "id": "w1", "zh": "今天", "pinyin": "jīntiān" },
+          { "id": "w2", "zh": "气温", "pinyin": "qìwēn" },
+          { "id": "w3", "zh": "比", "pinyin": "bǐ" },
+          { "id": "w4", "zh": "昨天", "pinyin": "zuótiān" },
+          { "id": "w5", "zh": "高", "pinyin": "gāo" },
+          { "id": "w6", "zh": "一点儿", "pinyin": "yìdiǎnr" }
+        ]
+      },
+      {
+        "zh": "北方的冬天比南方冷得多。",
+        "pinyin": "Běifāng de dōngtiān bǐ nánfāng lěng de duō.",
+        "en": "Winter in the North is much colder than in the South.",
+        "vi": "Mùa đông ở phương Bắc lạnh hơn phương Nam nhiều.",
+        "segments": [
+          { "id": "w7", "zh": "北方", "pinyin": "běifāng" },
+          { "id": "w8", "zh": "冬天", "pinyin": "dōngtiān" },
+          { "id": "w9", "zh": "比", "pinyin": "bǐ" },
+          { "id": "w10", "zh": "南方", "pinyin": "nánfāng" },
+          { "id": "w11", "zh": "冷", "pinyin": "lěng" },
+          { "id": "w12", "zh": "得多", "pinyin": "de duō" }
+        ]
+      }
+    ],
+    "grammar": [
+      {
+        "title": { "en": "Comparative Sentences (2)", "vi": "Câu so sánh (2)" },
+        "point": "A + 比 + B + Adj + 一点儿/得多. Use '一点儿' (yìdiǎnr) for a slight difference and '得多' (de duō) for a large difference.",
+        "hsk_ref": "初-Comparative Sentences (2) – 比较句 (2)"
+      }
+    ],
+    "vocabulary_inventory": [
+      {
+        "id": 133,
+        "zh": "冬天",
+        "pinyin": "dōngtiān",
+        "en": "winter",
+        "vi": "mùa đông",
+        "hsk": 2,
+        "examples": [
+          { "zh": "北方的冬天比南方冷得多。", "en": "Winter in the North is much colder than in the South.", "vi": "Mùa đông ở phương Bắc lạnh hơn phương Nam nhiều." },
+          { "zh": "我不喜欢冬天。", "en": "I don't like winter.", "vi": "Tôi không thích mùa đông." }
+        ]
+      },
+      {
+        "id": 16,
+        "zh": "北方",
+        "pinyin": "běifāng",
+        "en": "north / the northern region",
+        "vi": "phương bắc",
+        "hsk": 2,
+        "examples": [
+          { "zh": "北方很冷。", "en": "The north is very cold.", "vi": "Phương Bắc rất lạnh." },
+          { "zh": "他来自北方。", "en": "He comes from the north.", "vi": "Anh ấy đến từ phương Bắc." }
+        ]
+      }
+    ],
+    "practice": [
+      {
+        "question": { "en": "Which phrase indicates a 'big difference' in a comparison?", "vi": "Cụm từ nào chỉ 'sự khác biệt lớn' trong câu so sánh?" },
+        "options": ["A. 一点儿", "B. 得多", "C. 一下", "D. 正在"],
+        "answer": "B"
+      },
+      {
+        "question": { "en": "Translate 'Today is colder than yesterday':", "vi": "Dịch 'Hôm nay lạnh hơn hôm qua':" },
+        "options": ["A. 今天比昨天冷", "B. 今天和昨天冷", "C. 昨天比今天冷", "D. 今天没有昨天冷"],
+        "answer": "A"
+      },
+      {
+        "question": { "en": "What does '冬天' mean?", "vi": "Nghĩa của '冬天' là gì?" },
+        "options": ["A. Spring", "B. Summer", "C. Autumn", "D. Winter"],
+        "answer": "D"
+      }
+    ]
+  },
+  {
+    "hsk_level": 2,
+    "lesson_id": "L6",
+    "theme": {
+      "en": "Travel",
+      "vi": "Du lịch"
+    },
+    "story": [
+      {
+        "zh": "我家离学校不远。",
+        "pinyin": "Wǒ jiā lí xuéxiào bù yuǎn.",
+        "en": "My house is not far from the school.",
+        "vi": "Nhà tôi cách trường không xa.",
+        "segments": [
+          { "id": "w1", "zh": "我", "pinyin": "wǒ" },
+          { "id": "w2", "zh": "家", "pinyin": "jiā" },
+          { "id": "w3", "zh": "离", "pinyin": "lí" },
+          { "id": "w4", "zh": "学校", "pinyin": "xuéxiào" },
+          { "id": "w5", "zh": "不", "pinyin": "bù" },
+          { "id": "w6", "zh": "远", "pinyin": "yuǎn" }
+        ]
+      },
+      {
+        "zh": "我们从今天开始去旅游。",
+        "pinyin": "Wǒmen cóng jīntiān kāishǐ qù lǚyóu.",
+        "en": "We start traveling from today.",
+        "vi": "Chúng tôi bắt đầu đi du lịch từ hôm nay.",
+        "segments": [
+          { "id": "w7", "zh": "我们", "pinyin": "wǒmen" },
+          { "id": "w8", "zh": "从", "pinyin": "cóng" },
+          { "id": "w9", "zh": "今天", "pinyin": "jīntiān" },
+          { "id": "w10", "zh": "开始", "pinyin": "kāishǐ" },
+          { "id": "w11", "zh": "去", "pinyin": "qù" },
+          { "id": "w12", "zh": "旅游", "pinyin": "lǚyóu" }
+        ]
+      }
+    ],
+    "grammar": [
+      {
+        "title": { "en": "cóng vs lí", "vi": "cóng và lí" },
+        "point": "Use '从' (cóng) for a starting point in time or space. Use '离' (lí) to express the distance between two points.",
+        "hsk_ref": "初-从(cóng) vs 离(lí)"
+      }
+    ],
+    "vocabulary_inventory": [
+      {
+        "id": 125,
+        "zh": "地铁",
+        "pinyin": "dìtiě",
+        "en": "subway / metro",
+        "vi": "tàu điện ngầm",
+        "hsk": 2,
+        "examples": [
+          { "zh": "我坐地铁去公司。", "en": "I take the subway to the company.", "vi": "Tôi đi tàu điện ngầm đến công ty." },
+          { "zh": "地铁站离这里很近。", "en": "The subway station is very close to here.", "vi": "Ga tàu điện ngầm rất gần đây." }
+        ]
+      },
+      {
+        "id": 121,
+        "zh": "等到",
+        "pinyin": "děng dào",
+        "en": "wait until",
+        "vi": "chờ đến khi",
+        "hsk": 2,
+        "examples": [
+          { "zh": "等到明天吧。", "en": "Wait until tomorrow.", "vi": "Chờ đến ngày mai nhé." },
+          { "zh": "我等到十点。", "en": "I waited until ten o'clock.", "vi": "Tôi đã đợi đến mười giờ." }
+        ]
+      }
+    ],
+    "practice": [
+      {
+        "question": { "en": "Which word is used to express distance between two places?", "vi": "Từ nào dùng để diễn đạt khoảng cách giữa hai địa điểm?" },
+        "options": ["A. 从", "B. 离", "C. 到", "D. 向"],
+        "answer": "B"
+      },
+      {
+        "question": { "en": "Fill in the blank: 我___北京来。", "vi": "Điền vào chỗ trống: 我___北京来。" },
+        "options": ["A. 离", "B. 从", "C. 往", "D. 向"],
+        "answer": "B"
+      },
+      {
+        "question": { "en": "What does '地铁' mean?", "vi": "Nghĩa của '地铁' là gì?" },
+        "options": ["A. Airplane", "B. Taxi", "C. Subway", "D. Boat"],
+        "answer": "C"
+      }
+    ]
+  },
+  {
+    "hsk_level": 2,
+    "lesson_id": "L7",
+    "theme": {
+      "en": "Shopping",
+      "vi": "Mua sắm"
+    },
+    "story": [
+      {
+        "zh": "我想买这两本书。",
+        "pinyin": "Wǒ xiǎng mǎi zhè liǎng běn shū.",
+        "en": "I want to buy these two books.",
+        "vi": "Tôi muốn mua hai quyển sách này.",
+        "segments": [
+          { "id": "w1", "zh": "我", "pinyin": "wǒ" },
+          { "id": "w2", "zh": "想", "pinyin": "xiǎng" },
+          { "id": "w3", "zh": "买", "pinyin": "mǎi" },
+          { "id": "w4", "zh": "这", "pinyin": "zhè" },
+          { "id": "w5", "zh": "两", "pinyin": "liǎng" },
+          { "id": "w6", "zh": "本", "pinyin": "běn" },
+          { "id": "w7", "zh": "书", "pinyin": "shū" }
+        ]
+      },
+      {
+        "zh": "这儿不但卖报纸，还卖各种笔。",
+        "pinyin": "Zhèr búdàn mài bàozhǐ, hái mài gè zhǒng bǐ.",
+        "en": "This place not only sells newspapers but also various kinds of pens.",
+        "vi": "Ở đây không những bán báo, mà còn bán các loại bút.",
+        "segments": [
+          { "id": "w8", "zh": "这儿", "pinyin": "zhèr" },
+          { "id": "w9", "zh": "不但", "pinyin": "búdàn" },
+          { "id": "w10", "zh": "卖", "pinyin": "mài" },
+          { "id": "w11", "zh": "报纸", "pinyin": "bàozhǐ" },
+          { "id": "w12", "zh": "还", "pinyin": "hái" },
+          { "id": "w13", "zh": "各种", "pinyin": "gè zhǒng" },
+          { "id": "w14", "zh": "笔", "pinyin": "bǐ" }
+        ]
+      }
+    ],
+    "grammar": [
+      {
+        "title": { "en": "Classifiers for Objects", "vi": "Lượng từ cho đồ vật" },
+        "point": "Using '本' (běn) for books and '支' (zhī) for pens. HSK 2 expands your inventory of specific measure words.",
+        "hsk_ref": "初-Classifiers (2) – 量词 (2)"
+      }
+    ],
+    "vocabulary_inventory": [
+      {
+        "id": 15,
+        "zh": "报纸",
+        "pinyin": "bàozhǐ",
+        "en": "newspaper",
+        "vi": "báo chí",
+        "hsk": 2,
+        "examples": [
+          { "zh": "这儿不但卖报纸。", "en": "This place not only sells newspapers.", "vi": "Ở đây không những bán báo." },
+          { "zh": "我每天看报纸。", "en": "I read the newspaper every day.", "vi": "Tôi đọc báo mỗi ngày." }
+        ]
+      },
+      {
+        "id": 182,
+        "zh": "笔",
+        "pinyin": "bǐ",
+        "en": "pen / pencil",
+        "vi": "bút",
+        "hsk": 2,
+        "examples": [
+          { "zh": "你有一支笔吗？", "en": "Do you have a pen?", "vi": "Bạn có một cây bút không?" },
+          { "zh": "这支笔很好用。", "en": "This pen is very easy to use.", "vi": "Cây bút này dùng rất tốt." }
+        ]
+      }
+    ],
+    "practice": [
+      {
+        "question": { "en": "Which classifier is used for books?", "vi": "Lượng từ nào được dùng cho sách?" },
+        "options": ["A. 个", "B. 支", "C. 本", "D. 块"],
+        "answer": "C"
+      },
+      {
+        "question": { "en": "How do you say 'to sell':", "vi": "Dịch từ 'bán':" },
+        "options": ["A. 买", "B. 卖", "C. 办", "D. 给"],
+        "answer": "B"
+      },
+      {
+        "question": { "en": "What does '报纸' mean?", "vi": "Nghĩa của '报纸' là gì?" },
+        "options": ["A. Book", "B. Pen", "C. Newspaper", "D. Map"],
+        "answer": "C"
+      }
+    ]
+  },
+  {
+    "hsk_level": 2,
+    "lesson_id": "L8",
+    "theme": {
+      "en": "Dining",
+      "vi": "Ăn uống"
+    },
+    "story": [
+      {
+        "zh": "你看清楚菜单了吗？",
+        "pinyin": "Nǐ kàn qīngchu càidān le ma?",
+        "en": "Did you see the menu clearly?",
+        "vi": "Bạn đã nhìn rõ thực đơn chưa?",
+        "segments": [
+          { "id": "w1", "zh": "你", "pinyin": "nǐ" },
+          { "id": "w2", "zh": "看", "pinyin": "kàn" },
+          { "id": "w3", "zh": "清楚", "pinyin": "qīngchu" },
+          { "id": "w4", "zh": "菜单", "pinyin": "càidān" },
+          { "id": "w5", "zh": "了", "pinyin": "le" },
+          { "id": "w6", "zh": "吗", "pinyin": "ma" }
+        ]
+      },
+      {
+        "zh": "看清楚了。我想吃羊肉和一些米饭。",
+        "pinyin": "Kàn qīngchu le. Wǒ xiǎng chī yángròu hé yìxiē mǐfàn.",
+        "en": "I saw it clearly. I want to eat mutton and some rice.",
+        "vi": "Nhìn rõ rồi. Tôi muốn ăn thịt cừu và một ít cơm.",
+        "segments": [
+          { "id": "w7", "zh": "看", "pinyin": "kàn" },
+          { "id": "w8", "zh": "清楚", "pinyin": "qīngchu" },
+          { "id": "w9", "zh": "了", "pinyin": "le" },
+          { "id": "w10", "zh": "我", "pinyin": "wǒ" },
+          { "id": "w11", "zh": "想", "pinyin": "xiǎng" },
+          { "id": "w12", "zh": "吃", "pinyin": "chī" },
+          { "id": "w13", "zh": "羊肉", "pinyin": "yángròu" },
+          { "id": "w14", "zh": "和", "pinyin": "hé" },
+          { "id": "w15", "zh": "一些", "pinyin": "yìxiē" },
+          { "id": "w16", "zh": "米饭", "pinyin": "mǐfàn" }
+        ]
+      },
+      {
+        "zh": "我已经吃饱了，不想再吃了。",
+        "pinyin": "Wǒ yǐjīng chī bǎo le, bù xiǎng zài chī le.",
+        "en": "I am already full; I don't want to eat anymore.",
+        "vi": "Tôi đã ăn no rồi, không muốn ăn thêm nữa.",
+        "segments": [
+          { "id": "w17", "zh": "我", "pinyin": "wǒ" },
+          { "id": "w18", "zh": "已经", "pinyin": "yǐjīng" },
+          { "id": "w19", "zh": "吃", "pinyin": "chī" },
+          { "id": "w20", "zh": "饱", "pinyin": "bǎo" },
+          { "id": "w21", "zh": "了", "pinyin": "le" },
+          { "id": "w22", "zh": "不", "pinyin": "bù" },
+          { "id": "w23", "zh": "想", "pinyin": "xiǎng" },
+          { "id": "w24", "zh": "再", "pinyin": "zài" },
+          { "id": "w25", "zh": "吃", "pinyin": "chī" },
+          { "id": "w26", "zh": "了", "pinyin": "le" }
+        ]
+      }
+    ],
+    "grammar": [
+      {
+        "title": { "en": "Complement of Result", "vi": "Bổ ngữ kết quả" },
+        "point": "Verb + Adj/Verb (Result). Examples: 看清楚 (see clearly), 吃饱 (eat until full). Indicates the result of an action.",
+        "hsk_ref": "初-The Complement of Result (1) – 结果补语 (1)"
+      }
+    ],
+    "vocabulary_inventory": [
+      {
+        "id": 47,
+        "zh": "菜单",
+        "pinyin": "càidān",
+        "en": "menu",
+        "vi": "thực đơn",
+        "hsk": 2,
+        "examples": [
+          { "zh": "你看清楚菜单了吗？", "en": "Did you see the menu clearly?", "vi": "Bạn đã nhìn rõ thực đơn chưa?" },
+          { "zh": "请给我菜单。", "en": "Please give me the menu.", "vi": "Vui lòng cho tôi xem thực đơn." }
+        ]
+      },
+      {
+        "id": 13,
+        "zh": "饱",
+        "pinyin": "bǎo",
+        "en": "full (from eating)",
+        "vi": "no",
+        "hsk": 2,
+        "examples": [
+          { "zh": "我已经吃饱了。", "en": "I am already full.", "vi": "Tôi đã ăn no rồi." },
+          { "zh": "你饱了吗？", "en": "Are you full?", "vi": "Bạn no chưa?" }
+        ]
+      },
+      {
+        "id": 218,
+        "zh": "清楚",
+        "pinyin": "qīngchu",
+        "en": "clear / clearly",
+        "vi": "rõ ràng",
+        "hsk": 2,
+        "examples": [
+          { "zh": "看清楚菜单了吗？", "en": "Did you see the menu clearly?", "vi": "Bạn đã nhìn rõ thực đơn chưa?" },
+          { "zh": "我不清楚这件事。", "en": "I am not clear about this matter.", "vi": "Tôi không rõ về việc này." }
+        ]
+      }
+    ],
+    "practice": [
+      {
+        "question": { "en": "In '看清楚', what is '清楚'?", "vi": "Trong '看清楚', '清楚' là gì?" },
+        "options": ["A. Main verb", "B. Result complement", "C. Subject", "D. Question particle"],
+        "answer": "B"
+      },
+      {
+        "question": { "en": "How do you say 'I am full'?", "vi": "Nói 'Tôi no rồi' như thế nào?" },
+        "options": ["A. 我饿了", "B. 我吃了", "C. 我饱了", "D. 我好了"],
+        "answer": "C"
+      },
+      {
+        "question": { "en": "Complete the sentence: '我听____了。' (I heard and understood/heard clearly.)", "vi": "Hoàn thành câu: '我听____了。' (Tôi nghe rõ rồi.)" },
+        "options": ["A. 清楚", "B. 饱", "C. 高", "D. 多"],
+        "answer": "A"
+      }
+    ]
+  },
+  {
+    "hsk_level": 2,
+    "lesson_id": "L9",
+    "theme": {
+      "en": "Work Life",
+      "vi": "Công việc"
+    },
+    "story": [
+      {
+        "zh": "你应该去经理的办公室办手续。",
+        "pinyin": "Nǐ yīnggāi qù jīnglǐ de bàngōngshì bàn shǒuxù.",
+        "en": "You should go to the manager's office to handle the procedures.",
+        "vi": "Bạn nên đến văn phòng giám đốc để làm thủ tục.",
+        "segments": [
+          { "id": "w1", "zh": "你", "pinyin": "nǐ" },
+          { "id": "w2", "zh": "应该", "pinyin": "yīnggāi" },
+          { "id": "w3", "zh": "去", "pinyin": "qù" },
+          { "id": "w4", "zh": "经理", "pinyin": "jīnglǐ" },
+          { "id": "w5", "zh": "的", "pinyin": "de" },
+          { "id": "w6", "zh": "办公室", "pinyin": "bàngōngshì" },
+          { "id": "w7", "zh": "办", "pinyin": "bàn" },
+          { "id": "w8", "zh": "手续", "pinyin": "shǒuxù" }
+        ]
+      },
+      {
+        "zh": "天黑了，该下班了。",
+        "pinyin": "Tiān hēi le, gāi xiàbān le.",
+        "en": "It's getting dark; it's time to get off work.",
+        "vi": "Trời tối rồi, đến lúc tan làm rồi.",
+        "segments": [
+          { "id": "w9", "zh": "天", "pinyin": "tiān" },
+          { "id": "w10", "zh": "黑", "pinyin": "hēi" },
+          { "id": "w11", "zh": "了", "pinyin": "le" },
+          { "id": "w12", "zh": "该", "pinyin": "gāi" },
+          { "id": "w13", "zh": "下班", "pinyin": "xiàbān" },
+          { "id": "w14", "zh": "了", "pinyin": "le" }
+        ]
+      }
+    ],
+    "grammar": [
+      {
+        "title": { "en": "Should: yīnggāi vs gāi", "vi": "Nên: yīnggāi và gāi" },
+        "point": "'应该' (yīnggāi) is the full form for 'should/ought to'. '该' (gāi) is often used in the structure '该...了' to mean 'it is time to...'.",
+        "hsk_ref": "初-应该(yīnggāi) vs 该(gāi)"
+      }
+    ],
+    "vocabulary_inventory": [
+      {
+        "id": 245,
+        "zh": "经理",
+        "pinyin": "jīnglǐ",
+        "en": "manager",
+        "vi": "giám đốc/quản lý",
+        "hsk": 2,
+        "examples": [
+          { "zh": "你应该去经理的办公室。", "en": "You should go to the manager's office.", "vi": "Bạn nên đến văn phòng giám đốc." },
+          { "zh": "我们的经理很认真。", "en": "Our manager is very earnest.", "vi": "Giám đốc của chúng tôi rất nghiêm túc." }
+        ]
+      },
+      {
+        "id": 68,
+        "zh": "应该",
+        "pinyin": "yīnggāi",
+        "en": "should",
+        "vi": "nên",
+        "hsk": 2,
+        "examples": [
+          { "zh": "你应该多休息。", "en": "You should rest more.", "vi": "Bạn nên nghỉ ngơi nhiều hơn." },
+          { "zh": "你应该学习汉语。", "en": "You should study Chinese.", "vi": "Bạn nên học tiếng Trung." }
+        ]
+      }
+    ],
+    "practice": [
+      {
+        "question": { "en": "Which word is usually used in the structure '... le' to mean 'it is time to'?", "vi": "Từ nào thường dùng trong cấu trúc '... le' để nghĩa là 'đến lúc làm gì đó'?" },
+        "options": ["A. 刚才", "B. 该", "C. 正在", "D. 比较"],
+        "answer": "B"
+      },
+      {
+        "question": { "en": "Translate 'manager':", "vi": "Dịch từ 'giám đốc/quản lý':" },
+        "options": ["A. 班长", "B. 老师", "C. 经理", "D. 医生"],
+        "answer": "C"
+      },
+      {
+        "question": { "en": "What does '应该' mean?", "vi": "'应该' nghĩa là gì?" },
+        "options": ["A. Must", "B. Should", "C. Can", "D. Will"],
+        "answer": "B"
+      }
+    ]
+  },
+  {
+    "hsk_level": 2,
+    "lesson_id": "L10",
+    "theme": {
+      "en": "Transport",
+      "vi": "Giao thông"
+    },
+    "story": [
+      {
+        "zh": "公共汽车来了，我们上车去吧。",
+        "pinyin": "Gōnggòng qìchē lái le, wǒmen shàngchē qù ba.",
+        "en": "The bus is here; let's get on (and go).",
+        "vi": "Xe buýt đến rồi, chúng ta lên xe đi thôi.",
+        "segments": [
+          { "id": "w1", "zh": "公共汽车", "pinyin": "gōnggòng qìchē" },
+          { "id": "w2", "zh": "来", "pinyin": "lái" },
+          { "id": "w3", "zh": "了", "pinyin": "le" },
+          { "id": "w4", "zh": "我们", "pinyin": "wǒmen" },
+          { "id": "w5", "zh": "上车", "pinyin": "shàngchē" },
+          { "id": "w6", "zh": "去", "pinyin": "qù" },
+          { "id": "w7", "zh": "吧", "pinyin": "ba" }
+        ]
+      },
+      {
+        "zh": "请走进来，别站在门口。",
+        "pinyin": "Qǐng zǒu jìnlái, bié zhàn zài ménkǒu.",
+        "en": "Please walk in; don't stand at the doorway.",
+        "vi": "Mời đi vào trong, đừng đứng ở cửa.",
+        "segments": [
+          { "id": "w8", "zh": "请", "pinyin": "qǐng" },
+          { "id": "w9", "zh": "走", "pinyin": "zǒu" },
+          { "id": "w10", "zh": "进来", "pinyin": "jìnlái" },
+          { "id": "w11", "zh": "别", "pinyin": "bié" },
+          { "id": "w12", "zh": "站", "pinyin": "zhàn" },
+          { "id": "w13", "zh": "在", "pinyin": "zài" },
+          { "id": "w14", "zh": "门口", "pinyin": "ménkǒu" }
+        ]
+      }
+    ],
+    "grammar": [
+      {
+        "title": { "en": "Directional Complement (1)", "vi": "Bổ ngữ xu hướng (1)" },
+        "point": "Verb + 来 (lái) / 去 (qù). '来' indicates movement toward the speaker; '去' indicates movement away. Examples: 进来 (come in), 进去 (go in).",
+        "hsk_ref": "初-The Directional Complement (1) – 趋向补语 (1)"
+      }
+    ],
+    "vocabulary_inventory": [
+      {
+        "id": 290,
+        "zh": "公共汽车",
+        "pinyin": "gōnggòng qìchē",
+        "en": "bus",
+        "vi": "xe buýt",
+        "hsk": 2,
+        "examples": [
+          { "zh": "公共汽车来了。", "en": "The bus is here.", "vi": "Xe buýt đến rồi." },
+          { "zh": "我坐公共汽车去学校。", "en": "I take the bus to school.", "vi": "Tôi đi xe buýt đến trường." }
+        ]
+      },
+      {
+        "id": 183,
+        "zh": "进来",
+        "pinyin": "jìnlái",
+        "en": "to come in",
+        "vi": "vào đây/đi vào",
+        "hsk": 2,
+        "examples": [
+          { "zh": "请走进来。", "en": "Please walk in.", "vi": "Mời đi vào trong." },
+          { "zh": "他进来了吗？", "en": "Did he come in?", "vi": "Anh ấy đã vào chưa?" }
+        ]
+      },
+      {
+        "id": 239,
+        "zh": "门口",
+        "pinyin": "ménkǒu",
+        "en": "doorway / entrance",
+        "vi": "cổng/lối vào",
+        "hsk": 2,
+        "examples": [
+          { "zh": "别站在门口。", "en": "Don't stand at the doorway.", "vi": "Đừng đứng ở cửa." },
+          { "zh": "我在学校门口等你。", "en": "I'll wait for you at the school entrance.", "vi": "Tôi đợi bạn ở cổng trường." }
+        ]
+      }
+    ],
+    "practice": [
+      {
+        "question": { "en": "In '进来', what does '来' indicate?", "vi": "Trong '进来', '来' biểu thị điều gì?" },
+        "options": ["A. Moving away from speaker", "B. Moving toward speaker", "C. Completed action", "D. Future action"],
+        "answer": "B"
+      },
+      {
+        "question": { "en": "Translate 'bus':", "vi": "Dịch từ 'xe buýt':" },
+        "options": ["A. 地铁", "B. 出租车", "C. 公共汽车", "D. 自行车"],
+        "answer": "C"
+      },
+      {
+        "question": { "en": "How do you say 'go in' (moving away from speaker)?", "vi": "Nói 'đi vào' (hướng ra xa người nói) như thế nào?" },
+        "options": ["A. 进来", "B. 进去", "C. 出来", "D. 出去"],
+        "answer": "B"
+      }
+    ]
+  },
+  {
+    "hsk_level": 2,
+    "lesson_id": "L11",
+    "theme": {
+      "en": "House",
+      "vi": "Nhà cửa"
+    },
+    "story": [
+      {
+        "zh": "你的房间里有什么？",
+        "pinyin": "Nǐ de fángjiān lǐ yǒu shénme?",
+        "en": "What is in your room?",
+        "vi": "Trong phòng của bạn có cái gì?",
+        "segments": [
+          { "id": "w1", "zh": "你", "pinyin": "nǐ" },
+          { "id": "w2", "zh": "的", "pinyin": "de" },
+          { "id": "w3", "zh": "房间", "pinyin": "fángjiān" },
+          { "id": "w4", "zh": "里", "pinyin": "lǐ" },
+          { "id": "w5", "zh": "有", "pinyin": "yǒu" },
+          { "id": "w6", "zh": "什么", "pinyin": "shénme" }
+        ]
+      },
+      {
+        "zh": "房间里有一张床和一张桌子。",
+        "pinyin": "Fángjiān lǐ yǒu yì zhāng chuáng hé yì zhāng zhuōzi.",
+        "en": "There is a bed and a table in the room.",
+        "vi": "Trong phòng có một chiếc giường và một cái bàn.",
+        "segments": [
+          { "id": "w7", "zh": "房间", "pinyin": "fángjiān" },
+          { "id": "w8", "zh": "里", "pinyin": "lǐ" },
+          { "id": "w9", "zh": "有", "pinyin": "yǒu" },
+          { "id": "w10", "zh": "一张", "pinyin": "yì zhāng" },
+          { "id": "w11", "zh": "床", "pinyin": "chuáng" },
+          { "id": "w12", "zh": "和", "pinyin": "hé" },
+          { "id": "w13", "zh": "一张", "pinyin": "yì zhāng" },
+          { "id": "w14", "zh": "桌子", "pinyin": "zhuōzi" }
+        ]
+      }
+    ],
+    "grammar": [
+      {
+        "title": { "en": "Existential Sentences", "vi": "Câu tồn hiện" },
+        "point": "Place + 有 (yǒu) + Noun. Used to state that something exists in a certain place. Example: 房间里有床 (There is a bed in the room).",
+        "hsk_ref": "初-Existential Sentences (1) – 存现句 (1)"
+      }
+    ],
+    "vocabulary_inventory": [
+      {
+        "id": 101,
+        "zh": "房间",
+        "pinyin": "fángjiān",
+        "en": "room",
+        "vi": "phòng",
+        "hsk": 2,
+        "examples": [
+          { "zh": "你的房间里有什么？", "en": "What is in your room?", "vi": "Trong phòng của bạn có cái gì?" },
+          { "zh": "这个房间很干净。", "en": "This room is very clean.", "vi": "Căn phòng này rất sạch sẽ." }
+        ]
+      },
+      {
+        "id": 52,
+        "zh": "床",
+        "pinyin": "chuáng",
+        "en": "bed",
+        "vi": "giường",
+        "hsk": 2,
+        "examples": [
+          { "zh": "房间里有一张床。", "en": "There is a bed in the room.", "vi": "Trong phòng có một chiếc giường." },
+          { "zh": "他在床上睡觉。", "en": "He is sleeping on the bed.", "vi": "Anh ấy đang ngủ trên giường." }
+        ]
+      }
+    ],
+    "practice": [
+      {
+        "question": { "en": "Which structure expresses 'There is X in Y'?", "vi": "Cấu trúc nào diễn đạt 'Có X ở Y'?" },
+        "options": ["A. Y 是 X", "B. Y 有 X", "C. Y 在 X", "D. X 比 Y"],
+        "answer": "B"
+      },
+      {
+        "question": { "en": "Translate 'room':", "vi": "Dịch từ 'phòng':" },
+        "options": ["A. 房子", "B. 房间", "C. 办公室", "D. 门口"],
+        "answer": "B"
+      },
+      {
+        "question": { "en": "What is the classifier for 'table' (桌子)?", "vi": "Lượng từ cho 'bàn' (桌子) là gì?" },
+        "options": ["A. 本", "B. 个", "C. 张", "D. 支"],
+        "answer": "C"
+      }
+    ]
+  },
+  {
+    "hsk_level": 2,
+    "lesson_id": "L12",
+    "theme": {
+      "en": "Feelings",
+      "vi": "Cảm xúc"
+    },
+    "story": [
+      {
+        "zh": "你的脸红红的，你怎么了？",
+        "pinyin": "Nǐ de liǎn hónghóng de, nǐ zěnme le?",
+        "en": "Your face is quite red; what's wrong with you?",
+        "vi": "Mặt bạn đỏ đỏ, bạn làm sao vậy?",
+        "segments": [
+          { "id": "w1", "zh": "你", "pinyin": "nǐ" },
+          { "id": "w2", "zh": "的", "pinyin": "de" },
+          { "id": "w3", "zh": "脸", "pinyin": "liǎn" },
+          { "id": "w4", "zh": "红红的", "pinyin": "hónghóng de" },
+          { "id": "w5", "zh": "你", "pinyin": "nǐ" },
+          { "id": "w6", "zh": "怎么", "pinyin": "zěnme" },
+          { "id": "w7", "zh": "了", "pinyin": "le" }
+        ]
+      },
+      {
+        "zh": "我很高兴，因为我见到了老朋友。",
+        "pinyin": "Wǒ hěn gāoxìng, yīnwèi wǒ jiàndào le lǎo péngyǒu.",
+        "en": "I am very happy because I met an old friend.",
+        "vi": "Tôi rất vui, vì tôi đã gặp được người bạn cũ.",
+        "segments": [
+          { "id": "w8", "zh": "我", "pinyin": "wǒ" },
+          { "id": "w9", "zh": "很", "pinyin": "hěn" },
+          { "id": "w10", "zh": "高兴", "pinyin": "gāoxìng" },
+          { "id": "w11", "zh": "因为", "pinyin": "yīnwèi" },
+          { "id": "w12", "zh": "我", "pinyin": "wǒ" },
+          { "id": "w13", "zh": "见到", "pinyin": "jiàndào" },
+          { "id": "w14", "zh": "了", "pinyin": "le" },
+          { "id": "w15", "zh": "老", "pinyin": "lǎo" },
+          { "id": "w16", "zh": "朋友", "pinyin": "péngyǒu" }
+        ]
+      }
+    ],
+    "grammar": [
+      {
+        "title": { "en": "Adjective Reduplication", "vi": "Lặp lại tính từ" },
+        "point": "Adj + Adj + 的. For monosyllabic adjectives, it adds a descriptive or affectionate tone. Example: 红红的 (quite red).",
+        "hsk_ref": "初-The Adjective Reduplication – 形容词重叠"
+      }
+    ],
+    "vocabulary_inventory": [
+      {
+        "id": 115,
+        "zh": "高兴",
+        "pinyin": "gāoxìng",
+        "en": "happy",
+        "vi": "vui vẻ/hạnh phúc",
+        "hsk": 2,
+        "examples": [
+          { "zh": "我很高兴。", "en": "I am very happy.", "vi": "Tôi rất vui." },
+          { "zh": "见到你很高兴。", "en": "Nice to meet you.", "vi": "Rất vui được gặp bạn." }
+        ]
+      },
+      {
+        "id": 138,
+        "zh": "好",
+        "pinyin": "hǎo",
+        "en": "good/well",
+        "vi": "tốt",
+        "hsk": 2,
+        "examples": [
+          { "zh": "她是我的好朋友。", "en": "She is my good friend.", "vi": "Cô ấy là bạn tốt của tôi." },
+          { "zh": "好的，我知道了。", "en": "Okay, I see.", "vi": "Được rồi, tôi biết rồi." }
+        ]
+      }
+    ],
+    "practice": [
+      {
+        "question": { "en": "What is the tone of '红红的' compared to just '红'?", "vi": "Sắc thái của '红红的' so với '红' là gì?" },
+        "options": ["A. More scientific", "B. More descriptive/affectionate", "C. Negative", "D. Future tense"],
+        "answer": "B"
+      },
+      {
+        "question": { "en": "Translate 'because':", "vi": "Dịch từ 'vì/bởi vì':" },
+        "options": ["A. 所以", "B. 因为", "C. 但是", "D. 觉得"],
+        "answer": "B"
+      },
+      {
+        "question": { "en": "Complete the phrase: '慢慢____'", "vi": "Hoàn thành cụm từ: '慢慢____'" },
+        "options": ["A. 了", "B. 的", "C. 得", "D. 吗"],
+        "answer": "B"
+      }
+    ]
+  },
+  {
+    "hsk_level": 2,
+    "lesson_id": "L13",
+    "theme": {
+      "en": "Planning",
+      "vi": "Kế hoạch"
+    },
+    "story": [
+      {
+        "zh": "你打算什么时候去北京？我想要下个月去。",
+        "pinyin": "Nǐ dǎsuàn shénme shíhou qù Běijīng? Wǒ xiǎngyào xià gè yuè qù.",
+        "en": "When do you plan to go to Beijing? I would like to go next month.",
+        "vi": "Bạn dự định khi nào đi Bắc Kinh? Tôi muốn đi vào tháng sau.",
+        "segments": [
+          { "id": "w1", "zh": "你", "pinyin": "nǐ" },
+          { "id": "w2", "zh": "打算", "pinyin": "dǎsuàn" },
+          { "id": "w3", "zh": "什么时候", "pinyin": "shénme shíhou" },
+          { "id": "w4", "zh": "去", "pinyin": "qù" },
+          { "id": "w5", "zh": "北京", "pinyin": "Běijīng" },
+          { "id": "w6", "zh": "我", "pinyin": "wǒ" },
+          { "id": "w7", "zh": "想要", "pinyin": "xiǎngyào" },
+          { "id": "w8", "zh": "下个月", "pinyin": "xià gè yuè" }
+        ]
+      },
+      {
+        "zh": "你应该先准备好护照。我要去办手续了。",
+        "pinyin": "Nǐ yīnggāi xiān zhǔnbèi hǎo hùzhào. Wǒ yào qù bàn shǒuxù le.",
+        "en": "You should prepare your passport first. I need to go handle the procedures.",
+        "vi": "Bạn nên chuẩn bị sẵn hộ chiếu trước. Tôi phải đi làm thủ tục đây.",
+        "segments": [
+          { "id": "w9", "zh": "你", "pinyin": "nǐ" },
+          { "id": "w10", "zh": "应该", "pinyin": "yīnggāi" },
+          { "id": "w11", "zh": "先", "pinyin": "xiān" },
+          { "id": "w12", "zh": "准备好", "pinyin": "zhǔnbèi hǎo" },
+          { "id": "w13", "zh": "护照", "pinyin": "hùzhào" },
+          { "id": "w14", "zh": "我", "pinyin": "wǒ" },
+          { "id": "w15", "zh": "要", "pinyin": "yào" },
+          { "id": "w16", "zh": "去", "pinyin": "qù" },
+          { "id": "w17", "zh": "办", "pinyin": "bàn" },
+          { "id": "w18", "zh": "手续", "pinyin": "shǒuxù" }
+        ]
+      }
+    ],
+    "grammar": [
+      {
+        "title": { "en": "Intention: xiǎng vs yào", "vi": "Ý định: xiǎng và yào" },
+        "point": "'想' (xiǎng) means 'would like to' (desire). '要' (yào) is stronger, meaning 'will' or 'plan to'. '想要' (xiǎngyào) is a polite way to say 'want'.",
+        "hsk_ref": "初-想(xiǎng) vs 要(yào) vs 想要"
+      }
+    ],
+    "vocabulary_inventory": [
+      {
+        "id": 122,
+        "zh": "打算",
+        "pinyin": "dǎsuàn",
+        "en": "to plan / plan",
+        "vi": "dự định",
+        "hsk": 2,
+        "examples": [
+          { "zh": "你打算什么时候去北京？", "en": "When do you plan to go to Beijing?", "vi": "Bạn dự định khi nào đi Bắc Kinh?" },
+          { "zh": "我没打算去。", "en": "I don't plan to go.", "vi": "Tôi không có dự định đi." }
+        ]
+      },
+      {
+        "id": 486,
+        "zh": "准备",
+        "pinyin": "zhǔnbèi",
+        "en": "to prepare",
+        "vi": "chuẩn bị",
+        "hsk": 2,
+        "examples": [
+          { "zh": "准备好了吗？", "en": "Are you ready (prepared)?", "vi": "Đã chuẩn bị xong chưa?" },
+          { "zh": "我正在准备考试。", "en": "I am preparing for the exam.", "vi": "Tôi đang chuẩn bị cho kỳ thi." }
+        ]
+      }
+    ],
+    "practice": [
+      {
+        "question": { "en": "Which word indicates a stronger intention or a plan?", "vi": "Từ nào chỉ ý định mạnh mẽ hơn hoặc một kế hoạch?" },
+        "options": ["A. 想", "B. 要", "C. 觉得", "D. 知道"],
+        "answer": "B"
+      },
+      {
+        "question": { "en": "Translate 'to plan':", "vi": "Dịch từ 'dự định':" },
+        "options": ["A. 准备", "B. 打算", "C. 决定", "D. 建议"],
+        "answer": "B"
+      },
+      {
+        "question": { "en": "Complete the sentence: '我____去中国旅游。' (I would like to...)", "vi": "Hoàn thành câu: '我____去中国旅游。' (Tôi muốn...)" },
+        "options": ["A. 不会", "B. 想要", "C. 不太", "D. 刚才"],
+        "answer": "B"
+      }
+    ]
+  },
+  {
+    "hsk_level": 2,
+    "lesson_id": "L14",
+    "theme": {
+      "en": "Abilities",
+      "vi": "Khả năng"
+    },
+    "story": [
+      {
+        "zh": "你现在能开车送我去机场吗？",
+        "pinyin": "Nǐ xiànzài néng kāichē sòng wǒ qù jīchǎng ma?",
+        "en": "Can you drive me to the airport now?",
+        "vi": "Bây giờ bạn có thể lái xe đưa tôi đến sân bay không?",
+        "segments": [
+          { "id": "w1", "zh": "你", "pinyin": "nǐ" },
+          { "id": "w2", "zh": "现在", "pinyin": "xiànzài" },
+          { "id": "w3", "zh": "能", "pinyin": "néng" },
+          { "id": "w4", "zh": "开车", "pinyin": "kāichē" },
+          { "id": "w5", "zh": "送", "pinyin": "sòng" },
+          { "id": "w6", "zh": "我", "pinyin": "wǒ" },
+          { "id": "w7", "zh": "去", "pinyin": "qù" },
+          { "id": "w8", "zh": "机场", "pinyin": "jīchǎng" },
+          { "id": "w9", "zh": "吗", "pinyin": "ma" }
+        ]
+      },
+      {
+        "zh": "我可以去，但是我现在有点儿累。",
+        "pinyin": "Wǒ kěyǐ qù, dànshì wǒ xiànzài yǒudiǎnr lèi.",
+        "en": "I can go (it's possible), but I'm a bit tired now.",
+        "vi": "Tôi có thể đi (điều đó khả thi), nhưng bây giờ tôi hơi mệt.",
+        "segments": [
+          { "id": "w10", "zh": "我", "pinyin": "wǒ" },
+          { "id": "w11", "zh": "可以", "pinyin": "kěyǐ" },
+          { "id": "w12", "zh": "去", "pinyin": "qù" },
+          { "id": "w13", "zh": "但是", "pinyin": "dànshì" },
+          { "id": "w14", "zh": "我", "pinyin": "wǒ" },
+          { "id": "w15", "zh": "现在", "pinyin": "xiànzài" },
+          { "id": "w16", "zh": "有点儿", "pinyin": "yǒudiǎnr" },
+          { "id": "w17", "zh": "累", "pinyin": "lèi" }
+        ]
+      }
+    ],
+    "grammar": [
+      {
+        "title": { "en": "néng vs kěyǐ", "vi": "néng và kěyǐ" },
+        "point": "'能' (néng) usually refers to physical capability or objective possibility. '可以' (kěyǐ) refers to permission or general possibility.",
+        "hsk_ref": "初-能(néng) vs 可以(kěyǐ)"
+      }
+    ],
+    "vocabulary_inventory": [
+      {
+        "id": 162,
+        "zh": "机场",
+        "pinyin": "jīchǎng",
+        "en": "airport",
+        "vi": "sân bay",
+        "hsk": 2,
+        "examples": [
+          { "zh": "送我去机场。", "en": "Take me to the airport.", "vi": "Đưa tôi đến sân bay." },
+          { "zh": "机场离这儿远不远？", "en": "Is the airport far from here?", "vi": "Sân bay cách đây có xa không?" }
+        ]
+      },
+      {
+        "id": 211,
+        "zh": "累",
+        "pinyin": "lèi",
+        "en": "tired",
+        "vi": "mệt",
+        "hsk": 2,
+        "examples": [
+          { "zh": "我有点儿累。", "en": "I'm a bit tired.", "vi": "Tôi hơi mệt." },
+          { "zh": "你不累吗？", "en": "Are you not tired?", "vi": "Bạn không mệt à?" }
+        ]
+      },
+      {
+        "id": 160,
+        "zh": "会",
+        "pinyin": "huì",
+        "en": "can / know how to",
+        "vi": "biết / có thể",
+        "hsk": 2,
+        "examples": [
+          { "zh": "我会开车。", "en": "I know how to drive.", "vi": "Tôi biết lái xe." },
+          { "zh": "他不会说英语。", "en": "He doesn't know how to speak English.", "vi": "Anh ấy không biết nói tiếng Anh." }
+        ]
+      }
+    ],
+    "practice": [
+      {
+        "question": { "en": "Which word is best used for 'permission' (May I)?", "vi": "Từ nào dùng tốt nhất để xin phép (Tôi có thể không)?" },
+        "options": ["A. 能", "B. 可以", "C. 会", "D. 想"],
+        "answer": "B"
+      },
+      {
+        "question": { "en": "Translate 'I'm a bit tired':", "vi": "Dịch cụm từ 'Tôi hơi mệt':" },
+        "options": ["A. 我一点儿累", "B. 我有点儿累", "C. 我不累", "D. 我很累"],
+        "answer": "B"
+      },
+      {
+        "question": { "en": "Which word refers specifically to a learned skill (like speaking a language)?", "vi": "Từ nào dùng cho một kỹ năng đã được học (như nói một ngôn ngữ)?" },
+        "options": ["A. 能", "B. 可以", "C. 会", "D. 打算"],
+        "answer": "C"
+      }
+    ]
+  },
+  {
+    "hsk_level": 2,
+    "lesson_id": "L15",
+    "theme": {
+      "en": "Comparisons",
+      "vi": "Sự so sánh"
+    },
+    "story": [
+      {
+        "zh": "这种药没有那种药那么苦。",
+        "pinyin": "Zhè zhǒng yào méiyǒu nà zhǒng yào nàme kǔ.",
+        "en": "This kind of medicine is not as bitter as that kind.",
+        "vi": "Loại thuốc này không đắng bằng loại thuốc kia.",
+        "segments": [
+          { "id": "w1", "zh": "这种", "pinyin": "zhè zhǒng" },
+          { "id": "w2", "zh": "药", "pinyin": "yào" },
+          { "id": "w3", "zh": "没有", "pinyin": "méiyǒu" },
+          { "id": "w4", "zh": "那种", "pinyin": "nà zhǒng" },
+          { "id": "w5", "zh": "那么", "pinyin": "nàme" },
+          { "id": "w6", "zh": "苦", "pinyin": "kǔ" }
+        ]
+      },
+      {
+        "zh": "我觉得跑步没有游泳那么有意思。",
+        "pinyin": "Wǒ juéde pǎobù méiyǒu yóuyǒng nàme yǒuyìsi.",
+        "en": "I think running is not as interesting as swimming.",
+        "vi": "Tôi thấy chạy bộ không thú vị bằng bơi lội.",
+        "segments": [
+          { "id": "w7", "zh": "我", "pinyin": "wǒ" },
+          { "id": "w8", "zh": "觉得", "pinyin": "juéde" },
+          { "id": "w9", "zh": "跑步", "pinyin": "pǎobù" },
+          { "id": "w10", "zh": "没有", "pinyin": "méiyǒu" },
+          { "id": "w11", "zh": "游泳", "pinyin": "yóuyǒng" },
+          { "id": "w12", "zh": "那么", "pinyin": "nàme" },
+          { "id": "w13", "zh": "有意思", "pinyin": "yǒuyìsi" }
+        ]
+      }
+    ],
+    "grammar": [
+      {
+        "title": { "en": "Comparison with 'méiyǒu'", "vi": "So sánh với 'méiyǒu'" },
+        "point": "A + 没有 (méiyǒu) + B + (那么) + Adj. Used to mean 'A is not as [Adj] as B'.",
+        "hsk_ref": "初-Comparative Sentences (3) – 比较句 (3)"
+      }
+    ],
+    "vocabulary_inventory": [
+      {
+        "id": 423,
+        "zh": "要",
+        "pinyin": "yào",
+        "en": "medicine",
+        "vi": "thuốc",
+        "hsk": 2,
+        "examples": [
+          { "zh": "这种药没有那种药那么苦。", "en": "This kind of medicine is not as bitter as that kind.", "vi": "Loại thuốc này không đắng bằng loại thuốc kia." },
+          { "zh": "你吃药了吗？", "en": "Did you take your medicine?", "vi": "Bạn uống thuốc chưa?" }
+        ]
+      },
+      {
+        "id": 187,
+        "zh": "觉得",
+        "pinyin": "juéde",
+        "en": "to feel / to think",
+        "vi": "cảm thấy",
+        "hsk": 2,
+        "examples": [
+          { "zh": "我觉得跑步很有意思。", "en": "I think running is very interesting.", "vi": "Tôi thấy chạy bộ rất thú vị." },
+          { "zh": "你觉得怎么样？", "en": "How do you feel?", "vi": "Bạn thấy thế nào?" }
+        ]
+      }
+    ],
+    "practice": [
+      {
+        "question": { "en": "Which word is used to say 'not as... as' in a comparison?", "vi": "Từ nào dùng để nói 'không... bằng' trong câu so sánh?" },
+        "options": ["A. 比", "B. 没有", "C. 跟", "D. 不"],
+        "answer": "B"
+      },
+      {
+        "question": { "en": "Translate 'interesting':", "vi": "Dịch từ 'thú vị':" },
+        "options": ["A. 漂亮", "B. 舒服", "C. 有意思", "D. 觉得"],
+        "answer": "C"
+      },
+      {
+        "question": { "en": "What does '药' mean?", "vi": "'药' nghĩa là gì?" },
+        "options": ["A. Food", "B. Water", "C. Tea", "D. Medicine"],
+        "answer": "D"
+      }
+    ]
+  },
+  {
+    "hsk_level": 2,
+    "lesson_id": "L16",
+    "theme": {
+      "en": "Giving",
+      "vi": "Tặng quà"
+    },
+    "story": [
+      {
+        "zh": "这是我给奶奶买的礼物。",
+        "pinyin": "Zhè shì wǒ gěi nǎinai mǎi de lǐwù.",
+        "en": "This is the gift I bought for my grandma.",
+        "vi": "Đây là món quà tôi mua cho bà nội.",
+        "segments": [
+          { "id": "w1", "zh": "这", "pinyin": "zhè" },
+          { "id": "w2", "zh": "是", "pinyin": "shì" },
+          { "id": "w3", "zh": "我", "pinyin": "wǒ" },
+          { "id": "w4", "zh": "给", "pinyin": "gěi" },
+          { "id": "w5", "zh": "奶奶", "pinyin": "nǎinai" },
+          { "id": "w6", "zh": "买", "pinyin": "mǎi" },
+          { "id": "w7", "zh": "的", "pinyin": "de" },
+          { "id": "w8", "zh": "礼物", "pinyin": "lǐwù" }
+        ]
+      },
+      {
+        "zh": "请你帮我给她打个电话。",
+        "pinyin": "Qǐng nǐ bāng wǒ gěi tā dǎ gè diànhuà.",
+        "en": "Please help me give her a phone call.",
+        "vi": "Làm ơn giúp tôi gọi điện thoại cho cô ấy.",
+        "segments": [
+          { "id": "w9", "zh": "请", "pinyin": "qǐng" },
+          { "id": "w10", "zh": "你", "pinyin": "nǐ" },
+          { "id": "w11", "zh": "帮", "pinyin": "bāng" },
+          { "id": "w12", "zh": "我", "pinyin": "wǒ" },
+          { "id": "w13", "zh": "给", "pinyin": "gěi" },
+          { "id": "w14", "zh": "她", "pinyin": "tā" },
+          { "id": "w15", "zh": "打个电话", "pinyin": "dǎ gè diànhuà" }
+        ]
+      }
+    ],
+    "grammar": [
+      {
+        "title": { "en": "Prepositional 'gěi'", "vi": "Giới từ 'gěi'" },
+        "point": "Subject + 给 (gěi) + Recipient + Verb. Example: 我给你打电话 (I call you).",
+        "hsk_ref": "初-给(gěi)"
+      }
+    ],
+    "vocabulary_inventory": [
+      {
+        "id": 260,
+        "zh": "奶奶",
+        "pinyin": "nǎinai",
+        "en": "grandmother (paternal)",
+        "vi": "bà nội",
+        "hsk": 2,
+        "examples": [
+          { "zh": "这是我给奶奶买的礼物。", "en": "This is the gift I bought for my grandma.", "vi": "Đây là món quà tôi mua cho bà nội." },
+          { "zh": "奶奶在那儿呢。", "en": "Grandma is over there.", "vi": "Bà nội ở đằng kia kìa." }
+        ]
+      },
+      {
+        "id": 113,
+        "zh": "给",
+        "pinyin": "gěi",
+        "en": "to give / for",
+        "vi": "cho/tặng",
+        "hsk": 2,
+        "examples": [
+          { "zh": "请给我。", "en": "Please give it to me.", "vi": "Làm ơn đưa cho tôi." },
+          { "zh": "我给你打电话。", "en": "I'll give you a call.", "vi": "Tôi sẽ gọi điện cho bạn." }
+        ]
+      }
+    ],
+    "practice": [
+      {
+        "question": { "en": "In '我给你买书', what is the role of '给'?", "vi": "Trong '我给你买书', vai trò của '给' là gì?" },
+        "options": ["A. Main verb", "B. Preposition (for)", "C. Adjective", "D. Question particle"],
+        "answer": "B"
+      },
+      {
+        "question": { "en": "Translate 'grandmother' (paternal side):", "vi": "Dịch từ 'bà nội':" },
+        "options": ["A. 妈妈", "B. 姐姐", "C. 奶奶", "D. 老师"],
+        "answer": "C"
+      },
+      {
+        "question": { "en": "Complete the phrase: '____他打电话'", "vi": "Hoàn thành cụm từ: '____他打电话'" },
+        "options": ["A. 在", "B. 比", "C. 给", "D. 从"],
+        "answer": "C"
+      }
+    ]
+  },
+  {
+    "hsk_level": 2,
+    "lesson_id": "L17",
+    "theme": {
+      "en": "Descriptions",
+      "vi": "Miêu tả"
+    },
+    "story": [
+      {
+        "zh": "他是一个认真的学生，他每天都努力地学习。",
+        "pinyin": "Tā shì yí gè rènzhēn de xuésheng, tā měitiān dōu nǔlì de xuéxí.",
+        "en": "He is a serious student; he studies hard every day.",
+        "vi": "Cậu ấy là một học sinh nghiêm túc, ngày nào cậu ấy cũng nỗ lực học tập.",
+        "segments": [
+          { "id": "w1", "zh": "他", "pinyin": "tā" },
+          { "id": "w2", "zh": "是", "pinyin": "shì" },
+          { "id": "w3", "zh": "一个", "pinyin": "yí gè" },
+          { "id": "w4", "zh": "认真", "pinyin": "rènzhēn" },
+          { "id": "w5", "zh": "的", "pinyin": "de" },
+          { "id": "w6", "zh": "学生", "pinyin": "xuésheng" },
+          { "id": "w7", "zh": "努力", "pinyin": "nǔlì" },
+          { "id": "w8", "zh": "地", "pinyin": "de" },
+          { "id": "w9", "zh": "学习", "pinyin": "xuéxí" }
+        ]
+      },
+      {
+        "zh": "外面下着大雨，请慢地走。",
+        "pinyin": "Wàimiàn xià zhe dàyǔ, qǐng màn de zǒu.",
+        "en": "It is raining hard outside; please walk slowly.",
+        "vi": "Bên ngoài trời đang mưa lớn, vui lòng đi chậm thôi.",
+        "segments": [
+          { "id": "w10", "zh": "外面", "pinyin": "wàimiàn" },
+          { "id": "w11", "zh": "下着", "pinyin": "xià zhe" },
+          { "id": "w12", "zh": "大雨", "pinyin": "dàyǔ" },
+          { "id": "w13", "zh": "请", "pinyin": "qǐng" },
+          { "id": "w14", "zh": "慢", "pinyin": "màn" },
+          { "id": "w15", "zh": "地", "pinyin": "de" },
+          { "id": "w16", "zh": "走", "pinyin": "zǒu" }
+        ]
+      }
+    ],
+    "grammar": [
+      {
+        "title": { "en": "de (attributive) vs. de (adverbial)", "vi": "Phân biệt 的 và 地" },
+        "point": "Use '的' (de) to describe a noun (Adj + 的 + Noun). Use '地' (de) to describe how a verb is done (Adj + 地 + Verb).",
+        "hsk_ref": "初-的(de) vs 地(de)"
+      }
+    ],
+    "vocabulary_inventory": [
+      {
+        "id": 501,
+        "zh": "认真",
+        "pinyin": "rènzhēn",
+        "en": "serious / earnest",
+        "vi": "nghiêm túc",
+        "hsk": 2,
+        "examples": [
+          { "zh": "他是一个认真的学生。", "en": "He is a serious student.", "vi": "Cậu ấy là một học sinh nghiêm túc." },
+          { "zh": "请认真听。", "en": "Please listen earnestly.", "vi": "Vui lòng nghe một cách nghiêm túc." }
+        ]
+      },
+      {
+        "id": 483,
+        "zh": "努力",
+        "pinyin": "nǔlì",
+        "en": "hardworking / effort",
+        "vi": "nỗ lực / cố gắng",
+        "hsk": 2,
+        "examples": [
+          { "zh": "他努力地学习。", "en": "He studies hard.", "vi": "Cậu ấy nỗ lực học tập." },
+          { "zh": "我们要努力工作。", "en": "We need to work hard.", "vi": "Chúng ta cần làm việc cố gắng." }
+        ]
+      }
+    ],
+    "practice": [
+      {
+        "question": { "en": "Which particle is used in 'Hardworkingly study' (nǔlì __ xuéxí)?", "vi": "Trợ từ nào dùng trong cụm 'nǔlì __ xuéxí' (học tập nỗ lực)?" },
+        "options": ["A. 的", "B. 地", "C. 得", "D. 了"],
+        "answer": "B"
+      },
+      {
+        "question": { "en": "Which particle is used in 'Beautiful clothes' (piàoliang __ yīfu)?", "vi": "Trợ từ nào dùng trong cụm 'piàoliang __ yīfu' (quần áo đẹp)?" },
+        "options": ["A. 地", "B. 的", "C. 得", "D. 了"],
+        "answer": "B"
+      },
+      {
+        "question": { "en": "Translate 'slowly walk':", "vi": "Dịch cụm 'đi chậm rãi':" },
+        "options": ["A. 慢慢地走", "B. 慢慢的走", "C. 慢慢得走", "D. 走慢慢"],
+        "answer": "A"
+      }
+    ]
+  },
+  {
+    "hsk_level": 2,
+    "lesson_id": "L18",
+    "theme": {
+      "en": "Time Duration",
+      "vi": "Khoảng thời gian"
+    },
+    "story": [
+      {
+        "zh": "你学了多长时间汉语了？",
+        "pinyin": "Nǐ xué le duō cháng shíjiān hànyǔ le?",
+        "en": "How long have you been studying Chinese?",
+        "vi": "Bạn đã học tiếng Trung được bao lâu rồi?",
+        "segments": [
+          { "id": "w1", "zh": "你", "pinyin": "nǐ" },
+          { "id": "w2", "zh": "学", "pinyin": "xué" },
+          { "id": "w3", "zh": "了", "pinyin": "le" },
+          { "id": "w4", "zh": "多长时间", "pinyin": "duō cháng shíjiān" },
+          { "id": "w5", "zh": "汉语", "pinyin": "hànyǔ" },
+          { "id": "w6", "zh": "了", "pinyin": "le" }
+        ]
+      },
+      {
+        "zh": "我学了一年了，我每天下午看书看一个小时。",
+        "pinyin": "Wǒ xué le yì nián le, wǒ měitiān xiàwǔ kànshū kàn yí gè xiǎoshí.",
+        "en": "I've been studying for a year; I read for an hour every afternoon.",
+        "vi": "Tôi học được một năm rồi, mỗi chiều tôi đều đọc sách một tiếng đồng hồ.",
+        "segments": [
+          { "id": "w7", "zh": "我", "pinyin": "wǒ" },
+          { "id": "w8", "zh": "学", "pinyin": "xué" },
+          { "id": "w9", "zh": "了", "pinyin": "le" },
+          { "id": "w10", "zh": "一年", "pinyin": "yì nián" },
+          { "id": "w11", "zh": "看书", "pinyin": "kànshū" },
+          { "id": "w12", "zh": "看", "pinyin": "kàn" },
+          { "id": "w13", "zh": "一个小时", "pinyin": "yí gè xiǎoshí" }
+        ]
+      }
+    ],
+    "grammar": [
+      {
+        "title": { "en": "Quantitative Complement (Duration)", "vi": "Bổ ngữ số lượng (Thời lượng)" },
+        "point": "Verb + (Object) + Verb + 了 + Duration. Example: 看书看一个小时 (Read for one hour).",
+        "hsk_ref": "初-The Quantitative Complement (1) – 数量补语 (1)"
+      }
+    ],
+    "vocabulary_inventory": [
+      {
+        "id": 515,
+        "zh": "多长时间",
+        "pinyin": "duō cháng shíjiān",
+        "en": "how long (time)",
+        "vi": "bao lâu",
+        "hsk": 2,
+        "examples": [
+          { "zh": "你学了多长时间？", "en": "How long have you studied?", "vi": "Bạn đã học bao lâu rồi?" },
+          { "zh": "你要去多长时间？", "en": "How long will you go for?", "vi": "Bạn sẽ đi trong bao lâu?" }
+        ]
+      },
+      {
+        "id": 520,
+        "zh": "小时",
+        "pinyin": "xiǎoshí",
+        "en": "hour",
+        "vi": "tiếng đồng hồ",
+        "hsk": 2,
+        "examples": [
+          { "zh": "一个小时。", "en": "One hour.", "vi": "Một tiếng đồng hồ." },
+          { "zh": "我等了你两个小时。", "en": "I waited for you for two hours.", "vi": "Tôi đã đợi bạn hai tiếng đồng hồ." }
+        ]
+      }
+    ],
+    "practice": [
+      {
+        "question": { "en": "How do you ask 'How long' for time?", "vi": "Hỏi 'Bao lâu' về thời gian như thế nào?" },
+        "options": ["A. 什么时候", "B. 多少钱", "C. 多长时间", "D. 几点"],
+        "answer": "C"
+      },
+      {
+        "question": { "en": "Where does the duration go in 'I studied for one year'?", "vi": "Thời lượng đặt ở đâu trong câu 'Tôi học được một năm'?" },
+        "options": ["A. Before the verb", "B. After the verb", "C. At the very beginning", "D. After the subject only"],
+        "answer": "B"
+      },
+            {
+        "question": { "en": "How do you ask 'How long' for time?", "vi": "Hỏi 'Bao lâu' về thời gian như thế nào?" },
+        "options": ["A. 什么时候", "B. 多少钱", "C. 多长时间", "D. 几点"],
+        "answer": "C"
+      },
+      {
+        "question": { "en": "Where does the duration go in 'I studied for one year'?", "vi": "Thời lượng đặt ở đâu trong câu 'Tôi học được một năm'?" },
+        "options": ["A. Before the verb", "B. After the verb", "C. At the very beginning", "D. After the subject only"],
+        "answer": "B"
+      },
+      {
+        "question": { "en": "Translate 'two hours':", "vi": "Dịch 'hai tiếng đồng hồ':" },
+        "options": ["A. 二小时", "B. 两小时", "C. 二个小时", "D. 两个小时"],
+        "answer": "D"
+      }
+    ]
+  },
+  {
+    "hsk_level": 2,
+    "lesson_id": "L19",
+    "theme": {
+      "en": "Decisions",
+      "vi": "Quyết định"
+    },
+    "story": [
+      {
+        "zh": "我以为今天会下雨，所以没出门。",
+        "pinyin": "Wǒ yǐwéi jīntiān huì xiàyǔ, suǒyǐ méi chūmén.",
+        "en": "I thought (mistakenly) it would rain today, so I didn't go out.",
+        "vi": "Tôi cứ tưởng hôm nay trời sẽ mưa, nên đã không ra ngoài.",
+        "segments": [
+          { "id": "w1", "zh": "我", "pinyin": "wǒ" },
+          { "id": "w2", "zh": "以为", "pinyin": "yǐwéi" },
+          { "id": "w3", "zh": "今天", "pinyin": "jīntiān" },
+          { "id": "w4", "zh": "会", "pinyin": "huì" },
+          { "id": "w5", "zh": "下雨", "pinyin": "xiàyǔ" },
+          { "id": "w6", "zh": "所以", "pinyin": "suǒyǐ" },
+          { "id": "w7", "zh": "没", "pinyin": "méi" },
+          { "id": "w8", "zh": "出门", "pinyin": "chūmén" }
+        ]
+      },
+      {
+        "zh": "你认为这个办法怎么样？我认为不错。",
+        "pinyin": "Nǐ rènwéi zhège bànfǎ zěnmeyàng? Wǒ rènwéi búcuò.",
+        "en": "What do you think of this method? I think it's not bad.",
+        "vi": "Bạn cho rằng cách này thế nào? Tôi cho rằng cũng được.",
+        "segments": [
+          { "id": "w9", "zh": "你", "pinyin": "nǐ" },
+          { "id": "w10", "zh": "认为", "pinyin": "rènwéi" },
+          { "id": "w11", "zh": "这个", "pinyin": "zhège" },
+          { "id": "w12", "zh": "办法", "pinyin": "bànfǎ" },
+          { "id": "w13", "zh": "怎么样", "pinyin": "zěnmeyàng" },
+          { "id": "w14", "zh": "我", "pinyin": "wǒ" },
+          { "id": "w15", "zh": "认为", "pinyin": "rènwéi" },
+          { "id": "w16", "zh": "不错", "pinyin": "búcuò" }
+        ]
+      }
+    ],
+    "grammar": [
+      {
+        "title": { "en": "yǐwéi vs rènwéi", "vi": "Phân biệt yǐwéi và rènwéi" },
+        "point": "Use '以为' (yǐwéi) when you previously thought something that turned out to be untrue. Use '认为' (rènwéi) to state a formal opinion or belief.",
+        "hsk_ref": "初-以为(yǐwéi) vs 认为(rènwéi)"
+      }
+    ],
+    "vocabulary_inventory": [
+      {
+        "id": 550,
+        "zh": "认为",
+        "pinyin": "rènwéi",
+        "en": "to think / to consider",
+        "vi": "cho rằng",
+        "hsk": 2,
+        "examples": [
+          { "zh": "我认为这个不错。", "en": "I think this is not bad.", "vi": "Tôi cho rằng cái này không tồi." },
+          { "zh": "你认为呢？", "en": "What do you think?", "vi": "Bạn cho rằng sao?" }
+        ]
+      },
+      {
+        "id": 541,
+        "zh": "以为",
+        "pinyin": "yǐwéi",
+        "en": "to think (mistakenly) / to assume",
+        "vi": "cứ tưởng / cho là",
+        "hsk": 2,
+        "examples": [
+          { "zh": "我以为你不在家。", "en": "I thought you weren't home (but you are).", "vi": "Tôi cứ tưởng bạn không có nhà." },
+          { "zh": "别以为我不知道。", "en": "Don't think I don't know.", "vi": "Đừng cho là tôi không biết." }
+        ]
+      },
+      {
+        "id": 9,
+        "zh": "办法",
+        "pinyin": "bànfǎ",
+        "en": "method / way",
+        "vi": "cách / phương pháp",
+        "hsk": 2,
+        "examples": [
+          { "zh": "这个办法不错。", "en": "This method is not bad.", "vi": "Cách này không tồi." },
+          { "zh": "你有什么好办法？", "en": "Do you have any good ideas?", "vi": "Bạn có cách gì hay không?" }
+        ]
+      }
+    ],
+    "practice": [
+      {
+        "question": { "en": "Which word implies that your previous thought was wrong?", "vi": "Từ nào ngụ ý rằng suy nghĩ trước đó của bạn là sai?" },
+        "options": ["A. 认为", "B. 以为", "C. 觉得", "D. 知道"],
+        "answer": "B"
+      },
+      {
+        "question": { "en": "Translate 'method/way':", "vi": "Dịch từ 'phương pháp/cách':" },
+        "options": ["A. 办法", "B. 办公室", "C. 帮助", "D. 变化"],
+        "answer": "A"
+      },
+      {
+        "question": { "en": "Choose the best word: '我____他是老师，其实他是学生。'", "vi": "Chọn từ đúng nhất: '我____他是老师，其实他是学生。'" },
+        "options": ["A. 认为", "B. 以为", "C. 叫", "D. 是"],
+        "answer": "B"
+      }
+    ]
+  },
+  {
+    "hsk_level": 2,
+    "lesson_id": "L20",
+    "theme": {
+      "en": "Office",
+      "vi": "Văn phòng"
+    },
+    "story": [
+      {
+        "zh": "王经理给了我一些新的工作。",
+        "pinyin": "Wáng jīnglǐ gěi le wǒ yìxiē xīn de gōngzuò.",
+        "en": "Manager Wang gave me some new work.",
+        "vi": "Giám đốc Vương đã giao cho tôi một số công việc mới.",
+        "segments": [
+          { "id": "w1", "zh": "王", "pinyin": "Wáng" },
+          { "id": "w2", "zh": "经理", "pinyin": "jīnglǐ" },
+          { "id": "w3", "zh": "给", "pinyin": "gěi" },
+          { "id": "w4", "zh": "了", "pinyin": "le" },
+          { "id": "w5", "zh": "我", "pinyin": "wǒ" },
+          { "id": "w6", "zh": "一些", "pinyin": "yìxiē" },
+          { "id": "w7", "zh": "新的", "pinyin": "xīn de" },
+          { "id": "w8", "zh": "工作", "pinyin": "gōngzuò" }
+        ]
+      },
+      {
+        "zh": "我问了他一个问题，但是他没回答。",
+        "pinyin": "Wǒ wèn le tā yí gè wèntí, dànshì tā méi huídá.",
+        "en": "I asked him a question, but he didn't answer.",
+        "vi": "Tôi đã hỏi anh ấy một câu hỏi, nhưng anh ấy không trả lời.",
+        "segments": [
+          { "id": "w9", "zh": "我", "pinyin": "wǒ" },
+          { "id": "w10", "zh": "问", "pinyin": "wèn" },
+          { "id": "w11", "zh": "了", "pinyin": "le" },
+          { "id": "w12", "zh": "他", "pinyin": "tā" },
+          { "id": "w13", "zh": "一个", "pinyin": "yí gè" },
+          { "id": "w14", "zh": "问题", "pinyin": "wèntí" },
+          { "id": "w15", "zh": "但是", "pinyin": "dànshì" },
+          { "id": "w16", "zh": "他", "pinyin": "tā" },
+          { "id": "w17", "zh": "没", "pinyin": "méi" },
+          { "id": "w18", "zh": "回答", "pinyin": "huídá" }
+        ]
+      }
+    ],
+    "grammar": [
+      {
+        "title": { "en": "Double Object Sentences", "vi": "Câu song tân ngữ" },
+        "point": "Subject + Verb + Indirect Object (Person) + Direct Object (Thing). Common verbs: 给 (give), 问 (ask), 告诉 (tell).",
+        "hsk_ref": "初-Double Objects Sentences – 双宾语句"
+      }
+    ],
+    "vocabulary_inventory": [
+      {
+        "id": 580,
+        "zh": "问题",
+        "pinyin": "wèntí",
+        "en": "question / problem",
+        "vi": "vấn đề / câu hỏi",
+        "hsk": 2,
+        "examples": [
+          { "zh": "我问了他一个问题。", "en": "I asked him a question.", "vi": "Tôi đã hỏi anh ấy một câu hỏi." },
+          { "zh": "没问题。", "en": "No problem.", "vi": "Không vấn đề gì." }
+        ]
+      },
+      {
+        "id": 575,
+        "zh": "回答",
+        "pinyin": "huídá",
+        "en": "to answer / answer",
+        "vi": "trả lời",
+        "hsk": 2,
+        "examples": [
+          { "zh": "请回答我的问题。", "en": "Please answer my question.", "vi": "Vui lòng trả lời câu hỏi của tôi." },
+          { "zh": "他的回答很好。", "en": "His answer was very good.", "vi": "Câu trả lời của anh ấy rất tốt." }
+        ]
+      }
+    ],
+    "practice": [
+      {
+        "question": { "en": "Which of these verbs is often used in a Double Object sentence?", "vi": "Động từ nào sau đây thường được dùng trong câu song tân ngữ?" },
+        "options": ["A. 走", "B. 给", "C. 忙", "D. 玩"],
+        "answer": "B"
+      },
+      {
+        "question": { "en": "Translate 'to answer':", "vi": "Dịch từ 'trả lời':" },
+        "options": ["A. 问", "B. 告诉", "C. 回答", "D. 说话"],
+        "answer": "C"
+      },
+      {
+        "question": { "en": "In '我问他一个问题', who is the Indirect Object?", "vi": "Trong '我问他一个问题', ai là Tân ngữ gián tiếp?" },
+        "options": ["A. 我 (I)", "B. 他 (Him)", "C. 问题 (Question)", "D. 问 (Ask)"],
+        "answer": "B"
+      }
+    ]
+  },
+  {
+    "hsk_level": 2,
+    "lesson_id": "L21",
+    "theme": {
+      "en": "Experiences",
+      "vi": "Trải nghiệm"
+    },
+    "story": [
+      {
+        "zh": "你以前去过中国吗？我没去过，但是我听过很多中国音乐。",
+        "pinyin": "Nǐ yǐqián qù guò Zhōngguó ma? Wǒ méi qù guò, dànshì wǒ tīng guò hěnduō Zhōngguó yīnyuè.",
+        "en": "Have you ever been to China before? I haven't been, but I have heard a lot of Chinese music.",
+        "vi": "Trước đây bạn đã từng đi Trung Quốc chưa? Tôi chưa từng đi, nhưng tôi đã từng nghe rất nhiều nhạc Trung Quốc.",
+        "segments": [
+          { "id": "w1", "zh": "你", "pinyin": "nǐ" },
+          { "id": "w2", "zh": "以前", "pinyin": "yǐqián" },
+          { "id": "w3", "zh": "去过", "pinyin": "qù guò" },
+          { "id": "w4", "zh": "中国", "pinyin": "Zhōngguó" },
+          { "id": "w5", "zh": "吗", "pinyin": "ma" },
+          { "id": "w6", "zh": "我", "pinyin": "wǒ" },
+          { "id": "w7", "zh": "没", "pinyin": "méi" },
+          { "id": "w8", "zh": "去过", "pinyin": "qù guò" },
+          { "id": "w9", "zh": "但是", "pinyin": "dànshì" },
+          { "id": "w10", "zh": "听过", "pinyin": "tīng guò" },
+          { "id": "w11", "zh": "很多", "pinyin": "hěnduō" }
+        ]
+      },
+      {
+        "zh": "你见过我的猫吗？我刚才在草地上见过它。",
+        "pinyin": "Nǐ jiàn guò wǒ de māo ma? Wǒ gāngcái zài cǎodì shàng jiàn guò tā.",
+        "en": "Have you seen my cat? I saw it on the grass just now.",
+        "vi": "Bạn đã thấy con mèo của tôi chưa? Vừa nãy tôi đã thấy nó ở trên thảm cỏ.",
+        "segments": [
+          { "id": "w12", "zh": "你", "pinyin": "nǐ" },
+          { "id": "w13", "zh": "见过", "pinyin": "jiàn guò" },
+          { "id": "w14", "zh": "我的", "pinyin": "wǒ de" },
+          { "id": "w15", "zh": "猫", "pinyin": "māo" },
+          { "id": "w16", "zh": "我", "pinyin": "wǒ" },
+          { "id": "w17", "zh": "刚才", "pinyin": "gāngcái" },
+          { "id": "w18", "zh": "在", "pinyin": "zài" },
+          { "id": "w19", "zh": "草地", "pinyin": "cǎodì" },
+          { "id": "w20", "zh": "上", "pinyin": "shàng" },
+          { "id": "w21", "zh": "见过", "pinyin": "jiàn guò" },
+          { "id": "w22", "zh": "它", "pinyin": "tā" }
+        ]
+      }
+    ],
+    "grammar": [
+      {
+        "title": { "en": "Experience Particle 'guò'", "vi": "Trợ từ trải nghiệm 'guò'" },
+        "point": "Verb + 过 (guò). Used to indicate that an action has happened at least once in the past. Negative form: 没 + Verb + 过.",
+        "hsk_ref": "初-The Tense of Past – 了(le) vs 过(guò)"
+      }
+    ],
+    "vocabulary_inventory": [
+      {
+        "id": 610,
+        "zh": "以前",
+        "pinyin": "yǐqián",
+        "en": "before / previously",
+        "vi": "trước đây",
+        "hsk": 2,
+        "examples": [
+          { "zh": "你以前去过中国吗？", "en": "Have you been to China before?", "vi": "Trước đây bạn đã từng đi Trung Quốc chưa?" },
+          { "zh": "我以前认识他。", "en": "I knew him previously.", "vi": "Trước đây tôi có quen anh ấy." }
+        ]
+      },
+      {
+        "id": 51,
+        "zh": "草地",
+        "pinyin": "cǎodì",
+        "en": "grass / lawn",
+        "vi": "thảm cỏ / đồng cỏ",
+        "hsk": 2,
+        "examples": [
+          { "zh": "他在草地上玩。", "en": "He is playing on the grass.", "vi": "Cậu ấy đang chơi trên thảm cỏ." },
+          { "zh": "这儿的草地很绿。", "en": "The grass here is very green.", "vi": "Thảm cỏ ở đây rất xanh." }
+        ]
+      }
+    ],
+    "practice": [
+      {
+        "question": { "en": "Which particle is used to express 'have ever done something'?", "vi": "Trợ từ nào dùng để diễn đạt 'đã từng làm gì đó'?" },
+        "options": ["A. 了", "B. 过", "C. 着", "D. 呢"],
+        "answer": "B"
+      },
+      {
+        "question": { "en": "How do you say 'I have not seen' (never experienced seeing)?", "vi": "Nói 'Tôi chưa từng thấy' như thế nào?" },
+        "options": ["A. 我不看", "B. 我没看过", "C. 我不看过", "D. 我没看"],
+        "answer": "B"
+      },
+      {
+        "question": { "en": "Translate 'before/previously':", "vi": "Dịch từ 'trước đây':" },
+        "options": ["A. 以后", "B. 刚才", "C. 以前", "D. 已经"],
+        "answer": "C"
+      }
+    ]
+  },
+  {
+    "hsk_level": 2,
+    "lesson_id": "L22",
+    "theme": {
+      "en": "Directions",
+      "vi": "Phương hướng"
+    },
+    "story": [
+      {
+        "zh": "请向右看，那儿有一家很大的超市。",
+        "pinyin": "Qǐng xiàng yòu kàn, nàr yǒu yìjiā hěn dà de chāoshì.",
+        "en": "Please look to the right; there is a very large supermarket there.",
+        "vi": "Vui lòng nhìn sang bên phải, ở đó có một cái siêu thị rất lớn.",
+        "segments": [
+          { "id": "w1", "zh": "请", "pinyin": "qǐng" },
+          { "id": "w2", "zh": "向", "pinyin": "xiàng" },
+          { "id": "w3", "zh": "右", "pinyin": "yòu" },
+          { "id": "w4", "zh": "看", "pinyin": "kàn" },
+          { "id": "w5", "zh": "那儿", "pinyin": "nàr" },
+          { "id": "w6", "zh": "有", "pinyin": "yǒu" },
+          { "id": "w7", "zh": "一家", "pinyin": "yìjiā" },
+          { "id": "w8", "zh": "超市", "pinyin": "chāoshì" }
+        ]
+      },
+      {
+        "zh": "一直往前走，你会看到地铁站。",
+        "pinyin": "Yìzhí wǎng qián zǒu, nǐ huì kàndào dìtiě zhàn.",
+        "en": "Go straight forward, and you will see the subway station.",
+        "vi": "Đi thẳng về phía trước, bạn sẽ thấy ga tàu điện ngầm.",
+        "segments": [
+          { "id": "w9", "zh": "一直", "pinyin": "yìzhí" },
+          { "id": "w10", "zh": "往", "pinyin": "wǎng" },
+          { "id": "w11", "zh": "前", "pinyin": "qián" },
+          { "id": "w12", "zh": "走", "pinyin": "zǒu" },
+          { "id": "w13", "zh": "你", "pinyin": "nǐ" },
+          { "id": "w14", "zh": "会", "pinyin": "huì" },
+          { "id": "w15", "zh": "看到", "pinyin": "kàndào" },
+          { "id": "w16", "zh": "地铁站", "pinyin": "dìtiě zhàn" }
+        ]
+      }
+    ],
+    "grammar": [
+      {
+        "title": { "en": "xiàng vs wǎng", "vi": "xiàng và wǎng" },
+        "point": "Both mean 'toward' or 'to'. '向' (xiàng) is more formal and often used with verbs like '看' (look). '往' (wǎng) is common with movement verbs like '走' (walk).",
+        "hsk_ref": "初-朝(cháo) vs 向(xiàng) vs 往(wǎng)"
+      }
+    ],
+    "vocabulary_inventory": [
+      {
+        "id": 650,
+        "zh": "向",
+        "pinyin": "xiàng",
+        "en": "towards / to",
+        "vi": "hướng về / sang",
+        "hsk": 2,
+        "examples": [
+          { "zh": "请向右看。", "en": "Please look to the right.", "vi": "Mời nhìn sang phải." },
+          { "zh": "向老师问好。", "en": "Say hello to the teacher.", "vi": "Chào thầy giáo." }
+        ]
+      },
+      {
+        "id": 645,
+        "zh": "往",
+        "pinyin": "wǎng",
+        "en": "towards / (go) to",
+        "vi": "về phía / hướng",
+        "hsk": 2,
+        "examples": [
+          { "zh": "往前方走。", "en": "Walk forward.", "vi": "Đi về phía trước." },
+          { "zh": "这辆车往北京开。", "en": "This car is driving toward Beijing.", "vi": "Chiếc xe này lái về hướng Bắc Kinh." }
+        ]
+      },
+      {
+        "id": 605,
+        "zh": "一直",
+        "pinyin": "yìzhí",
+        "en": "straight / always",
+        "vi": "luôn luôn / thẳng",
+        "hsk": 2,
+        "examples": [
+          { "zh": "一直往前走。", "en": "Go straight forward.", "vi": "Đi thẳng về phía trước." },
+          { "zh": "我一直在学习。", "en": "I have been studying all along.", "vi": "Tôi vẫn luôn học tập." }
+        ]
+      }
+    ],
+    "practice": [
+      {
+        "question": { "en": "How do you say 'go straight'?", "vi": "Nói 'đi thẳng' như thế nào?" },
+        "options": ["A. 往后走", "B. 一直走", "C. 向上看", "D. 往左走"],
+        "answer": "B"
+      },
+      {
+        "question": { "en": "Which word is best for 'look to the right'?", "vi": "Từ nào dùng tốt nhất cho 'nhìn sang phải'?" },
+        "options": ["A. 从", "B. 给", "C. 向", "D. 离"],
+        "answer": "C"
+      },
+      {
+        "question": { "en": "Translate 'toward the front':", "vi": "Dịch cụm từ 'về phía trước':" },
+        "options": ["A. 往前", "B. 在前", "C. 比前", "D. 过前"],
+        "answer": "A"
+      }
+    ]
+  },
+  {
+    "hsk_level": 2,
+    "lesson_id": "L23",
+    "theme": {
+      "en": "Totals",
+      "vi": "Tổng hợp"
+    },
+    "story": [
+      {
+        "zh": "我们全家人都喜欢喝茶。",
+        "pinyin": "Wǒmen quánjiā rén dōu xǐhuan hē chá.",
+        "en": "Our whole family all likes to drink tea.",
+        "vi": "Cả nhà chúng tôi đều thích uống trà.",
+        "segments": [
+          { "id": "w1", "zh": "我们", "pinyin": "wǒmen" },
+          { "id": "w2", "zh": "全家人", "pinyin": "quánjiā rén" },
+          { "id": "w3", "zh": "都", "pinyin": "dōu" },
+          { "id": "w4", "zh": "喜欢", "pinyin": "xǐhuan" },
+          { "id": "w5", "zh": "喝茶", "pinyin": "hē chá" }
+        ]
+      },
+      {
+        "zh": "这些书全是我买的，大家都看过。",
+        "pinyin": "Zhèxiē shū quán shì wǒ mǎi de, dàjiā dōu kàn guò.",
+        "en": "These books are all bought by me; everyone has read them.",
+        "vi": "Những cuốn sách này toàn bộ là tôi mua, mọi người đều đã xem qua rồi.",
+        "segments": [
+          { "id": "w6", "zh": "这些", "pinyin": "zhèxiē" },
+          { "id": "w7", "zh": "书", "pinyin": "shū" },
+          { "id": "w8", "zh": "全是", "pinyin": "quán shì" },
+          { "id": "w9", "zh": "我", "pinyin": "wǒ" },
+          { "id": "w10", "zh": "买的", "pinyin": "mǎi de" },
+          { "id": "w11", "zh": "大家", "pinyin": "dàjiā" },
+          { "id": "w12", "zh": "都", "pinyin": "dōu" },
+          { "id": "w13", "zh": "看过", "pinyin": "kàn guò" }
+        ]
+      }
+    ],
+    "grammar": [
+      {
+        "title": { "en": "quán vs dōu", "vi": "Phân biệt quán và dōu" },
+        "point": "'全' (quán) is often used as an adjective or adverb meaning 'whole/entire'. '都' (dōu) is an adverb meaning 'all/both' and always comes after the subject.",
+        "hsk_ref": "初-全(quán) vs 都(dōu)"
+      }
+    ],
+    "vocabulary_inventory": [
+      {
+        "id": 670,
+        "zh": "全",
+        "pinyin": "quán",
+        "en": "whole / entire / all",
+        "vi": "toàn bộ / cả",
+        "hsk": 2,
+        "examples": [
+          { "zh": "全家人都来了。", "en": "The whole family has come.", "vi": "Cả nhà đều đến rồi." },
+          { "zh": "这些全是你的。", "en": "These are all yours.", "vi": "Những cái này toàn bộ là của bạn." }
+        ]
+      },
+      {
+        "id": 745,
+        "zh": "主要",
+        "pinyin": "zhǔyào",
+        "en": "main / primary",
+        "vi": "chủ yếu / chính",
+        "hsk": 2,
+        "examples": [
+          { "zh": "主要的问题是什么？", "en": "What is the main problem?", "vi": "Vấn đề chính là gì?" },
+          { "zh": "这是我主要的工作。", "en": "This is my primary job.", "vi": "Đây là công việc chính của tôi." }
+        ]
+      }
+    ],
+    "practice": [
+      {
+        "question": { "en": "Where does '都' (all) usually go in a sentence?", "vi": "Từ '都' (đều) thường đứng ở đâu trong câu?" },
+        "options": ["A. Before the subject", "B. After the subject, before the verb", "C. At the end of the sentence", "D. Before the adjective only"],
+        "answer": "B"
+      },
+      {
+        "question": { "en": "Translate 'The whole world':", "vi": "Dịch cụm từ 'Toàn thế giới':" },
+        "options": ["A. 都世界", "B. 全世界", "C. 每一个世界", "D. 没世界"],
+        "answer": "B"
+      },
+      {
+        "question": { "en": "What is the meaning of '大家'?", "vi": "Nghĩa của '大家' là gì?" },
+        "options": ["A. Family", "B. Big house", "C. Everyone", "D. Teacher"],
+        "answer": "C"
+      }
+    ]
+  },
+  {
+    "hsk_level": 2,
+    "lesson_id": "L24",
+    "theme": {
+      "en": "Small Changes",
+      "vi": "Chút thay đổi"
+    },
+    "story": [
+      {
+        "zh": "请等一下，我要休息一会儿。",
+        "pinyin": "Qǐng děng yīxià, wǒ yào xiūxi yīhuìr.",
+        "en": "Please wait a moment; I want to rest for a while.",
+        "vi": "Vui lòng đợi một chút, tôi muốn nghỉ ngơi một lát.",
+        "segments": [
+          { "id": "w1", "zh": "请", "pinyin": "qǐng" },
+          { "id": "w2", "zh": "等一下", "pinyin": "děng yīxià" },
+          { "id": "w3", "zh": "我", "pinyin": "wǒ" },
+          { "id": "w4", "zh": "要", "pinyin": "yào" },
+          { "id": "w5", "zh": "休息", "pinyin": "xiūxi" },
+          { "id": "w6", "zh": "一会儿", "pinyin": "yīhuìr" }
+        ]
+      },
+      {
+        "zh": "一下子变冷了，你应该多穿点儿衣服。",
+        "pinyin": "Yīxiàzi biàn lěng le, nǐ yīnggāi duō chuān diǎnr yīfu.",
+        "en": "It suddenly became cold; you should wear more clothes.",
+        "vi": "Bỗng chốc trở lạnh rồi, bạn nên mặc thêm nhiều quần áo một chút.",
+        "segments": [
+          { "id": "w7", "zh": "一下子", "pinyin": "yīxiàzi" },
+          { "id": "w8", "zh": "变", "pinyin": "biàn" },
+          { "id": "w9", "zh": "冷", "pinyin": "lěng" },
+          { "id": "w10", "zh": "了", "pinyin": "le" },
+          { "id": "w11", "zh": "你", "pinyin": "nǐ" },
+          { "id": "w12", "zh": "应该", "pinyin": "yīnggāi" },
+          { "id": "w13", "zh": "多穿", "pinyin": "duō chuān" },
+          { "id": "w14", "zh": "点儿", "pinyin": "diǎnr" },
+          { "id": "w15", "zh": "衣服", "pinyin": "yīfu" }
+        ]
+      }
+    ],
+    "grammar": [
+      {
+        "title": { "en": "yīhuìr vs yīxià", "vi": "yīhuìr và yīxià" },
+        "point": "'一会儿' (yīhuìr) refers to a short duration of time. '一下' (yīxià) refers to doing a verb once or for a very brief moment. '一下子' (yīxiàzi) means 'suddenly/all of a sudden'.",
+        "hsk_ref": "初-一会儿(yīhuìr) vs 一下(yīxià) vs 一下子(yīxiàzi)"
+      }
+    ],
+    "vocabulary_inventory": [
+      {
+        "id": 700,
+        "zh": "一会儿",
+        "pinyin": "yīhuìr",
+        "en": "a while / a moment",
+        "vi": "một lát / một lúc",
+        "hsk": 2,
+        "examples": [
+          { "zh": "等一会儿。", "en": "Wait a while.", "vi": "Đợi một lát." },
+          { "zh": "我看一会儿书。", "en": "I'll read for a while.", "vi": "Tôi xem sách một lúc." }
+        ]
+      },
+      {
+        "id": 25,
+        "zh": "变",
+        "pinyin": "biàn",
+        "en": "to change / become",
+        "vi": "thay đổi / trở nên",
+        "hsk": 2,
+        "examples": [
+          { "zh": "天气变热了。", "en": "The weather has become hot.", "vi": "Thời tiết trở nên nóng rồi." },
+          { "zh": "他变了很多。", "en": "He has changed a lot.", "vi": "Anh ấy đã thay đổi rất nhiều." }
+        ]
+      }
+    ],
+    "practice": [
+      {
+        "question": { "en": "Which word means 'suddenly' or 'all of a sudden'?", "vi": "Từ nào nghĩa là 'bỗng chốc' hoặc 'đột ngột'?" },
+        "options": ["A. 一下", "B. 一会儿", "C. 一下子", "D. 一次"],
+        "answer": "C"
+      },
+      {
+        "question": { "en": "How do you say 'rest for a while'?", "vi": "Nói 'nghỉ ngơi một lúc' như thế nào?" },
+        "options": ["A. 休息一下", "B. 休息一会儿", "C. 一下休息", "D. 一会儿休息"],
+        "answer": "B"
+      },
+      {
+        "question": { "en": "Translate 'to change':", "vi": "Dịch từ 'thay đổi':" },
+        "options": ["A. 办", "B. 变", "C. 找", "D. 给"],
+        "answer": "B"
+      }
+    ]
+  },
+  {
+    "hsk_level": 2,
+    "lesson_id": "L25",
+    "theme": {
+      "en": "Review & Graduation",
+      "vi": "Tổng kết & Tốt nghiệp"
+    },
+    "story": [
+      {
+        "zh": "我们已经学完了全部课程，今天是最后一节课。",
+        "pinyin": "Wǒmen yǐjīng xué wán le quánbù kèchéng, jīntiān shì zuìhòu yì jié kè.",
+        "en": "We have already finished the entire course; today is the last lesson.",
+        "vi": "Chúng ta đã học xong toàn bộ khóa học rồi, hôm nay là tiết học cuối cùng.",
+        "segments": [
+          { "id": "w1", "zh": "我们", "pinyin": "wǒmen" },
+          { "id": "w2", "zh": "已经", "pinyin": "yǐjīng" },
+          { "id": "w3", "zh": "学完", "pinyin": "xué wán" },
+          { "id": "w4", "zh": "全部", "pinyin": "quánbù" },
+          { "id": "w5", "zh": "课程", "pinyin": "kèchéng" },
+          { "id": "w6", "zh": "今天", "pinyin": "jīntiān" },
+          { "id": "w7", "zh": "最后", "pinyin": "zuìhòu" }
+        ]
+      },
+      {
+        "zh": "虽然学习很累，但是非常有意义。",
+        "pinyin": "Suīrán xuéxí hěn lèi, dànshì fēicháng yǒu yìyì.",
+        "en": "Although studying is tiring, it is very meaningful.",
+        "vi": "Tuy rằng học tập rất mệt, nhưng vô cùng có ý nghĩa.",
+        "segments": [
+          { "id": "w8", "zh": "虽然", "pinyin": "suīrán" },
+          { "id": "w9", "zh": "学习", "pinyin": "xuéxí" },
+          { "id": "w10", "zh": "累", "pinyin": "lèi" },
+          { "id": "w11", "zh": "但是", "pinyin": "dànshì" },
+          { "id": "w12", "zh": "非常", "pinyin": "fēicháng" },
+          { "id": "w13", "zh": "有意义", "pinyin": "yǒu yìyì" }
+        ]
+      },
+      {
+        "zh": "这一课的主要重点是复习常用词。",
+        "pinyin": "Zhè yí kè de zhǔyào zhòngdiǎn shì fùxí chángyòng cí.",
+        "en": "The main key point of this lesson is to review common words.",
+        "vi": "Trọng điểm chính của bài này là ôn tập các từ thường dùng.",
+        "segments": [
+          { "id": "w14", "zh": "主要", "pinyin": "zhǔyào" },
+          { "id": "w15", "zh": "重点", "pinyin": "zhòngdiǎn" },
+          { "id": "w16", "zh": "复习", "pinyin": "fùxí" },
+          { "id": "w17", "zh": "常用", "pinyin": "chángyòng" }
+        ]
+      }
+    ],
+    "grammar": [
+      {
+        "title": { "en": "Compound Sentence: Although... But...", "vi": "Câu phức: Tuy rằng... Nhưng..." },
+        "point": "Use '虽然 (suīrán) ... 但是 (dànshì) ...' to express contrast. Note: In Chinese, you MUST use both parts of the pair.",
+        "hsk_ref": "初-Compound Sentence Patterns (1)"
+      }
+    ],
+    "vocabulary_inventory": [
+      {
+        "id": 745,
+        "zh": "主要",
+        "pinyin": "zhǔyào",
+        "en": "main / primary",
+        "vi": "chủ yếu",
+        "hsk": 2,
+        "examples": [
+          { "zh": "这是主要的问题。", "en": "This is the main problem.", "vi": "Đây là vấn đề chủ yếu." },
+          { "zh": "主要重点是复习。", "en": "The main focus is review.", "vi": "Trọng điểm chính là ôn tập." }
+        ]
+      },
+      {
+        "id": 740,
+        "zh": "重点",
+        "pinyin": "zhòngdiǎn",
+        "en": "key point / focus",
+        "vi": "trọng điểm",
+        "hsk": 2,
+        "examples": [
+          { "zh": "请注意重点。", "en": "Please pay attention to the key points.", "vi": "Vui lòng chú ý vào trọng điểm." },
+          { "zh": "这一课的重点是什么？", "en": "What is the focus of this lesson?", "vi": "Trọng điểm của bài học này là gì?" }
+        ]
+      }
+    ],
+    "practice": [
+      {
+        "question": { "en": "Which pair is used to express 'Although... but...'?", "vi": "Cặp từ nào dùng để diễn đạt 'Tuy rằng... nhưng...'?" },
+        "options": ["A. 因为...所以...", "B. 虽然...但是...", "C. 不但...还...", "D. 如果...就..."],
+        "answer": "B"
+      },
+      {
+        "question": { "en": "Translate 'main/primary':", "vi": "Dịch từ 'chủ yếu':" },
+        "options": ["A. 真的", "B. 重点", "C. 主要", "D. 各种"],
+        "answer": "C"
+      },
+      {
+        "question": { "en": "What does '已经...了' indicate?", "vi": "'已经... rồi' biểu thị điều gì?" },
+        "options": ["A. Future action", "B. Action in progress", "C. Completed action", "D. Questioning"],
+        "answer": "C"
+      }
+    ]
+  }
+]
