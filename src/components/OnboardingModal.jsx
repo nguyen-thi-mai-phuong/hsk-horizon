@@ -16,7 +16,7 @@ export default function OnboardingModal({ onComplete, lang = 'en' }) {
     name: lang === 'vi' ? 'Tên của bạn' : 'Your name',
     namePlaceholder: lang === 'vi' ? 'Ví dụ: Minh, Lan' : 'e.g. John, Sarah',
     goal: lang === 'vi' ? 'Mục tiêu của bạn' : 'Your target goal',
-    goalPlaceholder: lang === 'vi' ? 'Ví dụ: Du học Ireland, làm việc tại SuccessHR' : 'e.g. Study in Ireland, work at SuccessHR',
+    goalPlaceholder: lang === 'vi' ? 'Ví dụ: Du học, giao tiếp trong công việc' : 'e.g. Study abroad, business communication',
     hobbies: lang === 'vi' ? 'Sở thích' : 'Hobbies',
     hobbiesPlaceholder: lang === 'vi' ? 'Ví dụ: bóng đá, âm nhạc, du lịch' : 'e.g. football, music, travel',
     skip: lang === 'vi' ? 'Bỏ qua' : 'Skip',
